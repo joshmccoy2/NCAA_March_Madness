@@ -7482,7 +7482,55 @@ a.anchor-link {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h1 id="NCAA-March-Madness-Tournament">NCAA March Madness Tournament<a class="anchor-link" href="#NCAA-March-Madness-Tournament">¶</a></h1>
+<h1 id="Jim-Haines-&amp;-Josh-McCoy">Jim Haines &amp; Josh McCoy<a class="anchor-link" href="#Jim-Haines-&amp;-Josh-McCoy">¶</a></h1><h1 id="Madness-of-March">Madness of March<a class="anchor-link" href="#Madness-of-March">¶</a></h1><h3 id="Project-Website"><a href="https://joshmccoy2.github.io/NCAA_March_Madness/">Project Website</a><a class="anchor-link" href="#Project-Website">¶</a></h3><h3 id="Project-Writeup"><a href="https://docs.google.com/document/d/1C9FaOyjY2SxX8GeMs-P5Bh7i4-NTTIAxikybMCfJDcQ/edit?usp=sharing">Project Writeup</a><a class="anchor-link" href="#Project-Writeup">¶</a></h3><h3 id="Pitch-Slide"><a href="https://docs.google.com/presentation/d/1rfwEKVtp47pwfxAcYXfq9TbwZCgx3hwdcOnqeyRasVI/edit?usp=sharing">Pitch Slide</a><a class="anchor-link" href="#Pitch-Slide">¶</a></h3>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=b8e907eb">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<h2 id="Collaboration-Plan">Collaboration Plan<a class="anchor-link" href="#Collaboration-Plan">¶</a></h2><p>For this project, we decided to setup a private Github repository to allow for collaboration. We plan to work together whenever possible, but we are also capabale of working independently of each other as long as we communicate and our work is well documented. We aim to meet multiple times a week to work on our project, but we can meet more often if necessary. We plan on using libraries like matplotlib and seaborn, we have used both of these already, and more in out final tutorial to make meaningful visualizations. In all, we hope to be able to work with each other and outside sources to determine the best model to predict March Maddnes Tournament winners.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=6e9e7765">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<h2 id="Project-overview-and-our-goals">Project overview and our goals<a class="anchor-link" href="#Project-overview-and-our-goals">¶</a></h2>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=32fd0bac">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<p>The main goal of our project is to outperform other competitors in the March Machine Learning Mania 2023 Kaggle competition. The goal of this competition is to create a model that can most accurately and confidently identify the winner of each game in the men's and women's NCAA basketball tournament. We also aim to eventually provide an interactive dashboard that will allow users to choose their own factors to see if they can outperform our design. This is a process that we would complete after participating in the competition.</p>
+<p>Since the data for the 2023 March Maddness competition has not yet been released, we are doing our ETL on data from the 2022 competition. Although there are some changes from 2022 (Brier score, combining men's and women's competition) the main process of ETL should be similar enough that it is valubale to us. Below we have included links to 3 previos competitions.</p>
+<p><a href="https://www.kaggle.com/competitions/mens-machine-learning-competition-2019">2019 Competition</a></p>
+<p><a href="https://www.kaggle.com/competitions/ncaam-march-mania-2021">2021 Competition</a></p>
+<p><a href="https://www.kaggle.com/competitions/mens-march-mania-2022">2022 Competition</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=57e228d0">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<h2 id="Step-1:-ETL">Step 1: ETL<a class="anchor-link" href="#Step-1:-ETL">¶</a></h2>
 </div>
 </div>
 </div>
@@ -7491,10 +7539,11 @@ a.anchor-link {
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [2]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [1]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">os</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="c1"># Import necessary libraries</span>
+<span class="kn">import</span> <span class="nn">os</span>
 <span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
 <span class="kn">import</span> <span class="nn">seaborn</span> <span class="k">as</span> <span class="nn">sns</span>
 <span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
@@ -7519,7 +7568,7 @@ a.anchor-link {
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [3]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [2]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="c1"># To do this we can look at regular season game stats</span>
@@ -7536,7 +7585,7 @@ a.anchor-link {
 </div>
 <div class="jp-OutputArea jp-Cell-outputArea">
 <div class="jp-OutputArea-child jp-OutputArea-executeResult">
-<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[3]:</div>
+<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[2]:</div>
 <div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/html" tabindex="0">
 <div>
 <style scoped="">
@@ -7868,7 +7917,7 @@ a.anchor-link {
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [11]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [3]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">detailed_results</span><span class="o">.</span><span class="n">dtypes</span>
@@ -7882,53 +7931,42 @@ a.anchor-link {
 </div>
 <div class="jp-OutputArea jp-Cell-outputArea">
 <div class="jp-OutputArea-child jp-OutputArea-executeResult">
-<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[11]:</div>
+<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[3]:</div>
 <div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain" tabindex="0">
-<pre>Season          int64
-DayNum          int64
-WTeamID         int64
-WScore          int64
-LTeamID         int64
-LScore          int64
-WLoc           object
-NumOT           int64
-WFGM            int64
-WFGA            int64
-WFGM3           int64
-WFGA3           int64
-WFTM            int64
-WFTA            int64
-WOR             int64
-WDR             int64
-WAst            int64
-WTO             int64
-WStl            int64
-WBlk            int64
-WPF             int64
-LFGM            int64
-LFGA            int64
-LFGM3           int64
-LFGA3           int64
-LFTM            int64
-LFTA            int64
-LOR             int64
-LDR             int64
-LAst            int64
-LTO             int64
-LStl            int64
-LBlk            int64
-LPF             int64
-SCOREDIFF       int64
-WFGPCT        float64
-W3PCT         float64
-WFTPCT        float64
-WORBCHANCE      int64
-WORPCT        float64
-LFGPCT        float64
-L3PCT         float64
-LFTPCT        float64
-LORBCHANCE      int64
-LORPCT        float64
+<pre>Season      int64
+DayNum      int64
+WTeamID     int64
+WScore      int64
+LTeamID     int64
+LScore      int64
+WLoc       object
+NumOT       int64
+WFGM        int64
+WFGA        int64
+WFGM3       int64
+WFGA3       int64
+WFTM        int64
+WFTA        int64
+WOR         int64
+WDR         int64
+WAst        int64
+WTO         int64
+WStl        int64
+WBlk        int64
+WPF         int64
+LFGM        int64
+LFGA        int64
+LFGM3       int64
+LFGA3       int64
+LFTM        int64
+LFTA        int64
+LOR         int64
+LDR         int64
+LAst        int64
+LTO         int64
+LStl        int64
+LBlk        int64
+LPF         int64
 dtype: object</pre>
 </div>
 </div>
@@ -7967,7 +8005,7 @@ dtype: object</pre>
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p>When you see W or L this stands for Winning or Losing team</p>
+<p>When you see W or L this stands for Winning or Losing team.</p>
 </div>
 </div>
 </div>
@@ -8017,7 +8055,7 @@ dtype: object</pre>
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [8]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [7]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="c1"># Create correlation graph to see how each feature affects the winning score difference</span>
@@ -8039,7 +8077,7 @@ dtype: object</pre>
 </div>
 <div class="jp-OutputArea jp-Cell-outputArea">
 <div class="jp-OutputArea-child jp-OutputArea-executeResult">
-<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[8]:</div>
+<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[7]:</div>
 <div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain" tabindex="0">
 <pre>&lt;Axes: &gt;</pre>
 </div>
@@ -8070,7 +8108,7 @@ dtype: object</pre>
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p>We can now take a more detailed look at the correlation between winner field goal % and score difference</p>
+<p>We can now take a more detailed look at the correlation between winner field goal % and score difference.</p>
 </div>
 </div>
 </div>
@@ -8079,7 +8117,7 @@ dtype: object</pre>
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [9]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [8]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">plt</span><span class="o">.</span><span class="n">figure</span><span class="p">(</span><span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">15</span><span class="p">,</span><span class="mi">15</span><span class="p">))</span>
@@ -8123,13 +8161,10 @@ dtype: object</pre>
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [10]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [9]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="c1"># detailed_tourney_data = 'MNCAATourneyDetailedResults.csv'</span>
-<span class="c1"># detailed_tourney_results = pd.read_csv(detailed_tourney_data)</span>
-
-<span class="n">plt</span><span class="o">.</span><span class="n">figure</span><span class="p">(</span><span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">15</span><span class="p">,</span><span class="mi">15</span><span class="p">))</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">plt</span><span class="o">.</span><span class="n">figure</span><span class="p">(</span><span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">15</span><span class="p">,</span><span class="mi">15</span><span class="p">))</span>
 <span class="n">sns</span><span class="o">.</span><span class="n">scatterplot</span><span class="p">(</span><span class="n">x</span><span class="o">=</span><span class="s1">'WORPCT'</span><span class="p">,</span> <span class="n">y</span><span class="o">=</span><span class="s1">'SCOREDIFF'</span><span class="p">,</span> <span class="n">data</span><span class="o">=</span><span class="n">detailed_results</span><span class="p">)</span>
 <span class="c1">#sns.relplot(x = 'Height', y = 'Weight', data=df)</span>
 
@@ -8165,17 +8200,605 @@ dtype: object</pre>
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=3df56277">
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=fbc72106">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<p>We can also take a look at detailed results from the actual tournament to see if there are any obvious differences from the regular season data. To do this we can replicate the above regular season analysis.</p>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell" id="cell-id=f2ae85c0">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [10]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span> 
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">detailed_tourney_data</span> <span class="o">=</span> <span class="s1">'MNCAATourneyDetailedResults.csv'</span>
+<span class="n">detailed_tourney_results</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="n">detailed_tourney_data</span><span class="p">)</span>
+<span class="n">detailed_tourney_results</span>
 </pre></div>
 </div>
+</div>
+</div>
+</div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child jp-OutputArea-executeResult">
+<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[10]:</div>
+<div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/html" tabindex="0">
+<div>
+<style scoped="">
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+<thead>
+<tr style="text-align: right;">
+<th></th>
+<th>Season</th>
+<th>DayNum</th>
+<th>WTeamID</th>
+<th>WScore</th>
+<th>LTeamID</th>
+<th>LScore</th>
+<th>WLoc</th>
+<th>NumOT</th>
+<th>WFGM</th>
+<th>WFGA</th>
+<th>...</th>
+<th>LFGA3</th>
+<th>LFTM</th>
+<th>LFTA</th>
+<th>LOR</th>
+<th>LDR</th>
+<th>LAst</th>
+<th>LTO</th>
+<th>LStl</th>
+<th>LBlk</th>
+<th>LPF</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>0</th>
+<td>2003</td>
+<td>134</td>
+<td>1421</td>
+<td>92</td>
+<td>1411</td>
+<td>84</td>
+<td>N</td>
+<td>1</td>
+<td>32</td>
+<td>69</td>
+<td>...</td>
+<td>31</td>
+<td>14</td>
+<td>31</td>
+<td>17</td>
+<td>28</td>
+<td>16</td>
+<td>15</td>
+<td>5</td>
+<td>0</td>
+<td>22</td>
+</tr>
+<tr>
+<th>1</th>
+<td>2003</td>
+<td>136</td>
+<td>1112</td>
+<td>80</td>
+<td>1436</td>
+<td>51</td>
+<td>N</td>
+<td>0</td>
+<td>31</td>
+<td>66</td>
+<td>...</td>
+<td>16</td>
+<td>7</td>
+<td>7</td>
+<td>8</td>
+<td>26</td>
+<td>12</td>
+<td>17</td>
+<td>10</td>
+<td>3</td>
+<td>15</td>
+</tr>
+<tr>
+<th>2</th>
+<td>2003</td>
+<td>136</td>
+<td>1113</td>
+<td>84</td>
+<td>1272</td>
+<td>71</td>
+<td>N</td>
+<td>0</td>
+<td>31</td>
+<td>59</td>
+<td>...</td>
+<td>28</td>
+<td>14</td>
+<td>21</td>
+<td>20</td>
+<td>22</td>
+<td>11</td>
+<td>12</td>
+<td>2</td>
+<td>5</td>
+<td>18</td>
+</tr>
+<tr>
+<th>3</th>
+<td>2003</td>
+<td>136</td>
+<td>1141</td>
+<td>79</td>
+<td>1166</td>
+<td>73</td>
+<td>N</td>
+<td>0</td>
+<td>29</td>
+<td>53</td>
+<td>...</td>
+<td>17</td>
+<td>12</td>
+<td>17</td>
+<td>14</td>
+<td>17</td>
+<td>20</td>
+<td>21</td>
+<td>6</td>
+<td>6</td>
+<td>21</td>
+</tr>
+<tr>
+<th>4</th>
+<td>2003</td>
+<td>136</td>
+<td>1143</td>
+<td>76</td>
+<td>1301</td>
+<td>74</td>
+<td>N</td>
+<td>1</td>
+<td>27</td>
+<td>64</td>
+<td>...</td>
+<td>21</td>
+<td>15</td>
+<td>20</td>
+<td>10</td>
+<td>26</td>
+<td>16</td>
+<td>14</td>
+<td>5</td>
+<td>8</td>
+<td>19</td>
+</tr>
+<tr>
+<th>...</th>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<th>1176</th>
+<td>2021</td>
+<td>148</td>
+<td>1211</td>
+<td>85</td>
+<td>1425</td>
+<td>66</td>
+<td>N</td>
+<td>0</td>
+<td>33</td>
+<td>66</td>
+<td>...</td>
+<td>15</td>
+<td>14</td>
+<td>19</td>
+<td>7</td>
+<td>20</td>
+<td>9</td>
+<td>9</td>
+<td>7</td>
+<td>0</td>
+<td>13</td>
+</tr>
+<tr>
+<th>1177</th>
+<td>2021</td>
+<td>148</td>
+<td>1417</td>
+<td>51</td>
+<td>1276</td>
+<td>49</td>
+<td>N</td>
+<td>0</td>
+<td>21</td>
+<td>54</td>
+<td>...</td>
+<td>11</td>
+<td>6</td>
+<td>11</td>
+<td>8</td>
+<td>24</td>
+<td>12</td>
+<td>14</td>
+<td>5</td>
+<td>3</td>
+<td>11</td>
+</tr>
+<tr>
+<th>1178</th>
+<td>2021</td>
+<td>152</td>
+<td>1124</td>
+<td>78</td>
+<td>1222</td>
+<td>59</td>
+<td>N</td>
+<td>0</td>
+<td>29</td>
+<td>55</td>
+<td>...</td>
+<td>19</td>
+<td>11</td>
+<td>16</td>
+<td>13</td>
+<td>12</td>
+<td>10</td>
+<td>10</td>
+<td>4</td>
+<td>5</td>
+<td>10</td>
+</tr>
+<tr>
+<th>1179</th>
+<td>2021</td>
+<td>152</td>
+<td>1211</td>
+<td>93</td>
+<td>1417</td>
+<td>90</td>
+<td>N</td>
+<td>1</td>
+<td>37</td>
+<td>63</td>
+<td>...</td>
+<td>17</td>
+<td>14</td>
+<td>21</td>
+<td>7</td>
+<td>24</td>
+<td>21</td>
+<td>9</td>
+<td>4</td>
+<td>1</td>
+<td>16</td>
+</tr>
+<tr>
+<th>1180</th>
+<td>2021</td>
+<td>154</td>
+<td>1124</td>
+<td>86</td>
+<td>1211</td>
+<td>70</td>
+<td>N</td>
+<td>0</td>
+<td>30</td>
+<td>67</td>
+<td>...</td>
+<td>17</td>
+<td>15</td>
+<td>21</td>
+<td>1</td>
+<td>16</td>
+<td>16</td>
+<td>14</td>
+<td>4</td>
+<td>3</td>
+<td>17</td>
+</tr>
+</tbody>
+</table>
+<p>1181 rows × 34 columns</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell" id="cell-id=ff269fd9">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [11]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="n">detailed_tourney_results</span><span class="o">.</span><span class="n">dtypes</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child jp-OutputArea-executeResult">
+<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[11]:</div>
+<div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain" tabindex="0">
+<pre>Season      int64
+DayNum      int64
+WTeamID     int64
+WScore      int64
+LTeamID     int64
+LScore      int64
+WLoc       object
+NumOT       int64
+WFGM        int64
+WFGA        int64
+WFGM3       int64
+WFGA3       int64
+WFTM        int64
+WFTA        int64
+WOR         int64
+WDR         int64
+WAst        int64
+WTO         int64
+WStl        int64
+WBlk        int64
+WPF         int64
+LFGM        int64
+LFGA        int64
+LFGM3       int64
+LFGA3       int64
+LFTM        int64
+LFTA        int64
+LOR         int64
+LDR         int64
+LAst        int64
+LTO         int64
+LStl        int64
+LBlk        int64
+LPF         int64
+dtype: object</pre>
+</div>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=bb0aae7b">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [12]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="c1"># Create variable for amount by which winning team wins</span>
+<span class="n">detailed_tourney_results</span><span class="p">[</span><span class="s1">'SCOREDIFF'</span><span class="p">]</span> <span class="o">=</span> <span class="n">detailed_tourney_results</span><span class="p">[</span><span class="s1">'WScore'</span><span class="p">]</span> <span class="o">-</span> <span class="n">detailed_tourney_results</span><span class="p">[</span><span class="s1">'LScore'</span><span class="p">]</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=71094e89">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [13]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="c1"># Winner stats</span>
+<span class="n">detailed_tourney_results</span><span class="o">.</span><span class="n">dtypes</span>
+<span class="n">detailed_tourney_results</span><span class="p">[</span><span class="s1">'WFGPCT'</span><span class="p">]</span> <span class="o">=</span> <span class="n">detailed_tourney_results</span><span class="p">[</span><span class="s1">'WFGM'</span><span class="p">]</span><span class="o">/</span><span class="n">detailed_tourney_results</span><span class="p">[</span><span class="s1">'WFGA'</span><span class="p">]</span>       <span class="c1"># field goal pt completion %</span>
+<span class="n">detailed_tourney_results</span><span class="p">[</span><span class="s1">'W3PCT'</span><span class="p">]</span> <span class="o">=</span> <span class="n">detailed_tourney_results</span><span class="p">[</span><span class="s1">'WFGM3'</span><span class="p">]</span><span class="o">/</span><span class="n">detailed_tourney_results</span><span class="p">[</span><span class="s1">'WFGA3'</span><span class="p">]</span>      <span class="c1"># 3 pt completion %</span>
+<span class="n">detailed_tourney_results</span><span class="p">[</span><span class="s1">'WFTPCT'</span><span class="p">]</span> <span class="o">=</span> <span class="n">detailed_tourney_results</span><span class="p">[</span><span class="s1">'WFTM'</span><span class="p">]</span><span class="o">/</span><span class="n">detailed_tourney_results</span><span class="p">[</span><span class="s1">'WFTA'</span><span class="p">]</span>       <span class="c1"># free throw completion %</span>
+
+<span class="n">detailed_tourney_results</span><span class="p">[</span><span class="s1">'WORBCHANCE'</span><span class="p">]</span> <span class="o">=</span>  <span class="n">detailed_tourney_results</span><span class="p">[</span><span class="s1">'WOR'</span><span class="p">]</span> <span class="o">+</span> <span class="n">detailed_tourney_results</span><span class="p">[</span><span class="s1">'LDR'</span><span class="p">]</span>  <span class="c1"># total potential rebounds</span>
+<span class="n">detailed_tourney_results</span><span class="p">[</span><span class="s1">'WORPCT'</span><span class="p">]</span> <span class="o">=</span> <span class="n">detailed_tourney_results</span><span class="p">[</span><span class="s1">'WOR'</span><span class="p">]</span><span class="o">/</span><span class="n">detailed_tourney_results</span><span class="p">[</span><span class="s1">'WORBCHANCE'</span><span class="p">]</span>  <span class="c1"># rebound completion %</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=765eab84">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [14]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="c1"># Losing stats</span>
+<span class="n">detailed_tourney_results</span><span class="p">[</span><span class="s1">'LFGPCT'</span><span class="p">]</span> <span class="o">=</span> <span class="n">detailed_tourney_results</span><span class="p">[</span><span class="s1">'LFGM'</span><span class="p">]</span><span class="o">/</span><span class="n">detailed_tourney_results</span><span class="p">[</span><span class="s1">'LFGA'</span><span class="p">]</span>       
+<span class="n">detailed_tourney_results</span><span class="p">[</span><span class="s1">'L3PCT'</span><span class="p">]</span> <span class="o">=</span> <span class="n">detailed_tourney_results</span><span class="p">[</span><span class="s1">'LFGM3'</span><span class="p">]</span><span class="o">/</span><span class="n">detailed_tourney_results</span><span class="p">[</span><span class="s1">'LFGA3'</span><span class="p">]</span>
+<span class="n">detailed_tourney_results</span><span class="p">[</span><span class="s1">'LFTPCT'</span><span class="p">]</span> <span class="o">=</span> <span class="n">detailed_tourney_results</span><span class="p">[</span><span class="s1">'LFTM'</span><span class="p">]</span><span class="o">/</span><span class="n">detailed_tourney_results</span><span class="p">[</span><span class="s1">'LFTA'</span><span class="p">]</span>
+
+<span class="n">detailed_tourney_results</span><span class="p">[</span><span class="s1">'LORBCHANCE'</span><span class="p">]</span> <span class="o">=</span>  <span class="n">detailed_tourney_results</span><span class="p">[</span><span class="s1">'LOR'</span><span class="p">]</span> <span class="o">+</span> <span class="n">detailed_tourney_results</span><span class="p">[</span><span class="s1">'WDR'</span><span class="p">]</span>
+<span class="n">detailed_tourney_results</span><span class="p">[</span><span class="s1">'LORPCT'</span><span class="p">]</span> <span class="o">=</span> <span class="n">detailed_tourney_results</span><span class="p">[</span><span class="s1">'LOR'</span><span class="p">]</span><span class="o">/</span><span class="n">detailed_tourney_results</span><span class="p">[</span><span class="s1">'LORBCHANCE'</span><span class="p">]</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell" id="cell-id=e1c4c784">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [15]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="c1"># Create correlation graph to see how each feature affects the winning score difference</span>
+
+<span class="n">plt</span><span class="o">.</span><span class="n">rc</span><span class="p">(</span><span class="s1">'figure'</span><span class="p">,</span> <span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">10</span><span class="p">,</span> <span class="mi">5</span><span class="p">))</span>
+<span class="n">tmp</span> <span class="o">=</span> <span class="n">detailed_tourney_results</span><span class="p">[(</span><span class="n">detailed_tourney_results</span><span class="p">[</span><span class="s1">'SCOREDIFF'</span><span class="p">]</span><span class="o">&gt;</span><span class="mi">6</span><span class="p">)</span><span class="o">&amp;</span><span class="p">(</span><span class="n">detailed_tourney_results</span><span class="p">[</span><span class="s1">'NumOT'</span><span class="p">]</span><span class="o">==</span><span class="mi">0</span><span class="p">)]</span>
+<span class="n">tmp</span> <span class="o">=</span> <span class="n">tmp</span><span class="o">.</span><span class="n">apply</span><span class="p">(</span><span class="n">pd</span><span class="o">.</span><span class="n">to_numeric</span><span class="p">,</span> <span class="n">errors</span><span class="o">=</span><span class="s1">'coerce'</span><span class="p">)</span>
+<span class="n">corr</span> <span class="o">=</span> <span class="n">tmp</span><span class="o">.</span><span class="n">corr</span><span class="p">()</span>
+<span class="n">corr</span> <span class="o">=</span> <span class="n">corr</span><span class="p">[</span><span class="n">corr</span><span class="o">.</span><span class="n">index</span><span class="o">.</span><span class="n">isin</span><span class="p">([</span><span class="s1">'SCOREDIFF'</span><span class="p">])]</span>
+<span class="n">sns</span><span class="o">.</span><span class="n">heatmap</span><span class="p">(</span><span class="n">corr</span><span class="p">[[</span><span class="s1">'WFGPCT'</span><span class="p">,</span> <span class="s1">'W3PCT'</span><span class="p">,</span> <span class="s1">'WFTPCT'</span><span class="p">,</span> <span class="s1">'WORPCT'</span><span class="p">,</span> <span class="s1">'LFGPCT'</span><span class="p">,</span> <span class="s1">'L3PCT'</span><span class="p">,</span> 
+                  <span class="s1">'LFTPCT'</span><span class="p">,</span> <span class="s1">'LORPCT'</span><span class="p">]],</span> <span class="n">annot</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child jp-OutputArea-executeResult">
+<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[15]:</div>
+<div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain" tabindex="0">
+<pre>&lt;Axes: &gt;</pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedImage jp-OutputArea-output" tabindex="0">
+<img alt="No description has been provided for this image" class="" src="data:image/png;base64,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NMk4depURXfFVBg35zFmZcO4OY8xKxvGzXmMWdkwbu7t2LFjxtChQ42AgAAjMDDQiI6ONrKysmzv79+/35BkLFu2zDAMw0hMTDRuvvlmo0aNGoaXl5dRp04d44477jDi4+OdPrbFMEwwsWkFyczMVFBQkDIyMhQYGFjR3TENxs15jFnZMG7OY8zKhnFzHmNWNowbygvlPQAAAICbI+gHAAAA3BxBPwAAAODmCPrPw8fHR5MmTSr1PK04jXFzHmNWNoyb8xizsmHcnMeYlQ3jhvLCjbwAAACAmyPTDwAAALg5gn4AAADAzRH0AwAAAG6OoB8AAABwcwT9AAAAgJszVdA/a9YsValSRQUFBbZ1J06ckJeXl7p3727Xdvny5bJYLNq7d68iIiJksVjsljp16ti137RpkwYPHqyaNWvKx8dH9evXV9++ffXtt9/qzARHCQkJdvuoXr26evTooU2bNtnta8+ePYqOjladOnXk4+OjBg0aaOjQoVq/fr3ee++9In3555KQkFAu43euso7lPffco8jISPn5+Sk0NFT9+vVTfHy8ra07jZHk+s/c5MmTHZ6bJI0cOdL22tvbW40aNdLTTz9t1w/DMPT222+rY8eOCggIUHBwsNq3b69XXnlFJ0+eLLYP5y4jR468JMZKklatWqXevXuratWq8vX11ZVXXqmXXnpJhYWFdtud2//AwEBdffXV+vrrr+3anPv58fDwUJ06dRQdHa2UlBS7dsuWLVPv3r1VvXp1+fv7q0WLFho3bpwSExPtxr+4JSIiwnUD9w8jR45U//79i32Pa5lzzjeWl9u17HzK8plz52vZ+ZxvrHJycjRp0iQ1adJEPj4+CgkJ0e23365t27bZtTt37Dw9PVW3bl2NGTNGaWlpdu3OPe/KlSvrqquu0meffWbXJjMzU08++aSaNWsmX19fhYeHKyoqSl9++aX279/v8N/ovffec+Xw4FJnmEh8fLwhyVi9erVt3ffff2/UqVPH8PX1NXJycmzrJ06caNSrV88wDMOoX7++8fTTTxtHjhyxLSkpKba2CxcuNLy9vY3evXsbixcvNvbu3Wts377deOedd4xWrVoZx48fNwzDMPbv329IMn766SfjyJEjxrp164zOnTsbYWFhtjbr1q0zAgMDjS5duhiLFi0y9uzZY2zatMmYPHmy0bVrV+PkyZN2/ejc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ZSUpbqzuvPNOdejQQbfccos+++wzHTx4UOvWrdOAAQO0Y8cOvfvuu+ctK+zcubNatWqlqVOnlrofU6ZMUd26ddWxY0d98MEH2r59u3bv3q05c+aobdu2OnHihCtOF27EdOU90umgIicnR82aNVNYWJhtfbdu3ZSVlaWmTZs69bX9rbfeqlWrVum5557T8OHDlZaWpqCgILVv316ffPKJ+vbtW+p9dejQQevXr9eUKVM0evRopaamqmbNmurSpYteeeUVZ07zonBmLH19ffXrr7/qlVde0fHjxxUWFqauXbtq1apVdqUVjphtjCTXf+YulMVi0fz58/X2229rzpw5mjJliipVqqTGjRtr+PDh6tmz50Xryz85O1YDBw7UsmXLNGXKFF133XU6deqUGjdurCeffFIPP/yww/r7Xr16qUGDBpoyZYpmzpxZqj7ef//9atKkiaZPn65bb71VOTk5ioiIUN++fRUTE1O2E3eh5cuXFykZGTVqlMPtLudrWUmKG8vo6GglJSVdlteykpT1M3ehLuVrWUlKGquff/5ZU6dO1RNPPKEDBw6oSpUquv766/X777+rZcuWDvf7yCOPaOTIkXr88cfPO4vUGdWqVdPvv/+uadOm6dlnn9WBAwdUtWpVXXnllXrhhRdMM/MRLh6L4U530QAAAAAowpTlPQAAAABKj6AfAAAAcHME/QAAAICbI+gHAAAA3BxBPwAAAODmCPoBAAAAN0fQDwAAALg5gn4AAADAzRH0AwAAAG6OoB8AAABwcwT9AAAAgJv7fwHJB0P/ZAAlAAAAAElFTkSuQmCC"/>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=40204af2">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<p>From this analysis we can see that the correlations from regualar season and those from the tournament are very similar. This is something we would expect, but we hope to identify some features that are more indicative of a teams performance in the tournament as opposed to the regular season.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=cb4a3d1d">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<h1 id="Questions-We-Plan-to-Explore">Questions We Plan to Explore<a class="anchor-link" href="#Questions-We-Plan-to-Explore">¶</a></h1>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=3a9ce4ae">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<p>Data Exploration &amp; Visualization:
+How are the teams distributed by region, conference, or seeding?
+Can we visualize the historical performance of teams in the tournament?
+What are the most common upset scenarios based on historical data?</p>
+<p>Feature Engineering:
+Which features are the most predictive of a team's success in the tournament?
+Can we generate new features based on team stats, like offensive/defensive efficiency, to improve model performance?
+How can we incorporate player-specific data or injuries into our model?</p>
+<p>Model Selection &amp; Evaluation:
+Which algorithms perform best for this prediction task? Logistic regression? Random forests? Gradient boosted trees?
+How do different algorithms handle the class imbalance inherent in a tournament bracket?
+How do we measure the performance of our model? Accuracy? Log-loss?</p>
+<p>Game Theory and Strategy:
+How can we optimize our bracket for a specific competition scoring system?
+What are the strategies for differentiating our predictions in large pools to maximize the chance of winning?</p>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=1d66883b">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<h1 id="Next-Steps">Next Steps<a class="anchor-link" href="#Next-Steps">¶</a></h1>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=c4cfbd70">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<ol>
+<li>Explore Kaggle Datasets:
+Dive deeper into the Detailed Games CSV.
+Conduct exploratory data analysis (EDA) to understand the data better.
+Identify and address missing or inconsistent data.
+Refine research questions based on initial insights.</li>
+<li>Incorporate External Data:
+Find reliable sources for high school rankings and player ages.
+Develop web scraping scripts to gather this data.
+Clean and align scraped data with Kaggle datasets.
+Merge the new data with existing datasets using common identifiers.</li>
+<li>Data Integration and Transformation:
+Ensure data compatibility between sources.
+Handle data conflicts or discrepancies.
+Calculate summary statistics or create relevant features.
+Prepare data for specific analyses.</li>
+<li>EDA
+Revisit EDA with the enriched dataset.
+Visualize relationships and patterns.
+Adjust research questions based on new insights.</li>
+<li>Model Development:
+Choose appropriate modeling techniques.
+Split data into training and testing sets.
+Develop and refine models.
+Evaluate model performance.</li>
+<li>Documentation and Reporting:
+Maintain detailed records and organized GitHub repository.
+Create clear visualizations and summaries.
+Communicate findings effectively.</li>
+</ol>
 </div>
 </div>
 </div>
