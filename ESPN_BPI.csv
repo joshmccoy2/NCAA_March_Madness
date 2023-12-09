@@ -1,0 +1,3820 @@
+Rk,Team,Conf,W-L,BPI Off,BPI Def,BPI,Year
+1,Kansas,Big 12,37-3,12.4,9.6,21.9,2008
+2,North Carolina,ACC,36-3,19.2,1.0,20.2,2008
+3,Memphis,C-USA,38-2,11.3,8.0,19.3,2008
+4,UCLA,Pac-12,35-4,7.9,10.9,18.9,2008
+5,Duke,ACC,28-6,13.8,4.3,18.2,2008
+6,Georgetown,Big East,28-6,4.3,12.9,17.2,2008
+7,West Virginia,Big East,26-11,8.9,7.7,16.6,2008
+8,Wisconsin,Big Ten,31-5,2.1,14.4,16.5,2008
+9,Tennessee,SEC,31-5,13.3,2.8,16.1,2008
+10,Louisville,Big East,27-9,7.1,9.1,16.1,2008
+11,Davidson,Southern,29-7,9.5,5.3,14.8,2008
+12,Clemson,ACC,24-10,10.2,4.5,14.7,2008
+13,Washington St.,Pac-12,26-9,1.1,13.2,14.3,2008
+14,Xavier,A 10,30-7,7.9,6.4,14.3,2008
+15,Marquette,Big East,25-10,8.3,5.9,14.2,2008
+16,Stanford,Pac-12,28-8,5.5,8.6,14.1,2008
+17,Texas,Big 12,31-7,9.4,4.3,13.7,2008
+18,Michigan St.,Big Ten,27-9,5.8,7.8,13.6,2008
+19,Pittsburgh,Big East,27-10,7.2,6.0,13.3,2008
+20,Indiana,Big Ten,25-8,8.5,4.1,12.6,2008
+21,Butler,Horizon,30-4,3.3,9.2,12.5,2008
+22,Connecticut,Big East,24-9,8.5,3.8,12.3,2008
+23,Texas A&M,Big 12,25-11,4.1,8.2,12.3,2008
+24,Notre Dame,Big East,25-8,10.6,1.6,12.2,2008
+25,USC,Pac-12,21-12,4.9,7.1,12.0,2008
+26,Ohio St.,Big Ten,24-13,3.6,8.2,11.8,2008
+27,Gonzaga,WCC,25-8,8.1,2.9,11.0,2008
+28,Mississippi St.,SEC,23-11,5.5,5.5,11.0,2008
+29,Arizona,Pac-12,19-15,6.6,4.1,10.7,2008
+30,Florida,SEC,24-12,8.1,2.5,10.6,2008
+31,Miami FL,ACC,23-11,8.1,2.2,10.4,2008
+32,Drake,MVC,28-5,5.4,4.9,10.3,2008
+33,Purdue,Big Ten,25-9,3.9,6.0,9.9,2008
+34,Oregon,Pac-12,18-14,11.0,-1.1,9.9,2008
+35,Virginia Tech,ACC,21-14,2.4,7.4,9.8,2008
+36,Arkansas,SEC,23-12,5.5,4.1,9.7,2008
+37,Kansas St.,Big 12,21-12,8.6,1.1,9.6,2008
+38,Syracuse,Big East,21-14,10.1,-0.6,9.6,2008
+39,Oklahoma,Big 12,23-12,2.6,6.9,9.5,2008
+40,Saint Joseph's,A 10,21-13,6.1,3.2,9.3,2008
+41,Mississippi,SEC,24-11,10.1,-0.7,9.3,2008
+42,New Mexico,MW,24-9,5.2,4.1,9.3,2008
+43,Georgia Tech,ACC,15-17,9.8,-0.5,9.2,2008
+44,Missouri,Big 12,16-16,10.1,-1.0,9.1,2008
+45,Villanova,Big East,22-13,5.6,3.4,9.0,2008
+46,VCU,CAA,24-8,0.4,8.6,9.0,2008
+47,Saint Mary's,WCC,25-7,5.1,3.9,9.0,2008
+48,UNLV,MW,27-8,2.6,6.0,8.6,2008
+49,Vanderbilt,SEC,26-8,10.0,-1.6,8.4,2008
+50,Maryland,ACC,19-15,5.9,2.4,8.3,2008
+51,Florida St.,ACC,19-15,4.4,3.9,8.3,2008
+52,BYU,MW,27-8,4.6,3.6,8.2,2008
+53,Western Kentucky,Sun Belt,29-7,7.5,0.6,8.2,2008
+54,Illinois,Big Ten,16-19,-0.7,8.8,8.1,2008
+55,Rhode Island,A 10,21-12,11.0,-3.1,7.8,2008
+56,Baylor,Big 12,21-11,12.6,-4.8,7.8,2008
+57,Massachusetts,A 10,25-11,11.3,-3.5,7.8,2008
+58,Minnesota,Big Ten,20-14,3.2,4.4,7.6,2008
+59,Kent St.,MAC E,28-7,1.8,5.8,7.6,2008
+60,Nebraska,Big 12,20-13,-0.5,8.0,7.5,2008
+61,Duquesne,A 10,17-13,11.1,-3.7,7.4,2008
+62,Kentucky,SEC,18-13,1.0,6.4,7.4,2008
+63,Arizona St.,Pac-12,21-13,0.5,6.7,7.1,2008
+64,Dayton,A 10,23-11,2.2,4.9,7.1,2008
+65,Wake Forest,ACC,17-13,4.5,2.5,7.0,2008
+66,Temple,A 10,21-13,4.7,2.3,7.0,2008
+67,Washington,Pac-12,16-17,6.6,0.3,6.9,2008
+68,California,Pac-12,17-16,9.6,-2.7,6.9,2008
+69,Illinois St.,MVC,25-10,-1.6,8.5,6.9,2008
+70,UAB,C-USA,23-11,5.0,1.9,6.9,2008
+71,Houston,C-USA,24-10,8.4,-1.7,6.7,2008
+72,George Mason,CAA,23-11,2.0,4.8,6.7,2008
+73,Akron,MAC E,24-11,2.9,3.7,6.6,2008
+74,Virginia,ACC,17-16,7.8,-1.4,6.4,2008
+75,Creighton,MVC,22-11,4.2,2.1,6.3,2008
+76,South Alabama,Sun Belt,26-7,4.0,2.1,6.1,2008
+77,Southern Illinois,MVC,18-15,-2.6,8.6,6.0,2008
+78,Charlotte,A 10,20-14,2.2,3.8,6.0,2008
+79,IUPUI,Summit,26-7,3.8,2.1,6.0,2008
+80,Alabama,SEC,17-16,6.5,-0.5,6.0,2008
+81,Winthrop,Big South,22-12,-4.7,10.5,5.9,2008
+82,Providence,Big East,15-16,5.0,0.9,5.8,2008
+83,Utah,MW,18-15,1.5,4.2,5.6,2008
+84,Oral Roberts,Summit,24-9,-0.9,6.5,5.6,2008
+85,Georgia,SEC,17-17,0.4,4.9,5.3,2008
+86,South Carolina,SEC,14-18,4.0,1.2,5.2,2008
+87,Tulsa,C-USA,25-14,1.5,3.6,5.2,2008
+88,Siena,MAAC,23-11,6.1,-1.0,5.1,2008
+89,Oklahoma St.,Big 12,17-16,0.8,4.1,4.9,2008
+90,Texas Tech,Big 12,16-15,2.3,2.6,4.9,2008
+91,Miami (OH),MAC E,17-16,-3.2,8.1,4.9,2008
+92,Stephen F. Austin,Southland,26-6,-4.9,9.8,4.9,2008
+93,Cal St. Fullerton,Big West,24-9,9.6,-4.9,4.7,2008
+94,Western Michigan,MAC W,20-12,2.5,1.9,4.4,2008
+95,UNC Greensboro,Southern,19-12,1.9,2.4,4.3,2008
+96,Boston College,ACC,14-17,2.7,1.6,4.3,2008
+97,Old Dominion,CAA,18-16,-0.1,4.4,4.3,2008
+98,New Mexico St.,WAC,21-14,7.2,-2.9,4.3,2008
+99,UC Santa Barbara,Big West,23-9,0.3,3.9,4.3,2008
+100,Ohio,MAC E,20-13,1.0,3.2,4.2,2008
+101,San Diego St.,MW,20-13,-0.7,4.9,4.2,2008
+102,North Carolina St.,ACC,15-16,1.1,3.2,4.2,2008
+103,Missouri St.,MVC,17-16,1.2,2.8,4.0,2008
+104,Bradley,MVC,21-17,7.3,-3.3,3.9,2008
+105,Southern Miss,C-USA,19-14,2.0,1.9,3.9,2008
+106,UCF,C-USA,16-15,3.9,0.0,3.9,2008
+107,Cornell,Ivy,22-6,6.2,-2.5,3.6,2008
+108,UTEP,C-USA,19-14,6.5,-3.1,3.4,2008
+109,DePaul,Big East,19-Nov,5.8,-2.4,3.4,2008
+110,Seton Hall,Big East,17-15,8.5,-5.1,3.4,2008
+111,South Florida,Big East,19-Dec,1.4,1.9,3.3,2008
+112,North Dakota St.,Summit,16-13,6.1,-2.9,3.2,2008
+113,LSU,SEC,13-18,1.6,1.5,3.0,2008
+114,Cal St. Northridge,Big West,20-10,4.5,-1.5,3.0,2008
+115,Valparaiso,Horizon,22-14,2.6,0.4,3.0,2008
+116,Portland St.,Big Sky,23-10,3.8,-0.9,2.9,2008
+117,Cincinnati,Big East,13-19,-0.8,3.6,2.8,2008
+118,Robert Morris,NEC,26-8,3.5,-0.7,2.8,2008
+119,Brown,Ivy,19-10,-0.6,3.3,2.7,2008
+120,Wright St.,Horizon,21-10,-4.4,7.1,2.7,2008
+121,Belmont,A-Sun,25-9,6.8,-4.2,2.6,2008
+122,Sam Houston St.,Southland,23-8,-1.3,3.9,2.6,2008
+123,Cleveland St.,Horizon,21-13,-1.1,3.6,2.6,2008
+124,UIC,Horizon,18-15,1.3,1.3,2.5,2008
+125,Rider,MAAC,23-11,5.5,-3.0,2.5,2008
+126,Nevada,WAC,21-12,3.9,-1.4,2.4,2008
+127,Northern Iowa,MVC,18-14,-4.2,6.7,2.4,2008
+128,High Point,Big South,17-14,-1.6,4.1,2.4,2008
+129,Pacific,Big West,21-10,1.9,0.5,2.4,2008
+130,UMBC,Am. East,24-9,4.5,-2.2,2.3,2008
+131,Penn St.,Big Ten,15-16,0.6,1.6,2.2,2008
+132,Boise St.,WAC,25-9,8.3,-6.1,2.2,2008
+133,Lamar,Southland,19-11,7.6,-5.5,2.1,2008
+134,Auburn,SEC,14-16,2.7,-0.7,2.0,2008
+135,Utah St.,WAC,24-11,2.8,-0.8,2.0,2008
+136,San Diego,WCC,22-14,-1.7,3.7,2.0,2008
+137,Iowa St.,Big 12,14-18,-2.2,3.9,1.7,2008
+138,Marshall,C-USA,16-14,-1.0,2.6,1.6,2008
+139,St. John's,Big East,19-Nov,-4.0,5.5,1.5,2008
+140,Saint Louis,A 10,16-15,-5.9,7.4,1.5,2008
+141,Fordham,A 10,17-Dec,-2.8,4.2,1.4,2008
+142,North Texas,Sun Belt,20-11,3.7,-2.3,1.4,2008
+143,Indiana St.,MVC,15-16,-0.3,1.6,1.4,2008
+144,Appalachian St.,Southern,18-13,1.8,-0.5,1.3,2008
+145,UC Irvine,Big West,18-16,-1.0,2.3,1.3,2008
+146,Northeastern,CAA,14-17,-3.1,4.3,1.2,2008
+147,Niagara,MAAC,19-10,5.0,-3.9,1.1,2008
+148,Austin Peay,OVC,24-11,2.9,-1.8,1.1,2008
+149,Georgia Southern,Southern,20-12,3.3,-2.4,0.9,2008
+150,Green Bay,Horizon,15-15,2.3,-1.4,0.8,2008
+151,Oakland,Summit,17-14,5.3,-4.5,0.8,2008
+152,American,Patriot,21-12,-3.0,3.8,0.8,2008
+153,Tulane,C-USA,17-15,-2.8,3.6,0.7,2008
+154,Marist,MAAC,18-14,0.7,0.0,0.7,2008
+155,UNC Asheville,Big South,23-10,2.3,-1.6,0.7,2008
+156,Michigan,Big Ten,22-Oct,-1.4,2.1,0.7,2008
+157,Holy Cross,Patriot,15-14,-6.6,7.2,0.6,2008
+158,Albany,Am. East,15-15,-1.0,1.3,0.3,2008
+159,Wichita St.,MVC,20-Nov,-3.6,3.8,0.3,2008
+160,Chattanooga,Southern,18-13,4.2,-4.0,0.2,2008
+161,Richmond,A 10,16-15,-4.0,4.2,0.2,2008
+162,La Salle,A 10,15-17,5.3,-5.3,0.0,2008
+163,Vermont,Am. East,16-15,2.0,-2.0,0.0,2008
+164,Iowa,Big Ten,13-19,-9.7,9.7,0.0,2008
+165,Colorado,Big 12,20-Dec,-4.5,4.4,-0.1,2008
+166,Loyola MD,MAAC,19-14,2.2,-2.4,-0.2,2008
+167,UNC Wilmington,CAA,20-13,4.0,-4.2,-0.2,2008
+168,College of Charleston,Southern,16-17,2.4,-2.7,-0.3,2008
+169,Montana,Big Sky,14-16,0.1,-0.6,-0.4,2008
+170,George Washington,A 10,17-Sep,-3.1,2.7,-0.5,2008
+171,Mount St. Mary's,NEC,19-15,-2.2,1.7,-0.5,2008
+172,SE Louisiana,Southland,17-13,-4.5,3.9,-0.6,2008
+173,TCU,MW,14-16,-0.7,0.0,-0.7,2008
+174,East Tennessee St.,A-Sun,19-13,5.4,-6.1,-0.7,2008
+175,Morgan St.,MEAC,22-11,-2.5,1.8,-0.7,2008
+176,Santa Clara,WCC,15-16,-7.0,6.2,-0.8,2008
+177,Liberty,Big South,16-16,-2.5,1.6,-0.9,2008
+178,Central Michigan,MAC W,14-17,2.0,-2.9,-0.9,2008
+179,James Madison,CAA,13-17,3.4,-4.3,-0.9,2008
+180,Air Force,MW,16-14,-9.5,8.4,-1.1,2008
+181,Murray St.,OVC,18-13,-0.1,-1.1,-1.2,2008
+182,Yale,Ivy,13-15,-0.5,-0.8,-1.3,2008
+183,Milwaukee,Horizon,14-16,0.0,-1.3,-1.3,2008
+184,William & Mary,CAA,17-16,-5.4,4.1,-1.3,2008
+185,Lafayette,Patriot,15-15,5.4,-6.7,-1.3,2008
+186,New Orleans,Sun Belt,19-13,2.9,-4.3,-1.4,2008
+187,Gardner-Webb,A-Sun,16-16,3.8,-5.3,-1.5,2008
+188,Hampton,MEAC,18-12,-4.1,2.6,-1.5,2008
+189,UT Arlington,Sun Belt,21-12,0.8,-2.4,-1.5,2008
+190,Lipscomb,A-Sun,15-16,0.7,-2.3,-1.6,2008
+191,Northern Arizona,Big Sky,21-11,1.2,-2.9,-1.7,2008
+192,VMI,Southern,14-15,13.4,-15.1,-1.7,2008
+193,Arkansas Little Rock,Sun Belt,20-11,-5.9,4.2,-1.8,2008
+194,Fort Wayne,Summit,13-18,-0.3,-1.6,-1.8,2008
+195,Fresno St.,WAC,13-19,-1.3,-0.5,-1.9,2008
+196,Middle Tennessee,Sun Belt,17-15,-2.5,0.7,-1.9,2008
+197,Central Connecticut,NEC,14-16,-1.8,-0.2,-1.9,2008
+198,Navy,Patriot,16-14,4.6,-6.6,-2.0,2008
+199,Eastern Michigan,MAC W,14-17,-2.5,0.4,-2.1,2008
+200,Weber St.,Big Sky,16-14,-3.1,1.0,-2.1,2008
+201,Colgate,Patriot,18-14,-4.3,2.2,-2.1,2008
+202,Delaware,CAA,14-17,-3.0,0.8,-2.2,2008
+203,Sacred Heart,NEC,18-14,1.6,-3.9,-2.3,2008
+204,Rutgers,Big East,20-Nov,-5.2,2.9,-2.3,2008
+205,Loyola Chicago,Horizon,19-Dec,-5.6,3.2,-2.4,2008
+206,Wofford,Southern,16-16,-2.2,-0.3,-2.5,2008
+207,Hofstra,CAA,18-Dec,-0.6,-2.0,-2.5,2008
+208,Tenn-Martin,OVC,17-16,5.2,-7.9,-2.7,2008
+209,Boston University,Am. East,14-17,-5.9,3.0,-2.8,2008
+210,Northwestern,Big Ten,22-Aug,-3.6,0.7,-2.9,2008
+211,Utah Valley,Indep.,15-14,-1.8,-1.1,-2.9,2008
+212,Hawaii,WAC,19-Nov,-2.4,-0.6,-2.9,2008
+213,Binghamton,Am. East,14-16,-4.1,1.1,-3.0,2008
+214,LIU Brooklyn,NEC,15-15,0.7,-3.7,-3.0,2008
+215,Louisiana,Sun Belt,15-15,-5.1,2.1,-3.1,2008
+216,Columbia,Ivy,14-15,-5.0,1.9,-3.1,2008
+217,Fairfield,MAAC,14-16,-2.8,-0.4,-3.1,2008
+218,Wagner,NEC,23-8,-0.1,-3.2,-3.2,2008
+219,Tennessee Tech,OVC,13-19,1.9,-5.2,-3.2,2008
+220,Buffalo,MAC E,20-Oct,2.3,-5.5,-3.3,2008
+221,Toledo,MAC W,19-Nov,-6.9,3.5,-3.4,2008
+222,Florida Atlantic,Sun Belt,15-18,2.1,-5.8,-3.8,2008
+223,Towson,CAA,13-18,-2.9,-0.9,-3.8,2008
+224,Bowling Green,MAC E,13-17,-4.1,0.4,-3.8,2008
+225,Drexel,CAA,20-Dec,-7.8,4.0,-3.8,2008
+226,Quinnipiac,NEC,15-15,3.2,-7.1,-3.9,2008
+227,Elon,Southern,14-19,-6.8,2.9,-3.9,2008
+228,St. Bonaventure,A 10,22-Aug,-1.5,-2.5,-4.0,2008
+229,Nicholls St.,Southland,21-Oct,-4.0,0.0,-4.0,2008
+230,UL Monroe,Sun Belt,21-Oct,-0.1,-4.0,-4.1,2008
+231,McNeese St.,Southland,13-16,-5.7,1.6,-4.1,2008
+232,Montana St.,Big Sky,15-15,0.7,-4.8,-4.1,2008
+233,Tennessee St.,OVC,15-17,2.3,-6.4,-4.2,2008
+234,Bucknell,Patriot,19-Dec,-5.2,1.0,-4.2,2008
+235,Jacksonville,A-Sun,18-13,0.6,-4.8,-4.2,2008
+236,Iona,MAAC,20-Dec,-4.5,0.3,-4.2,2008
+237,Youngstown St.,Horizon,21-Sep,-2.3,-1.9,-4.3,2008
+238,Alabama St.,SWAC,20-11,-3.1,-1.2,-4.3,2008
+239,Eastern Kentucky,OVC,14-16,-8.3,4.0,-4.4,2008
+240,Hartford,Am. East,18-16,1.0,-5.4,-4.5,2008
+241,Lehigh,Patriot,14-15,-4.7,0.1,-4.5,2008
+242,Arkansas St.,Sun Belt,20-Oct,0.0,-4.6,-4.5,2008
+243,Manhattan,MAAC,19-Dec,-1.3,-3.3,-4.6,2008
+244,Ball St.,MAC W,24-Jun,-8.4,3.8,-4.6,2008
+245,Wyoming,MW,18-Dec,-0.4,-4.2,-4.7,2008
+246,Evansville,MVC,21-Sep,-6.5,1.7,-4.8,2008
+247,Pepperdine,WCC,21-Nov,3.8,-8.8,-5.0,2008
+248,Western Carolina,Southern,21-Oct,-4.3,-0.6,-5.0,2008
+249,Army,Patriot,14-16,-10.0,4.9,-5.1,2008
+250,New Hampshire,Am. East,20-Sep,-2.8,-2.3,-5.1,2008
+251,UT Rio Grande Valley,Indep.,18-13,-1.0,-4.3,-5.3,2008
+252,San Francisco,WCC,21-Oct,-2.2,-3.2,-5.4,2008
+253,Coastal Carolina,Sun Belt,13-15,-2.1,-3.3,-5.4,2008
+254,Eastern Washington,Big Sky,19-Nov,-5.5,0.0,-5.5,2008
+255,Georgia St.,CAA,21-Sep,-5.9,0.4,-5.5,2008
+256,East Carolina,C-USA,19-Nov,-1.2,-4.4,-5.5,2008
+257,Detroit,Horizon,23-Jul,-7.8,2.3,-5.5,2008
+258,Presbyterian,Indep.,25-May,-8.3,2.7,-5.6,2008
+259,Texas St.,Sun Belt,13-16,7.9,-13.7,-5.7,2008
+260,Cal Poly,Big West,18-Dec,-5.3,-0.7,-6.0,2008
+261,Troy,Sun Belt,19-Dec,4.4,-10.5,-6.0,2008
+262,Western Illinois,Summit,18-Dec,-3.9,-2.2,-6.1,2008
+263,Delaware St.,MEAC,14-16,-9.9,3.8,-6.1,2008
+264,Central Arkansas,Southland,14-16,-5.7,-0.4,-6.1,2008
+265,UMKC,Summit,21-Nov,-0.8,-5.4,-6.1,2008
+266,Texas A&M-CC,Southland,20-Sep,-5.2,-1.0,-6.2,2008
+267,San JosÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© St.,WAC,13-19,-2.8,-3.4,-6.2,2008
+268,Morehead St.,OVC,15-15,-6.7,0.4,-6.3,2008
+269,Oregon St.,Pac-12,25-Jun,-6.0,-0.2,-6.3,2008
+270,Samford,Southern,14-16,-10.6,4.2,-6.4,2008
+271,Campbell,A-Sun,20-Oct,-1.9,-4.7,-6.5,2008
+272,Northern Colorado,Big Sky,13-16,-2.0,-4.6,-6.6,2008
+273,Mercer,A-Sun,19-Nov,1.5,-8.2,-6.6,2008
+274,North Carolina A&T,MEAC,15-16,-1.6,-5.1,-6.7,2008
+275,Penn,Ivy,13-18,-1.4,-5.3,-6.7,2008
+276,Harvard,Ivy,22-Aug,-0.7,-6.1,-6.8,2008
+277,Stetson,A-Sun,16-16,-6.1,-0.7,-6.8,2008
+278,Norfolk St.,MEAC,16-15,-1.0,-5.8,-6.8,2008
+279,Saint Peter's,MAAC,24-Jun,-4.0,-3.0,-7.0,2008
+280,Florida Int'l,Sun Belt,20-Sep,-6.0,-1.0,-7.0,2008
+281,Chicago St.,Indep.,17-Nov,2.4,-9.5,-7.1,2008
+282,Charleston Southern,Big South,20-Oct,0.3,-7.5,-7.1,2008
+283,Northwestern St.,Southland,15-18,3.0,-10.1,-7.1,2008
+284,UTSA,C-USA,13-17,-7.3,0.2,-7.1,2008
+285,Southern Utah,Summit,19-Nov,-2.7,-4.5,-7.2,2008
+286,SMU,C-USA,20-Oct,-5.4,-1.9,-7.2,2008
+287,Colorado St.,MW,25-Jul,-3.0,-4.3,-7.3,2008
+288,Stony Brook,Am. East,23-Jul,-8.0,0.6,-7.4,2008
+289,Princeton,Ivy,23-Jun,-10.8,3.2,-7.5,2008
+290,Northern Illinois,MAC W,22-Jun,-1.5,-6.1,-7.6,2008
+291,Portland,Summit,21-Oct,-0.9,-6.8,-7.7,2008
+292,South Carolina Upstate,WCC,22-Sep,-6.4,-1.3,-7.7,2008
+293,St. Francis BKN,A-Sun,23-Jul,-7.1,-0.7,-7.8,2008
+294,UC Riverside,NEC,22-Jul,-3.5,-4.4,-7.9,2008
+295,Denver,Big West,21-Sep,-8.8,0.9,-7.9,2008
+296,Radford,Sun Belt,19-Nov,-12.8,4.8,-8.0,2008
+297,South Dakota St.,Big South,20-Oct,0.2,-8.2,-8.0,2008
+298,Rice,Summit,21-Aug,-4.7,-3.4,-8.1,2008
+299,Dartmouth,C-USA,27-Mar,-10.0,1.9,-8.1,2008
+301,Idaho,WAC,21-Aug,-5.0,-3.4,-8.4,2008
+302,Furman,Southern,23-Jul,-6.6,-2.1,-8.8,2008
+303,SE Missouri St.,OVC,19-Dec,3.4,-12.3,-8.9,2008
+304,Florida Gulf Coast,A-Sun,21-Oct,-3.9,-5.2,-9.0,2008
+305,Kennesaw St.,A-Sun,20-Oct,-3.2,-5.9,-9.1,2008
+306,Fairleigh Dickinson,NEC,20-Aug,-0.6,-8.7,-9.2,2008
+307,Long Beach St.,Big West,25-Jun,-5.4,-3.9,-9.3,2008
+308,South Carolina St.,MEAC,13-20,-1.0,-8.4,-9.4,2008
+309,Eastern Illinois,OVC,22-Jul,-7.5,-2.0,-9.4,2008
+310,Jackson St.,SWAC,14-20,-2.1,-7.5,-9.6,2008
+311,Monmouth,NEC,24-Jul,-10.4,0.8,-9.6,2008
+312,Florida A&M,MEAC,15-17,-5.1,-4.7,-9.8,2008
+313,Alabama A&M,SWAC,14-15,-7.5,-2.6,-10.1,2008
+314,St. Francis (PA),NEC,23-Jun,-6.3,-3.8,-10.1,2008
+315,Coppin St.,MEAC,16-21,-9.6,-0.6,-10.2,2008
+316,Southern,SWAC,19-Nov,-9.3,-1.0,-10.3,2008
+317,Savannah St.,Indep.,13-18,-10.3,0.0,-10.3,2008
+318,UC Davis,Big West,22-Sep,-7.1,-3.4,-10.4,2008
+319,Idaho St.,Big Sky,19-Dec,-8.9,-1.6,-10.5,2008
+320,Jacksonville St.,OVC,22-Jul,-0.9,-9.7,-10.6,2008
+321,Cal St. Bakersfield,Indep.,21-Aug,-4.4,-6.3,-10.7,2008
+322,Bethune-Cookman,Indep.,18-Dec,-8.7,-2.2,-10.9,2008
+323,Maine,MEAC,21-Nov,-12.3,1.3,-11.0,2008
+324,Canisius,Am. East,23-Jul,-5.7,-5.4,-11.1,2008
+326,Arkansas Pine Bluff,SWAC,13-18,-11.2,0.1,-11.2,2008
+327,Sacramento St.,Big Sky,24-Apr,-5.0,-6.9,-11.8,2008
+328,Mississippi Valley St.,SWAC,17-16,-9.8,-2.1,-11.9,2008
+329,Longwood,Indep.,22-Sep,-3.8,-8.2,-12.1,2008
+330,Louisiana Tech,WAC,24-Jun,-8.5,-3.6,-12.1,2008
+331,The Citadel,Southern,24-Jun,-7.1,-5.8,-13.0,2008
+332,Prairie View,SWAC,22-Aug,-6.2,-7.6,-13.8,2008
+333,Texas Southern,SWAC,25-Jul,-6.7,-7.4,-14.1,2008
+334,Loyola Marymount,WCC,26-May,-6.0,-8.2,-14.2,2008
+335,North Florida,A-Sun,26-Mar,-10.7,-3.8,-14.4,2008
+336,Howard,MEAC,26-Jun,-12.9,-3.0,-15.9,2008
+337,Alcorn St.,SWAC,24-Jul,-4.8,-11.8,-16.6,2008
+338,Maryland-Eastern Shore,MEAC,28-Apr,-9.3,-7.4,-16.7,2008
+339,Grambling St.,SWAC,19-Jul,-6.2,-11.1,-17.2,2008
+340,North Carolina Central,Indep.,26-Apr,-11.1,-6.7,-17.8,2008
+341,NJIT,Indep.,0-29,-12.9,-7.2,-20.1,2008
+1,North Carolina,ACC,34-4,20.3,1.2,21.5,2009
+2,Connecticut,Big East,31-5,12.3,6.4,18.6,2009
+3,Memphis,C-USA,33-4,8.1,10.3,18.5,2009
+4,Duke,ACC,30-7,11.3,7.0,18.4,2009
+5,Pittsburgh,Big East,31-5,11.0,7.0,18.1,2009
+6,Louisville,Big East,31-6,7.8,9.6,17.4,2009
+7,West Virginia,Big East,23-12,6.5,10.0,16.6,2009
+8,Villanova,Big East,30-8,10.5,5.3,15.9,2009
+9,Missouri,Big 12,31-7,12.9,2.9,15.8,2009
+10,Gonzaga,WCC,28-6,12.8,2.6,15.4,2009
+11,Kansas,Big 12,27-8,8.8,6.1,14.9,2009
+12,Oklahoma,Big 12,30-6,10.8,3.7,14.5,2009
+13,Michigan St.,Big Ten,31-7,7.8,6.1,14.0,2009
+14,Clemson,ACC,23-9,10.7,3.1,13.8,2009
+15,Syracuse,Big East,28-10,13.4,0.4,13.8,2009
+16,UCLA,Pac-12,26-9,10.4,3.3,13.7,2009
+17,Purdue,Big Ten,27-10,5.6,8.0,13.5,2009
+18,Xavier,A 10,27-8,6.1,7.3,13.5,2009
+19,Arizona St.,Pac-12,25-10,4.1,8.9,13.0,2009
+20,Wake Forest,ACC,24-7,11.7,1.2,12.9,2009
+21,Tennessee,SEC,21-13,11.1,1.5,12.6,2009
+22,Illinois,Big Ten,24-10,0.7,11.3,12.0,2009
+23,Georgetown,Big East,16-15,4.3,7.6,11.9,2009
+24,Marquette,Big East,25-10,10.6,1.3,11.8,2009
+25,Washington,Pac-12,26-9,11.8,-0.1,11.8,2009
+26,Miami FL,ACC,19-13,6.7,4.8,11.5,2009
+27,Texas,Big 12,23-12,5.8,5.7,11.5,2009
+28,Oklahoma St.,Big 12,23-12,12.3,-1.2,11.1,2009
+29,Florida,SEC,25-11,8.2,2.8,11.0,2009
+30,Butler,Horizon,26-6,2.3,8.6,10.9,2009
+31,Wisconsin,Big Ten,20-13,0.6,9.9,10.6,2009
+32,Davidson,Southern,27-8,7.5,2.8,10.3,2009
+33,BYU,MW,25-8,8.0,2.2,10.1,2009
+34,LSU,SEC,27-8,6.2,3.9,10.1,2009
+35,Florida St.,ACC,25-10,2.5,7.4,9.9,2009
+36,Kentucky,SEC,22-14,4.3,5.6,9.9,2009
+37,USC,Pac-12,22-13,2.3,7.5,9.8,2009
+38,UAB,C-USA,22-12,5.7,4.0,9.7,2009
+39,Temple,A 10,22-12,2.7,7.0,9.7,2009
+40,Ohio St.,Big Ten,22-11,2.9,6.8,9.7,2009
+41,Notre Dame,Big East,21-15,9.4,0.2,9.7,2009
+42,Baylor,Big 12,24-15,9.1,0.4,9.5,2009
+43,California,Pac-12,22-11,8.9,0.4,9.3,2009
+44,Maryland,ACC,21-14,5.7,3.5,9.3,2009
+45,Kansas St.,Big 12,22-12,6.3,2.8,9.1,2009
+46,Saint Mary's,WCC,28-7,5.5,3.4,8.9,2009
+47,VCU,CAA,24-10,5.0,3.8,8.8,2009
+48,Boston College,ACC,22-12,7.7,0.7,8.4,2009
+49,North Dakota St.,Summit,26-7,10.8,-2.4,8.4,2009
+50,Houston,C-USA,21-12,7.7,0.6,8.3,2009
+51,Michigan,Big Ten,21-14,3.3,5.0,8.3,2009
+52,San Diego St.,MW,26-10,0.4,7.7,8.1,2009
+53,South Carolina,SEC,21-10,9.0,-0.8,8.1,2009
+54,Virginia Tech,ACC,19-15,5.3,2.8,8.1,2009
+55,Auburn,SEC,24-12,4.0,3.9,8.0,2009
+56,Illinois St.,MVC,24-10,4.5,3.3,7.8,2009
+57,Texas A&M,Big 12,24-10,3.9,3.8,7.8,2009
+58,UNLV,MW,21-11,4.0,3.8,7.8,2009
+59,New Mexico,MW,22-12,4.8,2.9,7.7,2009
+60,Creighton,MVC,27-8,6.3,1.4,7.7,2009
+61,Siena,MAAC,27-8,8.9,-1.3,7.7,2009
+62,Tulsa,C-USA,25-11,0.2,7.5,7.7,2009
+63,North Carolina St.,ACC,16-14,5.4,2.2,7.6,2009
+64,Stanford,Pac-12,20-14,6.2,1.2,7.5,2009
+65,Rhode Island,A 10,23-11,10.7,-3.3,7.4,2009
+66,Vanderbilt,SEC,19-12,3.3,4.0,7.3,2009
+67,Minnesota,Big Ten,22-11,1.1,6.1,7.2,2009
+68,Penn St.,Big Ten,27-11,2.3,4.7,7.0,2009
+69,Washington St.,Pac-12,17-16,-6.4,13.4,6.9,2009
+70,Dayton,A 10,27-8,-0.4,7.3,6.9,2009
+71,Mississippi St.,SEC,23-13,5.7,1.1,6.8,2009
+72,Northwestern,Big Ten,17-14,-0.4,7.2,6.8,2009
+73,Arizona,Pac-12,21-14,7.0,-0.2,6.8,2009
+74,Utah St.,WAC,30-5,2.8,3.9,6.7,2009
+75,Cleveland St.,Horizon,26-11,-0.8,7.5,6.7,2009
+76,Utah,MW,24-10,3.6,3.1,6.7,2009
+77,Niagara,MAAC,26-9,6.3,0.2,6.6,2009
+78,George Mason,CAA,22-11,-0.4,6.7,6.3,2009
+79,Nebraska,Big 12,18-13,-2.0,8.1,6.1,2009
+80,Providence,Big East,19-14,11.0,-5.1,5.9,2009
+81,Cincinnati,Big East,18-14,1.3,4.5,5.8,2009
+82,UTEP,C-USA,23-14,8.1,-2.3,5.8,2009
+83,Seton Hall,Big East,17-15,7.8,-2.0,5.8,2009
+84,Green Bay,Horizon,22-11,5.3,0.4,5.8,2009
+85,Akron,MAC E,23-13,0.4,5.4,5.8,2009
+86,Vermont,Am. East,24-9,7.2,-1.5,5.7,2009
+87,Duquesne,A 10,21-13,10.1,-4.7,5.5,2009
+88,Stephen F. Austin,Southland,24-8,-5.4,10.8,5.5,2009
+89,Cornell,Ivy,21-10,4.8,0.6,5.4,2009
+90,Northern Iowa,MVC,23-11,0.8,4.5,5.3,2009
+91,Miami (OH),MAC E,17-13,-2.9,8.2,5.3,2009
+92,Old Dominion,CAA,25-10,-1.3,6.4,5.1,2009
+93,Saint Joseph's,A 10,17-15,2.1,3.0,5.1,2009
+94,Georgia Tech,ACC,19-Dec,3.7,1.4,5.1,2009
+95,Northeastern,CAA,19-13,-2.7,7.6,4.9,2009
+96,Virginia,ACC,18-Oct,3.0,1.9,4.8,2009
+97,Mississippi,SEC,16-15,6.0,-1.5,4.6,2009
+98,Oral Roberts,Summit,16-15,2.5,1.9,4.4,2009
+99,Tenn-Martin,OVC,22-10,7.1,-2.8,4.3,2009
+100,Wright St.,Horizon,20-13,-4.7,8.8,4.1,2009
+101,Alabama,SEC,18-14,3.7,0.2,3.9,2009
+102,East Tennessee St.,A-Sun,23-11,5.7,-2.0,3.7,2009
+103,Iowa,Big Ten,15-17,-4.7,8.4,3.7,2009
+104,Belmont,A-Sun,20-13,6.0,-2.4,3.6,2009
+105,American,Patriot,24-8,-2.3,5.8,3.6,2009
+106,Western Kentucky,Sun Belt,25-9,3.9,-0.4,3.5,2009
+107,La Salle,A 10,18-13,3.8,-0.4,3.4,2009
+108,Murray St.,OVC,19-12,-1.1,4.4,3.3,2009
+109,Jacksonville,A-Sun,18-14,4.3,-1.1,3.2,2009
+110,Texas Tech,Big 12,14-19,8.8,-5.7,3.1,2009
+111,Portland St.,Big Sky,23-10,4.9,-1.9,3.1,2009
+112,Oakland,Summit,23-13,6.0,-2.9,3.0,2009
+113,Kent St.,MAC E,19-15,2.0,0.8,2.8,2009
+114,Robert Morris,NEC,24-11,1.2,1.5,2.7,2009
+115,Buffalo,MAC E,21-12,-1.4,4.0,2.6,2009
+116,Sam Houston St.,Southland,18-12,2.8,-0.3,2.5,2009
+117,UIC,Horizon,16-15,1.2,1.3,2.5,2009
+118,Nevada,WAC,21-13,1.6,0.8,2.4,2009
+119,Arkansas,SEC,14-16,4.3,-2.0,2.3,2009
+120,St. John's,Big East,16-18,-0.9,3.2,2.3,2009
+121,College of Charleston,Southern,27-9,6.0,-3.8,2.3,2009
+122,Richmond,A 10,20-16,0.8,1.5,2.3,2009
+123,UCF,C-USA,17-14,3.0,-0.9,2.2,2009
+124,Portland,WCC,19-13,1.9,0.3,2.1,2009
+125,Evansville,MVC,17-14,0.1,2.0,2.0,2009
+126,Mount St. Mary's,NEC,19-14,-1.7,3.7,2.0,2009
+127,Eastern Kentucky,OVC,18-13,1.3,0.7,2.0,2009
+128,Cal St. Northridge,Big West,17-14,4.3,-2.4,1.9,2009
+129,Drake,MVC,17-16,-1.7,3.5,1.9,2009
+130,Pacific,Big West,21-13,-2.7,4.6,1.9,2009
+131,Southern Miss,C-USA,15-17,-0.3,2.1,1.8,2009
+132,Middle Tennessee,Sun Belt,18-14,-0.2,1.9,1.7,2009
+133,Bradley,MVC,21-15,0.3,1.2,1.4,2009
+134,Marshall,C-USA,15-17,2.7,-1.3,1.4,2009
+135,Massachusetts,A 10,18-Dec,3.8,-2.6,1.3,2009
+136,Bowling Green,MAC E,19-14,-2.4,3.6,1.3,2009
+137,Iowa St.,Big 12,15-17,-2.7,4.0,1.2,2009
+138,Drexel,CAA,15-14,-5.0,6.2,1.2,2009
+139,Charlotte,A 10,20-Nov,1.5,-0.3,1.2,2009
+140,Arkansas Little Rock,Sun Belt,23-8,-1.9,3.1,1.2,2009
+141,Oregon St.,Pac-12,18-18,-5.4,6.4,1.0,2009
+142,Boston University,Am. East,17-13,0.6,0.4,1.0,2009
+143,Lipscomb,A-Sun,17-14,4.1,-3.1,1.0,2009
+144,Ohio,MAC E,15-17,-0.7,1.7,1.0,2009
+145,James Madison,CAA,21-15,2.1,-1.2,1.0,2009
+146,Southern Illinois,MVC,13-18,-2.3,3.2,1.0,2009
+147,TCU,MW,14-17,-2.6,3.5,0.9,2009
+148,New Mexico St.,WAC,17-15,6.0,-5.1,0.9,2009
+149,Wichita St.,MVC,17-17,-4.0,4.9,0.9,2009
+150,Morehead St.,OVC,20-16,-0.7,1.5,0.8,2009
+151,Nicholls St.,Southland,20-11,-4.2,4.9,0.8,2009
+152,Saint Louis,A 10,18-14,-5.2,5.8,0.6,2009
+153,Rutgers,Big East,21-Nov,-3.3,3.9,0.6,2009
+154,South Florida,Big East,22-Sep,-4.8,5.3,0.5,2009
+155,UT Arlington,Sun Belt,16-14,6.0,-5.5,0.4,2009
+156,George Washington,A 10,18-Oct,-1.0,1.5,0.4,2009
+157,Milwaukee,Horizon,17-14,1.6,-1.3,0.3,2009
+158,Sacred Heart,NEC,17-14,3.9,-3.6,0.2,2009
+159,North Texas,Sun Belt,20-12,6.2,-6.1,0.2,2009
+160,VMI,Southern,24-8,15.2,-15.1,0.1,2009
+161,Morgan St.,MEAC,23-12,-2.4,2.4,0.0,2009
+162,Holy Cross,Patriot,18-14,-3.4,3.4,0.0,2009
+163,Santa Clara,WCC,16-17,-2.4,2.3,0.0,2009
+164,Tulane,C-USA,14-17,-1.6,1.5,-0.2,2009
+165,Weber St.,Big Sky,21-10,0.6,-0.7,-0.2,2009
+166,Rider,MAAC,19-13,3.6,-3.8,-0.2,2009
+167,Iona,MAAC,19-Dec,-3.9,3.7,-0.2,2009
+168,SE Louisiana,Southland,13-17,-0.1,-0.1,-0.2,2009
+169,South Alabama,Sun Belt,20-13,-1.0,0.7,-0.3,2009
+170,Fairfield,MAAC,17-15,-1.0,0.7,-0.3,2009
+171,Stony Brook,Am. East,16-14,-4.0,3.7,-0.3,2009
+172,San Diego,WCC,16-16,-5.6,5.3,-0.3,2009
+173,Cal St. Fullerton,Big West,15-17,4.9,-5.3,-0.4,2009
+174,Texas A&M-CC,Southland,18-15,-1.1,0.7,-0.4,2009
+175,Austin Peay,OVC,19-14,4.8,-5.2,-0.5,2009
+176,Radford,Big South,21-12,2.0,-2.5,-0.5,2009
+177,Lamar,Southland,15-15,2.7,-3.3,-0.6,2009
+178,Binghamton,Am. East,23-9,0.9,-1.6,-0.7,2009
+179,Texas St.,Sun Belt,14-16,6.8,-7.7,-0.8,2009
+180,Long Beach St.,Big West,15-15,2.7,-3.6,-0.9,2009
+181,IUPUI,Summit,16-14,-3.6,2.5,-1.1,2009
+182,Hofstra,CAA,21-11,-1.5,0.4,-1.1,2009
+183,Western Carolina,Southern,16-15,2.7,-3.8,-1.2,2009
+184,UC Santa Barbara,Big West,16-15,-3.0,1.8,-1.2,2009
+185,Oregon,Pac-12,23-Aug,2.3,-3.5,-1.2,2009
+186,The Citadel,Southern,20-13,-2.6,1.3,-1.2,2009
+187,Navy,Patriot,19-11,1.4,-2.7,-1.2,2009
+188,Manhattan,MAAC,16-14,-3.0,1.7,-1.3,2009
+189,Liberty,Big South,23-12,3.4,-4.7,-1.3,2009
+190,UTSA,C-USA,19-13,3.0,-4.4,-1.4,2009
+191,Boise St.,WAC,19-13,2.4,-3.9,-1.4,2009
+192,St. Bonaventure,A 10,15-15,1.2,-2.7,-1.5,2009
+193,Georgia,SEC,20-Dec,-2.2,0.5,-1.7,2009
+194,Wofford,Southern,16-14,-0.4,-1.4,-1.7,2009
+195,Idaho,WAC,17-16,-2.8,1.0,-1.8,2009
+196,Louisiana Tech,WAC,15-18,-4.1,2.3,-1.9,2009
+197,Chattanooga,Southern,18-17,4.9,-6.9,-1.9,2009
+198,Arkansas St.,Sun Belt,13-17,-3.1,1.1,-2.0,2009
+199,Troy,Sun Belt,19-13,6.3,-8.3,-2.0,2009
+200,East Carolina,C-USA,13-17,3.1,-5.1,-2.0,2009
+201,Harvard,Ivy,14-14,0.4,-2.5,-2.0,2009
+202,Delaware,CAA,13-19,1.0,-3.1,-2.1,2009
+203,DePaul,Big East,24-Sep,-0.5,-1.6,-2.1,2009
+204,San JosÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© St.,WAC,13-17,-0.9,-1.2,-2.2,2009
+205,Missouri St.,MVC,20-Nov,-5.4,3.2,-2.2,2009
+206,Albany,Am. East,15-16,-3.7,1.5,-2.3,2009
+207,Appalachian St.,Southern,13-18,4.9,-7.2,-2.3,2009
+208,SMU,C-USA,21-Sep,-3.4,1.0,-2.3,2009
+209,Seattle,Indep.,21-8,-3.6,1.2,-2.4,2009
+210,Jacksonville St.,OVC,17-Nov,-1.6,-0.9,-2.4,2009
+211,Mercer,A-Sun,17-15,3.8,-6.4,-2.5,2009
+212,Youngstown St.,Horizon,19-Nov,-0.8,-1.8,-2.5,2009
+213,William & Mary,CAA,20-Oct,-6.2,3.6,-2.6,2009
+214,Fresno St.,WAC,13-21,0.3,-2.9,-2.6,2009
+215,Western Michigan,MAC W,21-Oct,-3.3,0.6,-2.6,2009
+216,Alabama St.,SWAC,22-10,-3.2,0.6,-2.6,2009
+217,Indiana St.,MVC,21-Nov,-2.5,-0.2,-2.6,2009
+218,Valparaiso,Horizon,22-Sep,-4.2,1.6,-2.7,2009
+219,Yale,Ivy,13-15,-3.9,1.1,-2.8,2009
+220,LIU Brooklyn,NEC,16-14,1.2,-4.1,-2.9,2009
+221,Wyoming,MW,19-14,4.2,-7.1,-2.9,2009
+222,Tennessee Tech,OVC,18-Dec,1.1,-4.1,-2.9,2009
+223,Utah Valley,Indep.,17-11,-1.5,-1.4,-3.0,2009
+224,Montana,Big Sky,17-12,-4.0,1.0,-3.0,2009
+225,Chicago St.,Indep.,19-13,10.1,-13.4,-3.2,2009
+226,Fort Wayne,Summit,13-17,-2.4,-0.9,-3.3,2009
+227,Gardner-Webb,Big South,13-17,1.6,-4.9,-3.3,2009
+228,Loyola Chicago,Horizon,14-18,-3.1,-0.3,-3.4,2009
+229,Lehigh,Patriot,15-14,-3.4,0.0,-3.4,2009
+230,McNeese St.,Southland,18-Nov,-5.1,1.7,-3.4,2009
+231,Colorado,Big 12,22-Sep,-5.0,1.5,-3.5,2009
+232,Hawaii,WAC,13-17,-3.5,0.0,-3.5,2009
+233,Ball St.,MAC W,14-17,-8.8,5.2,-3.5,2009
+234,Samford,Southern,16-16,-8.5,5.0,-3.6,2009
+235,New Hampshire,Am. East,14-16,-5.2,1.6,-3.6,2009
+236,Jackson St.,SWAC,18-15,-0.3,-3.3,-3.7,2009
+237,Loyola MD,MAAC,20-Dec,-0.4,-3.4,-3.7,2009
+238,UMBC,Am. East,15-17,-1.3,-2.5,-3.8,2009
+239,Penn,Ivy,18-Oct,-1.5,-2.3,-3.8,2009
+240,UC Davis,Big West,13-19,3.9,-7.7,-3.8,2009
+241,Canisius,MAAC,20-Nov,-4.2,0.4,-3.8,2009
+242,Stetson,A-Sun,13-17,-3.1,-0.8,-3.9,2009
+243,UC Riverside,Big West,17-13,-9.2,5.2,-4.0,2009
+244,South Dakota St.,Summit,13-20,0.2,-4.2,-4.0,2009
+245,San Francisco,WCC,19-Nov,-1.3,-2.7,-4.0,2009
+246,Rice,C-USA,22-Oct,-3.7,-0.4,-4.1,2009
+247,Northern Colorado,Big Sky,14-18,0.1,-4.3,-4.3,2009
+248,Towson,CAA,22-Dec,-0.8,-3.6,-4.4,2009
+249,Princeton,Ivy,13-14,-11.1,6.6,-4.5,2009
+250,Campbell,A-Sun,14-16,-1.9,-2.6,-4.5,2009
+251,Indiana,Big Ten,25-Jun,-3.5,-1.0,-4.5,2009
+252,Louisiana,Sun Belt,20-Oct,-2.2,-2.4,-4.6,2009
+253,Georgia St.,CAA,20-Dec,-7.1,2.4,-4.6,2009
+254,Quinnipiac,NEC,15-16,-2.7,-2.0,-4.7,2009
+255,Coppin St.,MEAC,13-19,-3.3,-1.3,-4.7,2009
+256,Central Connecticut,NEC,13-17,-3.4,-1.3,-4.7,2009
+257,Presbyterian,Big South,17-Dec,-8.8,4.1,-4.8,2009
+258,Idaho St.,Big Sky,13-19,-3.0,-1.8,-4.8,2009
+259,Marist,MAAC,23-Oct,-2.8,-2.1,-4.9,2009
+260,Central Michigan,MAC W,19-Dec,-4.6,-0.3,-4.9,2009
+261,Army,Patriot,19-Nov,-9.5,4.5,-4.9,2009
+262,UC Irvine,Big West,19-Dec,-3.0,-2.0,-4.9,2009
+263,Northern Arizona,Big Sky,19-Aug,-3.4,-1.6,-5.0,2009
+264,South Dakota,Indep.,20-9,1.5,-6.5,-5.1,2009
+265,Denver,Sun Belt,15-16,-9.5,4.4,-5.2,2009
+266,Columbia,Ivy,16-Dec,-7.2,2.0,-5.2,2009
+267,Hampton,MEAC,16-16,-10.3,5.0,-5.3,2009
+268,Colorado St.,MW,22-Sep,1.3,-6.7,-5.4,2009
+269,Wagner,NEC,16-14,-2.0,-3.4,-5.4,2009
+270,Eastern Illinois,OVC,18-Dec,-6.2,0.7,-5.5,2009
+271,Winthrop,Big South,19-Nov,-8.9,3.4,-5.6,2009
+272,Saint Peter's,MAAC,19-Nov,-8.7,3.1,-5.6,2009
+273,Maine,Summit,23-Aug,-4.5,-1.3,-5.7,2009
+274,Prairie View,Am. East,21-Sep,-2.8,-3.0,-5.8,2009
+276,Cal Poly,Big West,21-Jul,-3.3,-2.6,-5.9,2009
+277,Detroit,Horizon,23-Jul,-8.7,2.6,-6.0,2009
+278,South Carolina St.,MEAC,17-14,-1.2,-4.8,-6.0,2009
+279,North Carolina A&T,MEAC,16-16,-3.3,-2.7,-6.1,2009
+280,Elon,Southern,20-Nov,-4.8,-1.3,-6.1,2009
+281,Eastern Washington,Big Sky,18-Dec,-5.3,-1.2,-6.4,2009
+282,Montana St.,Big Sky,14-17,-3.2,-3.4,-6.5,2009
+283,High Point,Big South,21-Sep,-7.1,0.6,-6.5,2009
+284,Florida Atlantic,Sun Belt,26-Jun,-2.2,-4.4,-6.6,2009
+285,Northern Illinois,MAC W,20-Oct,-1.9,-4.8,-6.7,2009
+286,Coastal Carolina,Sun Belt,20-Nov,-2.9,-3.8,-6.7,2009
+287,Florida Int'l,Sun Belt,13-20,-6.3,-0.6,-6.8,2009
+288,Tennessee St.,OVC,18-Dec,1.7,-8.7,-7.0,2009
+289,Savannah St.,Indep.,15-14,-10.5,3.4,-7.1,2009
+290,Longwood,Indep.,17-14,2.8,-9.9,-7.1,2009
+291,St. Francis BKN,NEC,20-Oct,-3.3,-3.8,-7.1,2009
+292,UNC Asheville,Big South,15-16,1.0,-8.2,-7.1,2009
+293,Air Force,MW,21-Oct,-10.8,3.7,-7.1,2009
+294,Georgia Southern,Southern,22-Aug,0.6,-7.8,-7.2,2009
+295,Southern Utah,Summit,20-Nov,-4.6,-2.7,-7.2,2009
+296,Toledo,MAC W,25-Jul,-6.6,-0.7,-7.3,2009
+297,Norfolk St.,MEAC,13-18,0.1,-7.5,-7.4,2009
+298,Bucknell,Patriot,23-Jul,-3.2,-4.3,-7.5,2009
+299,New Orleans,Sun Belt,19-Nov,-7.0,-0.5,-7.6,2009
+300,Brown,Ivy,19-Sep,-5.7,-2.0,-7.7,2009
+301,UMKC,Summit,24-Jul,-3.1,-4.6,-7.7,2009
+302,UL Monroe,Sun Belt,20-Oct,-2.8,-5.0,-7.7,2009
+303,Bethune-Cookman,MEAC,17-16,-11.9,4.1,-7.8,2009
+304,Eastern Michigan,MAC W,24-Aug,-9.4,1.7,-7.8,2009
+305,Colgate,Patriot,20-Oct,-10.8,2.8,-8.0,2009
+306,South Carolina Upstate,A-Sun,21-Sep,-8.4,0.3,-8.1,2009
+307,Charleston Southern,Big South,20-Sep,-2.9,-5.5,-8.4,2009
+308,Dartmouth,Ivy,19-Sep,-5.7,-2.7,-8.4,2009
+309,Cal St. Bakersfield,Indep.,21-Aug,-3.8,-4.7,-8.5,2009
+310,Hartford,Am. East,26-Jul,-6.5,-2.0,-8.5,2009
+311,Lafayette,Patriot,22-Aug,-1.6,-7.2,-8.8,2009
+312,Florida Gulf Coast,A-Sun,20-Nov,-4.7,-4.2,-8.9,2009
+313,Western Illinois,Summit,20-Sep,-10.2,1.2,-8.9,2009
+314,UNC Wilmington,CAA,25-Jul,2.7,-12.2,-9.5,2009
+315,Arkansas Pine Bluff,SWAC,13-18,-6.4,-3.2,-9.6,2009
+316,UT Rio Grande Valley,Indep.,17-Oct,-6.2,-3.8,-10.0,2009
+317,Delaware St.,MEAC,24-Aug,-9.8,-0.3,-10.0,2009
+318,Central Arkansas,Southland,19-Oct,-7.1,-3.0,-10.1,2009
+319,UNC Greensboro,Southern,25-May,-6.0,-4.2,-10.1,2009
+320,Monmouth,NEC,23-Aug,-6.5,-3.7,-10.2,2009
+321,St. Francis (PA),NEC,23-Jun,-7.5,-2.7,-10.2,2009
+322,Texas Southern,SWAC,25-Jul,-4.8,-5.5,-10.3,2009
+323,Furman,Southern,24-Jun,-8.5,-2.1,-10.6,2009
+324,Fordham,A 10,25-Mar,-5.1,-5.7,-10.8,2009
+325,Northwestern St.,Southland,20-Nov,-1.1,-9.9,-11.0,2009
+326,SIU-Edwardsville,Indep.,20-Oct,-3.0,-8.2,-11.2,2009
+327,Bryant,Indep.,21-Aug,-9.7,-1.5,-11.2,2009
+328,Mississippi Valley St.,SWAC,25-Jul,-4.7,-7.2,-11.9,2009
+329,North Dakota,Indep.,16-12,-4.4,-7.6,-12.0,2009
+330,Fairleigh Dickinson,NEC,23-Jul,-3.5,-8.5,-12.0,2009
+331,Houston Baptist,Indep.,25-May,-0.8,-11.2,-12.0,2009
+332,SE Missouri St.,OVC,27-Mar,-1.9,-10.3,-12.2,2009
+333,Florida A&M,MEAC,21-Oct,-6.1,-6.3,-12.4,2009
+334,Pepperdine,WCC,23-Sep,-6.0,-6.4,-12.4,2009
+335,Howard,MEAC,23-Aug,-6.8,-5.8,-12.6,2009
+336,Southern,SWAC,23-Aug,-8.6,-4.2,-12.7,2009
+337,Kennesaw St.,A-Sun,22-Jul,-10.9,-2.7,-13.6,2009
+338,Alabama A&M,Indep.,22-Aug,-10.7,-3.2,-13.9,2009
+339,Sacramento St.,SWAC,19-Aug,-7.7,-6.3,-14.0,2009
+340,Loyola Marymount,Big Sky,27-Feb,-9.7,-4.6,-14.3,2009
+341,Grambling St.,WCC,28-Mar,-10.7,-3.6,-14.3,2009
+342,Maryland-Eastern Shore,SWAC,23-Jun,-8.6,-6.0,-14.6,2009
+343,North Florida,MEAC,23-Jul,-9.6,-5.4,-15.0,2009
+344,Alcorn St.,A-Sun,22-Aug,-12.4,-3.2,-15.6,2009
+345,North Carolina Central,SWAC,25-Jun,-2.6,-14.9,-17.5,2009
+346,NJIT,Indep.,27-Apr,-8.7,-9.6,-18.4,2009
+1,Duke,ACC,35-5,12.8,9.6,22.5,2010
+2,Kansas,Big 12,33-3,13.4,7.8,21.2,2010
+3,Syracuse,Big East,30-5,13.4,5.5,18.8,2010
+4,Kentucky,SEC,35-3,11.7,5.5,17.2,2010
+5,West Virginia,Big East,31-7,7.8,8.7,16.5,2010
+6,Ohio St.,Big Ten,29-8,8.5,8.0,16.5,2010
+7,Wisconsin,Big Ten,24-9,2.3,13.6,15.9,2010
+8,Baylor,Big 12,28-8,9.5,6.0,15.4,2010
+9,Maryland,ACC,24-9,11.9,3.3,15.2,2010
+10,Villanova,Big East,25-8,14.5,0.6,15.0,2010
+11,Purdue,Big Ten,29-6,5.6,9.3,14.9,2010
+12,Kansas St.,Big 12,29-8,11.3,3.3,14.5,2010
+13,Georgetown,Big East,23-11,8.3,6.2,14.5,2010
+14,BYU,MW,30-6,12.6,1.8,14.4,2010
+15,Texas,Big 12,24-10,12.3,1.9,14.2,2010
+16,Tennessee,SEC,28-9,7.1,6.7,13.8,2010
+17,Missouri,Big 12,23-11,9.1,4.6,13.7,2010
+18,Xavier,A 10,26-9,11.9,1.6,13.4,2010
+19,Clemson,ACC,21-11,7.2,6.3,13.4,2010
+20,Florida St.,ACC,22-10,2.7,10.4,13.1,2010
+21,Minnesota,Big Ten,21-14,6.6,6.2,12.8,2010
+22,Utah St.,WAC,27-8,4.1,8.7,12.8,2010
+23,Vanderbilt,SEC,24-9,9.2,3.4,12.7,2010
+24,Marquette,Big East,22-12,6.4,6.2,12.6,2010
+25,Butler,Horizon,33-5,3.1,9.4,12.5,2010
+26,Pittsburgh,Big East,25-9,3.0,9.5,12.5,2010
+27,Louisville,Big East,20-13,9.1,3.3,12.4,2010
+28,Michigan St.,Big Ten,28-9,6.3,5.9,12.2,2010
+29,Temple,A 10,29-6,-1.1,13.1,12.0,2010
+30,Georgia Tech,ACC,23-13,6.0,5.9,11.9,2010
+31,California,Pac-12,24-11,11.3,0.5,11.7,2010
+32,Washington,Pac-12,26-10,10.8,0.5,11.4,2010
+33,Old Dominion,CAA,27-9,0.3,11.0,11.3,2010
+34,Texas A&M,Big 12,24-10,4.4,6.8,11.2,2010
+35,Mississippi St.,SEC,24-12,5.8,5.2,11.1,2010
+36,Murray St.,OVC,31-5,4.6,6.3,10.9,2010
+37,Mississippi,SEC,24-11,9.7,1.2,10.9,2010
+38,Florida,SEC,21-13,5.9,4.9,10.8,2010
+39,UNLV,MW,25-9,5.9,4.9,10.8,2010
+40,Dayton,A 10,25-12,2.5,8.1,10.6,2010
+41,Cornell,Ivy,29-5,6.9,3.6,10.5,2010
+42,UTEP,C-USA,26-7,6.3,4.2,10.5,2010
+43,Northern Iowa,MVC,30-5,-2.7,12.9,10.3,2010
+44,Connecticut,Big East,18-16,4.4,5.7,10.1,2010
+45,Virginia Tech,ACC,25-9,4.6,5.4,10.0,2010
+46,Memphis,C-USA,24-10,6.0,4.0,9.9,2010
+47,Richmond,A 10,26-9,2.1,7.7,9.7,2010
+48,New Mexico,MW,30-5,7.3,2.4,9.7,2010
+49,Oklahoma St.,Big 12,22-11,6.1,3.5,9.6,2010
+50,Siena,MAAC,27-7,7.5,2.1,9.6,2010
+51,Wake Forest,ACC,20-11,6.4,3.1,9.5,2010
+52,Arizona St.,Pac-12,22-11,0.0,9.4,9.4,2010
+53,Notre Dame,Big East,23-12,8.4,1.1,9.4,2010
+54,Miami FL,ACC,20-13,5.3,4.1,9.4,2010
+55,Saint Mary's,WCC,28-6,8.3,0.9,9.2,2010
+56,VCU,CAA,27-9,7.9,1.2,9.0,2010
+57,Gonzaga,WCC,27-7,7.5,1.5,9.0,2010
+58,Seton Hall,Big East,19-13,11.0,-2.2,8.8,2010
+59,Rhode Island,A 10,26-10,8.2,0.4,8.6,2010
+60,Marshall,C-USA,24-10,8.9,-0.3,8.5,2010
+61,Illinois,Big Ten,21-15,5.4,2.9,8.4,2010
+62,North Carolina,ACC,20-17,7.3,1.0,8.4,2010
+63,UAB,C-USA,25-9,0.2,8.0,8.2,2010
+64,Boston College,ACC,15-16,4.1,3.7,7.8,2010
+65,St. John's,Big East,17-16,1.6,6.2,7.8,2010
+66,Michigan,Big Ten,15-17,-0.3,7.9,7.7,2010
+67,Cincinnati,Big East,19-16,2.9,4.7,7.6,2010
+68,San Diego St.,MW,25-9,2.3,5.2,7.4,2010
+69,South Carolina,SEC,15-16,5.2,2.1,7.4,2010
+70,Tulsa,C-USA,23-12,2.8,4.5,7.3,2010
+71,Wright St.,Horizon,20-12,0.1,7.1,7.2,2010
+72,Alabama,SEC,17-15,1.6,5.6,7.1,2010
+73,Virginia,ACC,15-16,-0.1,6.6,6.5,2010
+74,Wichita St.,MVC,25-10,0.9,5.5,6.4,2010
+75,Iowa St.,Big 12,15-17,4.2,2.1,6.3,2010
+76,Northwestern,Big Ten,20-14,3.2,3.1,6.2,2010
+77,Northeastern,CAA,20-13,-2.4,8.6,6.2,2010
+78,North Carolina St.,ACC,20-16,0.7,5.5,6.1,2010
+79,Kent St.,MAC E,24-10,2.6,3.3,5.9,2010
+80,Providence,Big East,19-Dec,13.0,-7.1,5.8,2010
+81,Wofford,Southern,26-9,-0.2,5.9,5.7,2010
+82,Sam Houston St.,Southland,25-8,6.9,-1.2,5.7,2010
+83,USC,Pac-12,16-14,-6.8,12.3,5.6,2010
+84,Charlotte,A 10,19-12,5.3,0.2,5.5,2010
+85,Texas Tech,Big 12,19-16,7.7,-2.3,5.5,2010
+86,Illinois St.,MVC,22-11,1.7,3.7,5.5,2010
+87,Missouri St.,MVC,24-12,3.3,2.1,5.4,2010
+88,Houston,C-USA,19-16,9.9,-4.6,5.3,2010
+89,Coastal Carolina,Sun Belt,28-7,-0.1,5.3,5.2,2010
+90,Nevada,WAC,21-13,8.2,-3.1,5.1,2010
+91,Portland,WCC,21-11,2.4,2.5,4.9,2010
+92,Montana,Big Sky,22-10,-1.2,6.0,4.9,2010
+93,South Florida,Big East,20-13,0.9,3.8,4.7,2010
+94,Penn St.,Big Ten,20-Nov,0.3,4.4,4.7,2010
+95,Georgia,SEC,14-17,1.8,2.8,4.6,2010
+96,IUPUI,Summit,25-11,4.1,0.4,4.5,2010
+97,William & Mary,CAA,22-11,0.6,3.9,4.4,2010
+98,Arizona,Pac-12,16-15,5.2,-0.9,4.4,2010
+99,Morehead St.,OVC,24-11,0.1,4.2,4.3,2010
+100,Akron,MAC E,24-11,2.1,2.2,4.3,2010
+101,Ohio,MAC E,22-15,5.9,-1.7,4.2,2010
+102,Auburn,SEC,15-17,6.4,-2.3,4.2,2010
+103,Arkansas,SEC,14-18,6.2,-2.1,4.2,2010
+104,Oklahoma,Big 12,13-18,4.6,-0.5,4.1,2010
+105,Colorado,Big 12,15-16,6.0,-1.9,4.1,2010
+106,Iona,MAAC,21-10,-2.0,6.1,4.1,2010
+107,Weber St.,Big Sky,20-11,5.4,-1.5,3.8,2010
+108,Harvard,Ivy,21-8,4.4,-0.6,3.8,2010
+109,UCLA,Pac-12,14-18,1.5,2.2,3.7,2010
+110,Nebraska,Big 12,15-18,-0.7,4.4,3.6,2010
+111,Oakland,Summit,26-9,6.4,-2.8,3.6,2010
+112,George Washington,A 10,16-15,1.4,2.2,3.5,2010
+113,Creighton,MVC,18-16,2.8,0.8,3.5,2010
+114,Princeton,Ivy,22-9,-8.3,11.7,3.4,2010
+115,Saint Louis,A 10,23-13,-4.5,7.9,3.4,2010
+116,Louisiana Tech,WAC,24-11,3.6,-0.3,3.3,2010
+117,Washington St.,Pac-12,16-15,4.3,-1.0,3.3,2010
+118,Pacific,Big West,23-12,-3.9,7.1,3.3,2010
+119,Bradley,MVC,16-15,1.6,1.5,3.1,2010
+120,Western Kentucky,Sun Belt,21-13,1.9,1.1,3.0,2010
+121,Niagara,MAAC,18-15,4.2,-1.4,2.8,2010
+122,Oral Roberts,Summit,20-13,-0.4,3.1,2.6,2010
+123,Boston University,Am. East,21-14,4.3,-1.7,2.6,2010
+124,Fairfield,MAAC,23-11,2.1,0.4,2.5,2010
+125,Southern Illinois,MVC,15-15,2.4,0.0,2.4,2010
+126,Hofstra,CAA,19-15,1.9,0.4,2.3,2010
+127,Appalachian St.,Southern,24-13,4.0,-1.7,2.3,2010
+128,Eastern Kentucky,OVC,20-13,1.9,0.4,2.3,2010
+129,Stanford,Pac-12,14-18,2.1,0.2,2.3,2010
+130,Vermont,Am. East,25-10,1.0,1.2,2.2,2010
+131,Morgan St.,MEAC,27-10,5.5,-3.3,2.2,2010
+132,Utah,MW,14-17,-0.8,3.0,2.2,2010
+133,Oregon,Pac-12,16-16,2.5,-0.4,2.1,2010
+134,Southern Miss,C-USA,20-14,-4.4,6.5,2.1,2010
+135,Indiana St.,MVC,17-15,0.1,1.8,1.9,2010
+136,Western Carolina,Southern,22-12,2.8,-0.9,1.9,2010
+137,Miami (OH),MAC E,14-18,-4.2,6.1,1.9,2010
+138,Long Beach St.,Big West,17-16,3.0,-1.3,1.8,2010
+139,Jacksonville,A-Sun,20-13,1.4,0.3,1.7,2010
+140,Duquesne,A 10,16-16,3.7,-2.1,1.7,2010
+141,Belmont,A-Sun,19-12,2.9,-1.4,1.5,2010
+142,New Mexico St.,WAC,22-12,7.9,-6.5,1.4,2010
+143,Oregon St.,Pac-12,14-18,-6.5,7.8,1.3,2010
+144,Western Michigan,MAC W,18-15,1.2,0.1,1.3,2010
+145,College of Charleston,Southern,22-12,5.9,-4.6,1.3,2010
+146,Northern Colorado,Big Sky,25-8,2.1,-0.8,1.3,2010
+147,St. Bonaventure,A 10,15-16,1.4,-0.2,1.2,2010
+148,UC Santa Barbara,Big West,20-10,-1.2,2.3,1.2,2010
+149,Drexel,CAA,16-16,-4.0,5.0,1.0,2010
+150,Detroit,Horizon,20-14,-0.3,1.3,1.0,2010
+151,Lipscomb,A-Sun,17-13,7.3,-6.5,0.8,2010
+152,Davidson,Southern,16-15,1.0,-0.3,0.8,2010
+153,Green Bay,Horizon,22-13,0.2,0.4,0.7,2010
+154,Milwaukee,Horizon,20-14,1.1,-0.5,0.6,2010
+155,George Mason,CAA,17-15,-0.8,1.3,0.5,2010
+156,Mount St. Mary's,NEC,16-15,-3.2,3.7,0.4,2010
+157,Campbell,A-Sun,19-11,-3.2,3.6,0.4,2010
+158,Stony Brook,Am. East,22-10,-1.4,1.9,0.4,2010
+159,Cleveland St.,Horizon,16-17,0.3,0.1,0.4,2010
+160,Buffalo,MAC E,18-12,3.6,-3.3,0.3,2010
+161,Colorado St.,MW,16-16,-1.1,1.2,0.2,2010
+162,Middle Tennessee,Sun Belt,19-14,-2.0,2.1,0.1,2010
+163,Quinnipiac,NEC,23-10,2.3,-2.2,0.1,2010
+164,Stephen F. Austin,Southland,23-9,-5.9,5.9,0.0,2010
+165,Texas A&M-CC,Southland,17-15,-2.1,2.1,0.0,2010
+166,UCF,C-USA,15-17,-1.1,1.1,0.0,2010
+167,Drake,MVC,14-19,0.6,-0.6,0.0,2010
+168,LSU,SEC,20-Nov,-4.7,4.6,0.0,2010
+169,Saint Peter's,MAAC,16-14,-6.3,6.2,-0.1,2010
+170,Fresno St.,WAC,15-18,-2.2,2.1,-0.1,2010
+171,East Tennessee St.,A-Sun,20-15,-1.1,1.0,-0.1,2010
+172,Robert Morris,NEC,23-12,-0.9,0.7,-0.2,2010
+173,SMU,C-USA,14-17,-2.9,2.8,-0.2,2010
+174,UTSA,C-USA,19-11,-0.6,0.4,-0.2,2010
+175,La Salle,A 10,18-Dec,2.8,-3.1,-0.2,2010
+176,Idaho,WAC,15-16,-0.1,-0.2,-0.3,2010
+177,Rutgers,Big East,15-17,0.4,-0.7,-0.3,2010
+178,Troy,Sun Belt,20-13,3.0,-3.4,-0.4,2010
+179,Boise St.,WAC,15-17,2.5,-3.0,-0.5,2010
+180,Lehigh,Patriot,22-11,4.3,-4.8,-0.6,2010
+181,Saint Joseph's,A 10,20-Nov,2.5,-3.1,-0.6,2010
+182,Indiana,Big Ten,21-Oct,0.5,-1.1,-0.6,2010
+183,Iowa,Big Ten,22-Oct,-4.0,3.3,-0.7,2010
+184,SE Louisiana,Southland,19-12,-0.3,-0.5,-0.8,2010
+185,Denver,Sun Belt,19-13,-4.2,3.4,-0.8,2010
+186,Loyola Marymount,WCC,18-16,5.7,-6.5,-0.8,2010
+187,DePaul,Big East,23-Aug,-4.4,3.6,-0.8,2010
+188,Austin Peay,OVC,17-15,2.1,-3.0,-0.8,2010
+189,North Texas,Sun Belt,24-9,2.1,-3.1,-0.9,2010
+190,Massachusetts,A 10,20-Dec,2.3,-3.2,-0.9,2010
+191,The Citadel,Southern,16-16,-7.6,6.6,-1.0,2010
+192,Arkansas St.,Sun Belt,17-14,-1.5,0.5,-1.0,2010
+193,Radford,Big South,19-12,-0.4,-0.7,-1.0,2010
+194,Eastern Illinois,OVC,19-12,-2.3,1.3,-1.1,2010
+195,Rider,MAAC,17-16,1.8,-3.0,-1.2,2010
+196,Cal St. Fullerton,Big West,16-15,3.8,-5.0,-1.3,2010
+197,San Francisco,WCC,18-Dec,1.4,-2.8,-1.4,2010
+198,Loyola MD,MAAC,13-17,-2.2,0.7,-1.5,2010
+199,Central Michigan,MAC W,15-15,-3.5,1.9,-1.6,2010
+200,Seattle,Indep.,17-14,6.7,-8.4,-1.6,2010
+201,Maine,Am. East,19-11,-5.0,3.3,-1.8,2010
+202,Mercer,A-Sun,16-17,5.3,-7.2,-1.9,2010
+203,Montana St.,Big Sky,15-14,-2.7,0.8,-1.9,2010
+204,Valparaiso,Horizon,15-17,4.1,-6.1,-1.9,2010
+205,Portland St.,Big Sky,13-19,6.6,-8.6,-2.0,2010
+206,South Dakota St.,Summit,14-16,3.5,-5.5,-2.0,2010
+207,San JosÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© St.,WAC,14-17,3.3,-5.3,-2.0,2010
+208,Georgia St.,CAA,20-Dec,-5.2,3.1,-2.1,2010
+209,Eastern Michigan,MAC W,17-15,-2.6,0.5,-2.1,2010
+210,Canisius,MAAC,15-17,-1.1,-1.0,-2.2,2010
+211,TCU,MW,13-19,-0.9,-1.3,-2.2,2010
+212,UNC Wilmington,CAA,22-Sep,-1.0,-1.4,-2.4,2010
+213,Manhattan,MAAC,20-Nov,-2.9,0.5,-2.4,2010
+214,San Diego,WCC,21-Nov,-5.0,2.5,-2.5,2010
+215,James Madison,CAA,13-20,-1.0,-1.5,-2.5,2010
+216,Fort Wayne,Summit,16-15,-2.1,-0.6,-2.7,2010
+217,Winthrop,Big South,19-14,-8.6,5.8,-2.8,2010
+218,Youngstown St.,Horizon,22-Aug,-1.5,-1.4,-3.0,2010
+219,Bowling Green,MAC E,14-16,-4.8,1.8,-3.0,2010
+220,South Dakota,Summit,22-10,4.4,-7.5,-3.0,2010
+221,Tulane,C-USA,22-Aug,-4.5,1.4,-3.1,2010
+222,Loyola Chicago,Horizon,14-16,-3.9,0.8,-3.2,2010
+223,UC Riverside,Big West,17-Dec,-6.4,3.3,-3.2,2010
+224,Louisiana,Sun Belt,13-17,-2.5,-0.7,-3.2,2010
+225,Florida Atlantic,Sun Belt,14-16,2.6,-5.8,-3.2,2010
+226,Arkansas Pine Bluff,SWAC,18-16,-4.9,1.6,-3.3,2010
+227,Ball St.,MAC W,15-15,-7.5,4.1,-3.4,2010
+228,North Dakota St.,Summit,18-Nov,0.4,-3.9,-3.5,2010
+229,Tennessee Tech,OVC,15-17,3.9,-7.5,-3.6,2010
+230,Northern Arizona,Big Sky,14-14,-0.5,-3.2,-3.7,2010
+231,Cal St. Northridge,Big West,21-Nov,1.8,-5.5,-3.8,2010
+232,Hampton,MEAC,14-18,-5.1,1.4,-3.8,2010
+233,Wyoming,MW,21-Oct,1.3,-5.1,-3.8,2010
+234,Evansville,MVC,21-Sep,-3.2,-0.6,-3.8,2010
+235,Hawaii,WAC,20-Oct,-5.5,1.6,-3.9,2010
+236,Lafayette,Patriot,19-13,1.4,-5.5,-4.1,2010
+237,Holy Cross,Patriot,22-Sep,-0.6,-3.6,-4.2,2010
+238,New Hampshire,Am. East,13-17,-6.9,2.6,-4.3,2010
+239,Bucknell,Patriot,14-17,-3.2,-1.2,-4.4,2010
+240,UC Davis,Big West,14-18,-1.4,-3.1,-4.5,2010
+241,South Alabama,Sun Belt,17-15,-3.7,-0.9,-4.6,2010
+242,Texas St.,Sun Belt,15-16,4.1,-8.7,-4.7,2010
+243,Liberty,Big South,15-16,-3.9,-1.0,-4.9,2010
+244,Chattanooga,Southern,15-18,-1.1,-4.0,-5.0,2010
+245,Northern Illinois,MAC W,20-Oct,-0.3,-4.8,-5.1,2010
+246,Jacksonville St.,OVC,19-Nov,-1.7,-3.4,-5.1,2010
+247,Furman,Southern,13-17,-1.9,-3.3,-5.2,2010
+248,Charleston Southern,Big South,13-17,-3.8,-1.5,-5.2,2010
+249,Army,Patriot,14-15,-10.8,5.5,-5.3,2010
+250,Samford,Southern,20-Nov,-11.1,5.7,-5.4,2010
+251,Sacred Heart,NEC,14-15,1.6,-7.1,-5.5,2010
+252,Yale,Ivy,19-Dec,-2.6,-3.0,-5.6,2010
+253,Texas Southern,SWAC,17-16,-3.8,-1.8,-5.6,2010
+254,Western Illinois,Summit,13-17,-11.0,5.4,-5.7,2010
+255,Elon,Southern,23-Sep,-2.1,-3.6,-5.7,2010
+256,Tennessee St.,OVC,23-Sep,-1.1,-4.6,-5.7,2010
+257,Bethune-Cookman,MEAC,17-16,-9.5,3.7,-5.8,2010
+258,Cal Poly,Big West,19-Dec,-0.3,-5.5,-5.8,2010
+259,UT Arlington,Sun Belt,16-14,0.1,-6.0,-5.9,2010
+260,Rice,C-USA,23-Aug,-5.0,-1.0,-6.0,2010
+261,Norfolk St.,MEAC,19-Nov,1.3,-7.3,-6.0,2010
+262,Santa Clara,WCC,21-Nov,-5.6,-0.5,-6.1,2010
+263,UC Irvine,Big West,14-18,-3.3,-2.8,-6.1,2010
+264,LIU Brooklyn,NEC,14-17,0.1,-6.3,-6.2,2010
+265,Towson,CAA,21-Oct,1.2,-7.5,-6.3,2010
+266,Prairie View,SWAC,16-14,-7.6,1.3,-6.3,2010
+267,UIC,Horizon,22-Aug,-4.1,-2.2,-6.3,2010
+268,UNC Greensboro,Southern,23-Aug,-3.3,-3.1,-6.4,2010
+269,High Point,Big South,15-15,-1.3,-5.2,-6.5,2010
+270,East Carolina,C-USA,21-Oct,-0.4,-6.1,-6.5,2010
+271,Colgate,Patriot,19-Oct,-2.4,-4.1,-6.5,2010
+272,Arkansas Little Rock,Sun Belt,22-Aug,-2.0,-4.6,-6.6,2010
+273,UNC Asheville,Big South,15-16,1.4,-8.1,-6.7,2010
+274,Delaware St.,MEAC,17-12,-12.0,5.2,-6.8,2010
+275,UMKC,Summit,18-Dec,-4.1,-2.9,-7.0,2010
+276,South Carolina St.,MEAC,18-14,-2.5,-4.5,-7.0,2010
+277,McNeese St.,Southland,20-Oct,-3.4,-3.6,-7.0,2010
+278,Navy,Patriot,13-17,-0.2,-6.9,-7.1,2010
+279,Columbia,Ivy,17-Nov,-8.5,1.4,-7.1,2010
+280,North Carolina A&T,MEAC,22-Nov,-2.8,-4.3,-7.1,2010
+281,Air Force,MW,21-Oct,-11.6,4.5,-7.1,2010
+282,Delaware,CAA,24-Jul,-3.4,-3.7,-7.2,2010
+283,North Florida,A-Sun,13-18,-9.2,2.0,-7.2,2010
+284,American,Patriot,20-Nov,-7.0,-0.3,-7.3,2010
+285,Albany,Am. East,25-Jul,-5.8,-1.6,-7.3,2010
+286,Monmouth,NEC,19-Dec,-5.7,-1.6,-7.3,2010
+287,Kennesaw St.,A-Sun,13-20,-4.3,-3.1,-7.4,2010
+288,Jackson St.,SWAC,19-13,-6.6,-0.9,-7.5,2010
+289,UL Monroe,Sun Belt,19-Dec,-3.0,-4.5,-7.5,2010
+290,Lamar,Southland,14-18,-3.5,-4.1,-7.6,2010
+291,Brown,Ivy,20-Nov,-1.8,-5.8,-7.6,2010
+292,Georgia Southern,Southern,23-Sep,0.9,-8.5,-7.6,2010
+293,South Carolina Upstate,A-Sun,23-Jun,-7.9,0.0,-7.9,2010
+294,Nicholls St.,Southland,19-Nov,-5.1,-2.8,-7.9,2010
+295,Binghamton,Am. East,13-18,-7.6,-0.5,-8.0,2010
+296,Central Connecticut,NEC,18-Dec,-7.5,-0.6,-8.1,2010
+297,Idaho St.,Big Sky,22-Jul,-2.8,-5.3,-8.1,2010
+298,Florida Gulf Coast,A-Sun,21-Aug,-4.5,-3.8,-8.3,2010
+299,Cal St. Bakersfield,Indep.,22-Jul,-3.4,-5.1,-8.5,2010
+300,St. Francis BKN,NEC,18-Nov,-8.6,0.1,-8.6,2010
+301,Pepperdine,WCC,24-Jul,-3.6,-5.0,-8.6,2010
+302,SE Missouri St.,OVC,23-Jul,-5.2,-3.5,-8.7,2010
+303,Longwood,Indep.,19-Dec,2.0,-10.8,-8.8,2010
+304,Savannah St.,Indep.,15-Nov,-11.8,3.0,-8.8,2010
+305,Eastern Washington,Big Sky,21-Sep,-2.7,-6.1,-8.8,2010
+306,Utah Valley,WAC,18-Dec,-8.5,-0.6,-9.1,2010
+307,Penn,Ivy,22-Jun,-4.7,-4.6,-9.3,2010
+308,Hartford,Am. East,22-Aug,-6.2,-3.1,-9.3,2010
+309,Alabama St.,SWAC,16-15,-7.3,-2.1,-9.4,2010
+310,Fairleigh Dickinson,NEC,21-Nov,-4.8,-4.6,-9.4,2010
+311,Florida Int'l,Sun Belt,25-Jul,-1.5,-8.1,-9.5,2010
+312,Central Arkansas,Southland,21-Sep,-8.3,-1.3,-9.6,2010
+313,New Orleans,Sun Belt,22-Aug,-10.1,0.3,-9.8,2010
+314,Gardner-Webb,Big South,21-Aug,-2.5,-7.4,-9.9,2010
+315,Northwestern St.,Southland,19-Oct,1.1,-11.1,-10.0,2010
+316,Fordham,A 10,26-Feb,-3.3,-6.7,-10.0,2010
+317,Southern Utah,Summit,22-Jul,-5.7,-4.9,-10.5,2010
+318,St. Francis (PA),Summit,21-Aug,-1.0,-9.9,-10.8,2010
+319,VMI,NEC,19-Nov,-6.5,-4.4,-10.9,2010
+320,Coppin St.,Southern,19-Oct,11.0,-22.1,-11.1,2010
+321,Sacramento St.,Indep.,17-Dec,-8.6,-2.5,-11.1,2010
+322,Tenn-Martin,MEAC,22-Aug,-8.9,-2.3,-11.2,2010
+323,Maryland-Eastern Shore,Big Sky,21-Sep,-6.3,-5.1,-11.4,2010
+326,Florida A&M,MEAC,22-Sep,-4.8,-7.1,-11.9,2010
+327,UT Rio Grande Valley,WAC,27-Jun,-7.4,-4.8,-12.2,2010
+328,Mississippi Valley St.,SWAC,23-Sep,-5.6,-6.7,-12.2,2010
+329,Wagner,NEC,26-May,-8.1,-4.2,-12.3,2010
+330,UMBC,Am. East,26-Apr,-4.8,-7.5,-12.3,2010
+331,Toledo,MAC W,28-Apr,-13.1,0.7,-12.4,2010
+332,Presbyterian,Big South,26-May,-9.6,-3.0,-12.6,2010
+333,Houston Baptist,Southland,21-Dec,-0.7,-11.9,-12.6,2010
+334,Alabama A&M,SWAC,16-Nov,-7.6,-5.1,-12.8,2010
+335,NJIT,A-Sun,21-Oct,-11.5,-1.7,-13.2,2010
+336,Marist,MAAC,29-Jan,-11.0,-2.4,-13.4,2010
+337,North Carolina Central,Indep.,22-Jul,-9.2,-4.3,-13.5,2010
+338,Dartmouth,Ivy,23-May,-13.7,0.1,-13.6,2010
+339,Stetson,A-Sun,22-Jul,-8.9,-4.7,-13.6,2010
+340,SIU-Edwardsville,Indep.,23-May,-7.5,-6.7,-14.1,2010
+341,Howard,MEAC,25-Jul,-10.1,-4.1,-14.2,2010
+342,Chicago St.,WAC,23-Sep,-8.2,-6.6,-14.7,2010
+343,Grambling St.,SWAC,21-Jul,-7.3,-7.7,-14.9,2010
+344,North Dakota,Big Sky,23-Aug,-8.2,-6.9,-15.1,2010
+345,Southern,SWAC,25-May,-9.5,-7.6,-17.0,2010
+346,Bryant,NEC,29-Jan,-15.3,-2.9,-18.2,2010
+347,Alcorn St.,SWAC,Feb-29,-7.3,-13.6,-20.9,2010
+1,Ohio St.,Big Ten,34-3,11.4,10.4,21.8,2011
+2,Kansas,Big 12,35-3,13.3,6.5,19.8,2011
+3,Duke,ACC,32-5,13.7,5.3,19.0,2011
+4,Pittsburgh,Big East,28-6,8.8,9.4,18.2,2011
+5,Kentucky,SEC,29-9,8.7,7.8,16.5,2011
+6,Purdue,Big Ten,26-8,7.1,9.1,16.2,2011
+7,Texas,Big 12,28-8,8.0,8.1,16.1,2011
+8,Wisconsin,Big Ten,25-9,3.7,12.2,16.0,2011
+9,San Diego St.,MW,34-3,6.6,9.0,15.6,2011
+10,North Carolina,ACC,29-8,11.2,4.2,15.4,2011
+11,Florida,SEC,29-8,8.6,6.5,15.1,2011
+12,Syracuse,Big East,27-8,7.2,7.3,14.6,2011
+13,BYU,MW,32-5,13.2,0.8,14.0,2011
+14,Notre Dame,Big East,27-7,9.8,4.2,14.0,2011
+15,Louisville,Big East,25-10,8.0,5.9,13.9,2011
+16,Belmont,A-Sun,30-5,9.1,4.4,13.5,2011
+17,Washington,Pac-12,24-11,13.7,-0.2,13.5,2011
+18,West Virginia,Big East,21-12,4.5,8.4,12.9,2011
+19,Arizona,Pac-12,30-8,9.7,3.0,12.7,2011
+20,Vanderbilt,SEC,23-11,9.1,3.5,12.7,2011
+21,Illinois,Big Ten,20-14,6.4,6.1,12.5,2011
+22,Villanova,Big East,21-12,7.1,5.2,12.4,2011
+23,UNLV,MW,24-9,5.9,6.4,12.2,2011
+24,Maryland,ACC,19-14,8.2,3.6,11.9,2011
+25,Connecticut,Big East,32-9,6.8,5.0,11.8,2011
+26,Georgetown,Big East,21-11,5.8,5.9,11.7,2011
+27,Missouri,Big 12,23-11,11.1,0.4,11.6,2011
+28,Utah St.,WAC,30-4,2.9,8.5,11.4,2011
+29,George Mason,CAA,27-7,5.5,5.6,11.1,2011
+30,Marquette,Big East,22-15,8.1,3.0,11.1,2011
+31,Cincinnati,Big East,26-9,2.1,8.8,10.9,2011
+32,Kansas St.,Big 12,23-11,5.8,5.1,10.8,2011
+33,Temple,A 10,26-8,4.1,6.6,10.7,2011
+34,Clemson,ACC,22-12,2.3,8.4,10.7,2011
+35,Florida St.,ACC,23-11,2.3,8.3,10.5,2011
+36,Xavier,A 10,24-8,5.2,5.3,10.5,2011
+37,Wichita St.,MVC,29-8,5.5,4.9,10.4,2011
+38,Saint Mary's,WCC,25-9,8.0,2.3,10.3,2011
+39,Gonzaga,WCC,25-10,7.9,2.4,10.3,2011
+40,Richmond,A 10,29-8,2.8,7.4,10.2,2011
+41,Butler,Horizon,28-10,5.0,5.2,10.2,2011
+42,Virginia Tech,ACC,22-12,3.5,6.4,10.0,2011
+43,Texas A&M,Big 12,24-9,1.1,8.7,9.8,2011
+44,Michigan St.,Big Ten,19-15,4.6,5.0,9.7,2011
+45,Alabama,SEC,25-12,-0.1,9.8,9.6,2011
+46,Old Dominion,CAA,27-7,-0.5,10.0,9.5,2011
+47,Georgia,SEC,21-12,3.5,5.8,9.4,2011
+48,Duquesne,A 10,19-13,8.3,0.9,9.2,2011
+49,Michigan,Big Ten,21-14,1.4,7.7,9.1,2011
+50,Tennessee,SEC,19-15,4.4,4.7,9.0,2011
+51,Northwestern,Big Ten,20-14,6.5,2.4,8.8,2011
+52,Washington St.,Pac-12,22-13,5.6,3.0,8.7,2011
+53,St. John's,Big East,21-12,4.0,4.7,8.6,2011
+54,New Mexico,MW,22-13,4.8,3.8,8.6,2011
+55,VCU,CAA,28-12,6.6,1.6,8.2,2011
+56,Miami FL,ACC,21-15,5.4,2.7,8.0,2011
+57,Minnesota,Big Ten,17-14,3.7,4.3,8.0,2011
+58,USC,Pac-12,19-15,-0.6,8.4,7.9,2011
+59,Mississippi,SEC,20-14,7.1,0.7,7.7,2011
+60,Seton Hall,Big East,13-18,2.4,5.4,7.7,2011
+61,Missouri St.,MVC,26-9,3.6,4.1,7.7,2011
+62,Penn St.,Big Ten,19-15,-0.4,7.9,7.5,2011
+63,Baylor,Big 12,18-13,2.6,4.9,7.5,2011
+64,UAB,C-USA,22-9,1.3,6.2,7.5,2011
+65,College of Charleston,Southern,26-11,7.5,-0.1,7.4,2011
+66,Nebraska,Big 12,19-13,-1.6,9.0,7.4,2011
+67,Iona,MAAC,25-12,9.1,-1.7,7.3,2011
+68,Southern Miss,C-USA,22-10,4.8,2.5,7.3,2011
+69,Oakland,Summit,25-10,13.4,-6.1,7.3,2011
+70,Cleveland St.,Horizon,27-9,2.1,4.5,6.6,2011
+71,Colorado,Big 12,24-14,9.5,-3.1,6.3,2011
+72,Boston College,ACC,21-13,6.4,-0.1,6.3,2011
+73,Oklahoma St.,Big 12,20-14,2.0,4.2,6.2,2011
+74,UCLA,Pac-12,23-11,3.3,2.7,6.0,2011
+75,Coastal Carolina,Sun Belt,28-6,4.2,1.6,5.9,2011
+76,Memphis,C-USA,25-10,4.5,1.3,5.8,2011
+77,UCF,C-USA,21-12,1.2,4.6,5.8,2011
+78,Indiana,Big Ten,20-Dec,3.8,2.0,5.7,2011
+79,Colorado St.,MW,19-13,4.1,1.5,5.6,2011
+80,Georgia Tech,ACC,13-18,1.9,3.6,5.5,2011
+81,Marshall,C-USA,22-12,4.0,1.5,5.5,2011
+82,Wofford,Southern,21-13,4.7,0.6,5.3,2011
+83,Arkansas,SEC,18-13,3.1,2.2,5.3,2011
+84,North Carolina St.,ACC,15-16,4.3,1.0,5.2,2011
+85,Iowa St.,Big 12,16-16,5.2,0.0,5.2,2011
+86,Morehead St.,OVC,24-10,-0.1,5.1,5.0,2011
+87,Austin Peay,OVC,20-13,4.2,0.8,5.0,2011
+88,UTEP,C-USA,25-10,2.0,3.0,4.9,2011
+89,Harvard,Ivy,23-7,2.2,2.7,4.9,2011
+90,Fairfield,MAAC,25-8,-2.6,7.5,4.9,2011
+91,Iowa,Big Ten,20-Nov,2.3,2.5,4.8,2011
+92,California,Pac-12,18-15,5.8,-1.0,4.8,2011
+93,East Tennessee St.,A-Sun,24-12,0.6,4.0,4.7,2011
+94,Princeton,Ivy,25-7,0.1,4.6,4.6,2011
+95,Rutgers,Big East,15-17,0.7,3.9,4.6,2011
+96,Northern Iowa,MVC,20-14,-3.1,7.6,4.5,2011
+97,Virginia,ACC,16-15,-3.8,8.3,4.5,2011
+98,Drexel,CAA,21-10,-4.3,8.7,4.5,2011
+99,Dayton,A 10,22-14,0.6,3.8,4.4,2011
+100,Valparaiso,Horizon,23-12,3.9,0.5,4.4,2011
+101,Stanford,Pac-12,15-16,-0.1,4.3,4.2,2011
+102,Providence,Big East,15-17,8.0,-3.9,4.1,2011
+103,Murray St.,OVC,23-9,-0.5,4.5,4.0,2011
+104,Rider,MAAC,23-11,5.5,-1.6,3.9,2011
+105,South Carolina,SEC,14-16,1.8,2.0,3.8,2011
+106,Tulsa,C-USA,19-13,3.1,0.6,3.7,2011
+107,Rhode Island,A 10,20-14,1.4,2.3,3.6,2011
+108,Vermont,Am. East,23-9,0.1,3.5,3.6,2011
+109,Indiana St.,MVC,20-14,0.1,3.4,3.6,2011
+110,Boise St.,WAC,22-13,4.1,-0.6,3.5,2011
+111,Bucknell,Patriot,25-9,-0.2,3.5,3.3,2011
+112,Creighton,MVC,23-16,1.6,1.7,3.3,2011
+113,James Madison,CAA,21-12,3.5,-0.4,3.2,2011
+114,LIU Brooklyn,NEC,27-6,9.8,-6.7,3.1,2011
+115,Kent St.,MAC E,25-12,2.2,0.9,3.1,2011
+116,Akron,MAC E,23-13,1.2,1.9,3.0,2011
+117,Oregon,Pac-12,21-18,2.7,0.2,2.9,2011
+118,Buffalo,MAC E,20-14,0.2,2.6,2.8,2011
+119,Pacific,Big West,16-15,-2.5,5.1,2.6,2011
+120,Northern Arizona,Big Sky,19-13,1.4,1.1,2.5,2011
+121,Stephen F. Austin,Southland,18-11,-6.1,8.5,2.4,2011
+122,Montana,Big Sky,21-11,-3.4,5.8,2.3,2011
+123,Davidson,Southern,18-15,2.4,-0.1,2.3,2011
+124,Texas Tech,Big 12,13-19,5.9,-3.7,2.2,2011
+125,South Dakota St.,Summit,19-12,8.1,-6.0,2.1,2011
+126,Portland,WCC,20-12,1.6,0.4,2.0,2011
+127,Arkansas St.,Sun Belt,17-15,-0.7,2.7,2.0,2011
+128,Mississippi St.,SEC,17-14,2.4,-0.4,2.0,2011
+129,Saint Louis,A 10,19-Dec,-5.0,6.9,2.0,2011
+130,Northern Colorado,Big Sky,21-11,1.9,-0.1,1.8,2011
+131,Lipscomb,A-Sun,17-13,5.8,-4.1,1.8,2011
+132,Loyola Chicago,Horizon,16-15,0.8,1.0,1.7,2011
+133,Detroit,Horizon,17-16,5.0,-3.4,1.6,2011
+134,Saint Peter's,MAAC,20-14,-6.0,7.6,1.6,2011
+135,Furman,Southern,22-11,-1.1,2.7,1.6,2011
+136,Arizona St.,Pac-12,19-Dec,-2.3,3.9,1.6,2011
+137,Wright St.,Horizon,19-14,-4.1,5.6,1.5,2011
+138,Long Beach St.,Big West,22-12,3.7,-2.4,1.4,2011
+139,Oral Roberts,Summit,19-16,4.1,-2.7,1.3,2011
+140,South Florida,Big East,23-Oct,-3.7,5.0,1.3,2011
+141,Milwaukee,Horizon,19-14,1.8,-0.5,1.3,2011
+142,UNC Asheville,Big South,20-14,2.6,-1.7,0.9,2011
+143,IUPUI,Summit,19-14,1.9,-1.0,0.9,2011
+144,UC Santa Barbara,Big West,18-14,-1.3,2.3,0.9,2011
+145,St. Bonaventure,A 10,16-15,1.3,-0.5,0.9,2011
+146,Santa Clara,WCC,24-14,3.1,-2.3,0.8,2011
+147,Ohio,MAC E,19-16,5.3,-4.6,0.7,2011
+148,Hofstra,CAA,21-12,2.9,-2.2,0.7,2011
+149,North Texas,Sun Belt,22-11,5.1,-4.4,0.7,2011
+150,East Carolina,C-USA,18-16,0.6,0.0,0.6,2011
+151,Weber St.,Big Sky,18-14,0.3,0.1,0.4,2011
+152,Jacksonville,A-Sun,20-12,-1.0,1.4,0.4,2011
+153,Evansville,MVC,16-16,-0.9,1.3,0.4,2011
+154,Ball St.,MAC W,19-13,-1.9,2.3,0.4,2011
+155,Robert Morris,NEC,18-14,-2.2,2.6,0.4,2011
+156,Massachusetts,A 10,15-15,-1.0,1.3,0.3,2011
+157,Western Michigan,MAC W,21-13,1.8,-1.6,0.2,2011
+158,Oklahoma,Big 12,14-18,-1.0,1.1,0.1,2011
+159,Boston University,Am. East,21-14,-1.6,1.7,0.1,2011
+160,Utah,MW,13-18,0.1,0.0,0.1,2011
+161,Rice,C-USA,14-18,-1.0,1.0,0.1,2011
+162,Tulane,C-USA,13-17,-1.3,1.3,0.0,2011
+163,La Salle,A 10,15-18,7.6,-7.7,-0.1,2011
+164,North Dakota St.,Summit,14-15,2.9,-2.9,-0.1,2011
+165,George Washington,A 10,17-14,-3.2,3.1,-0.1,2011
+166,Charleston Southern,Big South,16-16,2.0,-2.1,-0.1,2011
+167,Fort Wayne,Summit,18-12,1.6,-1.8,-0.2,2011
+168,Quinnipiac,NEC,22-10,1.5,-1.7,-0.2,2011
+169,Lamar,Southland,13-17,7.6,-7.8,-0.2,2011
+170,Tennessee Tech,OVC,20-13,2.9,-3.1,-0.2,2011
+171,Green Bay,Horizon,14-18,-0.6,0.2,-0.4,2011
+172,Eastern Kentucky,OVC,15-16,-2.7,2.3,-0.4,2011
+173,Central Connecticut,NEC,19-12,-0.8,0.4,-0.4,2011
+174,Canisius,MAAC,15-15,-1.2,0.7,-0.5,2011
+175,Middle Tennessee,Sun Belt,16-16,-1.6,1.1,-0.5,2011
+176,Maine,Am. East,15-15,0.3,-0.8,-0.6,2011
+177,Idaho,WAC,18-14,-1.2,0.6,-0.7,2011
+178,Hawaii,WAC,19-13,-0.9,0.2,-0.7,2011
+179,Western Carolina,Southern,18-15,-0.2,-0.5,-0.7,2011
+180,New Mexico St.,WAC,16-17,2.0,-2.7,-0.7,2011
+181,Loyola MD,MAAC,15-15,-0.2,-0.6,-0.8,2011
+182,American,Patriot,22-9,-4.0,3.2,-0.8,2011
+183,Nicholls St.,Southland,14-14,-5.8,4.9,-0.8,2011
+184,Fresno St.,WAC,14-17,-2.1,1.1,-1.0,2011
+185,VMI,Southern,18-13,12.0,-13.0,-1.0,2011
+186,Oregon St.,Pac-12,20-Nov,0.9,-2.0,-1.1,2011
+187,SMU,C-USA,20-15,-5.7,4.6,-1.1,2011
+188,Bradley,MVC,20-Dec,-1.2,0.1,-1.1,2011
+189,San Francisco,WCC,19-15,0.0,-1.3,-1.3,2011
+190,Sam Houston St.,Southland,18-13,-1.6,0.4,-1.3,2011
+191,San JosÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© St.,WAC,17-16,3.0,-4.3,-1.3,2011
+192,Penn,Ivy,13-15,-1.4,0.1,-1.4,2011
+193,Western Kentucky,Sun Belt,16-16,0.7,-2.1,-1.4,2011
+194,McNeese St.,Southland,21-12,2.4,-3.8,-1.4,2011
+195,Cal Poly,Big West,15-15,-9.5,8.1,-1.4,2011
+196,Florida Atlantic,Sun Belt,21-11,-1.2,-0.2,-1.5,2011
+197,TCU,MW,22-Nov,0.0,-1.6,-1.6,2011
+198,Miami (OH),MAC E,16-17,-1.0,-0.6,-1.6,2011
+199,Siena,MAAC,13-18,0.3,-2.0,-1.7,2011
+200,Air Force,MW,16-16,-4.2,2.5,-1.7,2011
+201,Yale,Ivy,15-13,-1.8,0.0,-1.8,2011
+202,Northeastern,CAA,20-Nov,0.4,-2.2,-1.8,2011
+203,Nevada,WAC,13-19,0.6,-2.5,-1.9,2011
+204,Charlotte,A 10,20-Oct,0.4,-2.3,-1.9,2011
+205,Tennessee St.,OVC,14-16,-0.7,-1.4,-2.1,2011
+206,Lehigh,Patriot,16-15,3.1,-5.2,-2.1,2011
+207,UC Davis,Big West,20-Oct,2.2,-4.4,-2.2,2011
+208,Arkansas Little Rock,Sun Belt,19-17,-1.6,-0.6,-2.2,2011
+209,LSU,SEC,21-Nov,-5.0,2.7,-2.3,2011
+210,Winthrop,Big South,13-17,-4.4,2.1,-2.3,2011
+211,Saint Joseph's,A 10,22-Nov,-1.8,-0.6,-2.4,2011
+212,Cornell,Ivy,18-Oct,0.1,-2.5,-2.4,2011
+213,Liberty,Big South,19-13,-3.6,1.2,-2.4,2011
+214,Southern Illinois,MVC,13-19,-5.2,2.8,-2.5,2011
+215,William & Mary,CAA,22-Oct,-2.5,0.0,-2.5,2011
+216,Delaware,CAA,14-17,-3.7,1.2,-2.5,2011
+217,Houston,C-USA,18-Dec,-0.3,-2.3,-2.6,2011
+218,Mercer,A-Sun,15-18,-1.3,-1.3,-2.6,2011
+219,Drake,MVC,13-18,-2.2,-0.4,-2.6,2011
+220,Utah Valley,WAC,19-11,0.1,-2.9,-2.7,2011
+221,Appalachian St.,Southern,16-15,1.8,-4.6,-2.7,2011
+222,St. Francis BKN,NEC,15-15,-2.8,0.1,-2.7,2011
+223,Illinois St.,MVC,19-Dec,-5.9,3.1,-2.8,2011
+224,UC Irvine,Big West,13-19,4.2,-7.0,-2.8,2011
+225,SE Louisiana,Southland,15-14,-1.0,-1.9,-2.8,2011
+226,Hampton,MEAC,24-9,-4.8,2.0,-2.9,2011
+227,Cal St. Northridge,Big West,14-18,-0.1,-2.9,-3.0,2011
+228,UNC Wilmington,CAA,13-18,-4.1,1.1,-3.0,2011
+229,Auburn,SEC,20-Nov,-4.5,1.4,-3.1,2011
+230,Georgia St.,CAA,19-Dec,-6.4,3.2,-3.2,2011
+231,North Florida,A-Sun,15-19,-2.0,-1.2,-3.3,2011
+232,Loyola Marymount,WCC,21-Nov,0.6,-3.9,-3.3,2011
+233,Louisiana,Sun Belt,14-15,-0.1,-3.3,-3.3,2011
+234,Savannah St.,Indep.,18-Dec,-8.7,5.3,-3.4,2011
+235,UT Arlington,Sun Belt,13-16,-2.4,-1.3,-3.6,2011
+236,Stony Brook,Am. East,15-17,-7.9,4.2,-3.6,2011
+237,Columbia,Ivy,15-13,-0.4,-3.2,-3.6,2011
+238,Holy Cross,Patriot,21-Aug,-1.8,-2.0,-3.9,2011
+239,Morgan St.,MEAC,17-14,-4.2,0.2,-3.9,2011
+240,Denver,Sun Belt,13-17,-9.6,5.6,-4.0,2011
+241,Chattanooga,Southern,16-16,0.0,-4.0,-4.0,2011
+242,Elon,Southern,14-17,1.5,-5.5,-4.1,2011
+243,Albany,Am. East,16-16,-5.0,0.7,-4.3,2011
+244,Presbyterian,Big South,13-18,-6.2,1.8,-4.3,2011
+245,Louisiana Tech,WAC,20-Dec,-4.5,0.2,-4.3,2011
+246,Wagner,NEC,13-17,-1.3,-3.0,-4.4,2011
+247,Campbell,A-Sun,19-Dec,-4.5,0.0,-4.5,2011
+248,Pepperdine,WCC,21-Dec,0.5,-5.1,-4.6,2011
+249,Bowling Green,MAC E,14-19,-5.0,0.4,-4.6,2011
+250,Jackson St.,SWAC,17-15,-5.7,1.1,-4.6,2011
+251,Brown,Ivy,17-Nov,1.6,-6.3,-4.7,2011
+252,UTSA,C-USA,20-14,-1.9,-2.9,-4.8,2011
+253,UIC,Horizon,24-Jul,-4.4,-0.4,-4.8,2011
+254,DePaul,Big East,24-Jul,1.7,-6.5,-4.8,2011
+255,Texas St.,Sun Belt,16-16,3.6,-8.5,-4.8,2011
+256,Wake Forest,ACC,24-Aug,0.5,-5.3,-4.9,2011
+257,Montana St.,Big Sky,13-18,-2.7,-2.3,-5.1,2011
+258,Lafayette,Patriot,13-19,-0.4,-4.7,-5.1,2011
+259,Portland St.,Big Sky,14-16,1.7,-6.8,-5.1,2011
+260,Wyoming,MW,21-Oct,-4.0,-1.6,-5.6,2011
+261,South Alabama,Sun Belt,16-Dec,-0.8,-4.8,-5.6,2011
+262,Youngstown St.,Horizon,21-Sep,-0.4,-5.4,-5.7,2011
+263,Gardner-Webb,Big South,21-Nov,-6.9,1.2,-5.8,2011
+264,Eastern Washington,Big Sky,20-Oct,-3.4,-2.4,-5.8,2011
+265,South Dakota,Summit,18-15,3.8,-9.6,-5.8,2011
+266,Texas Southern,SWAC,19-13,-6.0,0.1,-5.9,2011
+267,New Hampshire,Am. East,18-Dec,-10.2,4.3,-5.9,2011
+268,Cal St. Fullerton,Big West,20-Nov,1.5,-7.4,-6.0,2011
+269,Bethune-Cookman,MEAC,21-13,-5.0,-1.0,-6.0,2011
+270,UC Riverside,Big West,19-Dec,-4.2,-1.8,-6.0,2011
+271,Coppin St.,MEAC,16-14,-0.8,-5.3,-6.1,2011
+272,Delaware St.,MEAC,21-Sep,-7.3,1.0,-6.3,2011
+273,Florida Int'l,Sun Belt,19-Nov,1.2,-7.4,-6.3,2011
+274,Troy,Sun Belt,21-Aug,1.5,-7.9,-6.3,2011
+275,Mount St. Mary's,NEC,21-Nov,-7.3,1.0,-6.3,2011
+276,Northwestern St.,Southland,18-14,2.4,-8.9,-6.5,2011
+277,Seattle,Indep.,20-Nov,-0.7,-5.8,-6.5,2011
+278,Northern Illinois,MAC W,21-Sep,-1.2,-5.3,-6.5,2011
+279,Eastern Illinois,OVC,20-Sep,-8.3,1.7,-6.5,2011
+280,Jacksonville St.,OVC,25-May,-7.9,1.2,-6.6,2011
+281,Towson,CAA,26-Apr,1.1,-7.8,-6.6,2011
+282,Hartford,Am. East,20-Nov,-7.6,0.9,-6.7,2011
+283,UMKC,Summit,16-14,-2.2,-4.6,-6.8,2011
+284,Army,Patriot,19-Nov,-3.0,-3.8,-6.8,2011
+285,Central Michigan,MAC W,21-Oct,-9.3,2.5,-6.8,2011
+286,Sacred Heart,NEC,18-Nov,-3.3,-3.6,-6.9,2011
+287,The Citadel,Southern,22-Oct,-5.5,-1.6,-7.1,2011
+288,SE Missouri St.,OVC,22-Oct,-2.6,-4.5,-7.1,2011
+289,Eastern Michigan,MAC W,22-Sep,-7.6,0.4,-7.2,2011
+290,North Carolina A&T,MEAC,15-17,-0.2,-7.0,-7.2,2011
+291,Fordham,A 10,21-Jul,-3.5,-3.9,-7.4,2011
+292,Florida Gulf Coast,A-Sun,20-Oct,-3.4,-4.2,-7.6,2011
+293,North Carolina Central,Indep.,15-15,-3.5,-4.3,-7.7,2011
+294,Norfolk St.,MEAC,20-Dec,-0.9,-6.9,-7.8,2011
+295,Navy,Patriot,20-Nov,-3.4,-4.4,-7.8,2011
+296,Monmouth,NEC,21-Sep,-8.3,0.3,-8.0,2011
+297,NJIT,A-Sun,15-15,-6.5,-1.6,-8.1,2011
+298,Tenn-Martin,OVC,21-Dec,-1.6,-6.5,-8.1,2011
+299,UNC Greensboro,Southern,24-Jul,1.0,-9.1,-8.1,2011
+300,Niagara,MAAC,23-Sep,-5.6,-2.7,-8.3,2011
+301,High Point,Big South,19-Dec,-3.6,-4.8,-8.4,2011
+302,Stetson,A-Sun,23-Aug,-4.2,-4.2,-8.4,2011
+303,North Dakota,Big Sky,19-15,-5.1,-3.3,-8.4,2011
+304,Mississippi Valley St.,SWAC,13-19,-1.7,-6.8,-8.5,2011
+305,Southern Utah,Summit,19-Nov,-4.1,-4.5,-8.6,2011
+306,San Diego,WCC,24-Jun,-8.4,-0.1,-8.6,2011
+307,Samford,Southern,19-Dec,-8.9,0.3,-8.6,2011
+308,Idaho St.,Big Sky,20-Sep,-4.4,-4.5,-9.0,2011
+309,St. Francis (PA),NEC,21-Sep,-4.4,-4.5,-9.0,2011
+310,Manhattan,MAAC,25-Jun,-6.9,-2.2,-9.1,2011
+311,Alabama St.,SWAC,17-18,-9.2,-0.3,-9.5,2011
+312,Texas A&M-CC,Southland,21-Oct,-6.8,-2.8,-9.5,2011
+313,Longwood,Indep.,19-Dec,3.1,-12.8,-9.7,2011
+314,Cal St. Bakersfield,Indep.,19-Sep,-2.4,-7.5,-10.0,2011
+315,Bryant,NEC,21-Sep,-3.5,-6.6,-10.1,2011
+316,South Carolina Upstate,A-Sun,25-May,-9.3,-0.9,-10.1,2011
+317,Kennesaw St.,A-Sun,23-Aug,-3.8,-6.4,-10.1,2011
+318,Binghamton,Am. East,23-Aug,-7.3,-2.9,-10.2,2011
+319,Sacramento St.,Big Sky,21-Jul,-7.6,-2.8,-10.5,2011
+320,Marist,MAAC,27-Jun,-6.5,-4.1,-10.6,2011
+321,Fairleigh Dickinson,NEC,24-May,-5.0,-5.6,-10.6,2011
+322,Alabama A&M,SWAC,13-15,-7.8,-2.9,-10.7,2011
+323,Dartmouth,Ivy,23-May,-8.5,-2.2,-10.7,2011
+324,Florida A&M,MEAC,20-Dec,-6.5,-4.3,-10.8,2011
+325,UL Monroe,Sun Belt,24-Jul,-9.3,-1.6,-10.9,2011
+326,Western Illinois,Summit,23-Jul,-13.5,2.5,-11.1,2011
+327,Prairie View,SWAC,22-Oct,-7.1,-4.5,-11.6,2011
+328,Colgate,Patriot,23-Jul,-4.6,-7.1,-11.7,2011
+329,Central Arkansas,Southland,24-May,-4.3,-7.9,-12.2,2011
+330,South Carolina St.,MEAC,22-Oct,-6.4,-5.8,-12.2,2011
+331,Radford,Big South,24-May,-9.6,-2.8,-12.4,2011
+332,Toledo,MAC W,28-Apr,-9.7,-3.0,-12.7,2011
+333,UT Rio Grande Valley,WAC,25-Jun,-4.8,-8.1,-12.9,2011
+334,Georgia Southern,Southern,27-May,-5.4,-7.5,-12.9,2011
+335,UMBC,Am. East,25-May,-3.5,-9.9,-13.4,2011
+336,Arkansas Pine Bluff,SWAC,24-Jul,-8.6,-5.1,-13.6,2011
+337,Grambling St.,SWAC,21-Dec,-8.9,-4.7,-13.7,2011
+338,Maryland-Eastern Shore,MEAC,22-Sep,-3.1,-10.6,-13.7,2011
+339,Houston Baptist,Southland,26-May,-4.1,-9.8,-14.0,2011
+340,Howard,MEAC,24-Jun,-10.6,-4.3,-15.0,2011
+341,SIU-Edwardsville,Indep.,21-Aug,-6.8,-8.8,-15.6,2011
+342,Alcorn St.,SWAC,24-Apr,-3.6,-12.1,-15.6,2011
+343,Chicago St.,WAC,26-Jun,-4.9,-15.4,-20.3,2011
+344,Southern,SWAC,26-Apr,-13.7,-6.9,-20.6,2011
+1,Ohio St.,Big Ten,31-8,10.8,9.5,20.3,2012
+2,Kentucky,SEC,38-2,11.9,8.2,20.1,2012
+3,Syracuse,Big East,34-3,9.9,8.4,18.3,2012
+4,Michigan St.,Big Ten,29-8,7.7,9.9,17.6,2012
+5,North Carolina,ACC,32-6,13.7,3.4,17.1,2012
+6,Wisconsin,Big Ten,26-10,0.3,15.9,16.2,2012
+7,Kansas,Big 12,32-7,8.2,7.8,16.1,2012
+8,Missouri,Big 12,30-5,14.0,1.9,15.9,2012
+9,Florida,SEC,26-11,11.8,3.5,15.3,2012
+10,Indiana,Big Ten,27-9,12.1,3.2,15.2,2012
+11,Duke,ACC,27-7,12.2,2.6,14.8,2012
+12,Memphis,C-USA,26-9,9.5,5.1,14.6,2012
+13,Wichita St.,MVC,27-6,8.9,5.3,14.1,2012
+14,Marquette,Big East,27-8,10.5,3.2,13.7,2012
+15,Georgetown,Big East,24-9,3.8,9.7,13.5,2012
+16,New Mexico,MW,28-7,6.4,7.1,13.5,2012
+17,Baylor,Big 12,30-8,8.9,3.8,12.7,2012
+18,Vanderbilt,SEC,25-11,8.2,4.4,12.6,2012
+19,Louisville,Big East,30-10,3.4,8.9,12.2,2012
+20,Saint Louis,A 10,26-8,1.6,10.4,12.0,2012
+21,Florida St.,ACC,25-10,4.5,7.4,11.9,2012
+22,Purdue,Big Ten,22-13,7.5,4.1,11.6,2012
+23,Belmont,A-Sun,27-8,10.6,0.9,11.5,2012
+24,Alabama,SEC,21-12,-0.3,11.5,11.2,2012
+25,Gonzaga,WCC,26-7,6.8,4.4,11.2,2012
+26,Kansas St.,Big 12,22-11,5.8,5.2,11.0,2012
+27,Virginia,ACC,22-10,-3.1,14.0,11.0,2012
+28,Saint Mary's,WCC,27-6,6.4,4.5,10.9,2012
+29,Michigan,Big Ten,24-10,2.6,8.1,10.7,2012
+30,Texas,Big 12,20-14,6.3,4.0,10.3,2012
+31,California,Pac-12,24-10,4.8,5.3,10.1,2012
+32,UNLV,MW,26-9,8.9,1.2,10.1,2012
+33,Creighton,MVC,29-6,11.3,-1.3,10.0,2012
+34,Cincinnati,Big East,26-11,3.2,6.8,10.0,2012
+35,West Virginia,Big East,19-14,7.3,2.6,9.9,2012
+36,Temple,A 10,24-8,8.3,1.5,9.8,2012
+37,Iowa St.,Big 12,23-11,7.2,2.6,9.7,2012
+38,Iona,MAAC,25-8,13.1,-3.5,9.6,2012
+39,Connecticut,Big East,20-14,4.3,5.2,9.5,2012
+40,BYU,WCC,26-9,7.9,1.0,8.9,2012
+41,North Carolina St.,ACC,24-13,7.3,1.5,8.8,2012
+42,Long Beach St.,Big West,25-9,5.4,3.4,8.8,2012
+43,Pittsburgh,Big East,22-17,4.7,3.6,8.3,2012
+44,Miami FL,ACC,20-13,5.0,3.2,8.2,2012
+45,VCU,CAA,29-7,2.7,5.5,8.2,2012
+46,Drexel,CAA,29-7,-1.3,9.4,8.1,2012
+47,Harvard,Ivy,26-5,-0.6,8.7,8.1,2012
+48,Davidson,Southern,25-8,8.2,-0.2,8.1,2012
+49,Xavier,A 10,23-13,5.2,2.8,8.0,2012
+50,Minnesota,Big Ten,23-15,4.1,3.9,7.9,2012
+51,Arizona,Pac-12,23-12,3.3,4.5,7.8,2012
+52,Seton Hall,Big East,21-13,2.2,5.4,7.6,2012
+53,Notre Dame,Big East,22-12,1.4,6.2,7.6,2012
+54,La Salle,A 10,21-13,5.1,2.5,7.5,2012
+55,Middle Tennessee,Sun Belt,27-7,2.9,4.6,7.5,2012
+56,Murray St.,OVC,31-2,2.6,4.9,7.5,2012
+57,St. Bonaventure,A 10,20-12,3.5,3.9,7.4,2012
+58,Southern Miss,C-USA,25-9,4.7,2.5,7.2,2012
+59,Saint Joseph's,A 10,20-14,5.6,1.4,7.1,2012
+60,Virginia Tech,ACC,16-17,0.4,6.5,6.9,2012
+61,Mississippi St.,SEC,21-12,6.0,0.9,6.9,2012
+62,Ohio,MAC E,29-8,2.3,4.6,6.9,2012
+63,Oregon,Pac-12,24-10,7.0,-0.1,6.9,2012
+64,Clemson,ACC,16-15,-0.2,7.1,6.8,2012
+65,Northwestern,Big Ten,19-14,5.5,1.2,6.7,2012
+66,South Dakota St.,Summit,27-8,7.0,-0.3,6.7,2012
+67,New Mexico St.,WAC,26-10,8.3,-1.6,6.7,2012
+68,Massachusetts,A 10,25-12,9.2,-2.5,6.6,2012
+69,Tennessee,SEC,19-15,2.1,4.5,6.6,2012
+70,UCLA,Pac-12,19-14,1.7,4.9,6.6,2012
+71,San Diego St.,MW,26-8,3.1,3.4,6.5,2012
+72,South Florida,Big East,22-14,-5.2,11.7,6.5,2012
+73,Cleveland St.,Horizon,22-11,0.5,6.0,6.5,2012
+74,Akron,MAC E,22-12,4.7,1.7,6.4,2012
+75,Stanford,Pac-12,26-11,4.3,1.9,6.2,2012
+76,Illinois,Big Ten,17-15,0.9,5.2,6.1,2012
+77,Northern Iowa,MVC,20-14,-0.7,6.7,6.0,2012
+78,Dayton,A 10,20-13,5.6,0.4,6.0,2012
+79,Lehigh,Patriot,27-8,6.1,-0.1,6.0,2012
+80,Washington,Pac-12,24-11,7.3,-1.6,5.7,2012
+81,Buffalo,MAC E,20-11,4.9,0.7,5.6,2012
+82,Denver,Sun Belt,22-9,0.5,5.1,5.6,2012
+83,Marshall,C-USA,21-14,4.8,0.7,5.5,2012
+84,Georgia St.,CAA,22-12,-0.9,6.3,5.3,2012
+85,Mississippi,SEC,20-14,1.9,3.4,5.3,2012
+86,Oral Roberts,Summit,27-7,3.9,1.3,5.1,2012
+87,UNC Asheville,Big South,24-10,8.6,-3.6,5.0,2012
+88,Bucknell,Patriot,25-10,0.7,4.3,5.0,2012
+89,Colorado,Pac-12,24-12,1.3,3.7,5.0,2012
+90,Wyoming,MW,21-12,-5.6,10.6,5.0,2012
+91,UT Arlington,Sun Belt,24-9,5.8,-1.0,4.9,2012
+92,Montana,Big Sky,25-7,-0.6,5.3,4.8,2012
+93,UC Santa Barbara,Big West,20-11,3.8,0.9,4.7,2012
+94,Colorado St.,MW,20-12,4.5,0.2,4.7,2012
+95,Wagner,NEC,25-6,3.2,1.4,4.7,2012
+96,Tulsa,C-USA,17-14,1.5,3.1,4.6,2012
+97,Weber St.,Big Sky,25-7,6.7,-2.1,4.6,2012
+98,LSU,SEC,18-15,0.0,4.6,4.6,2012
+99,Lamar,Southland,23-12,4.1,0.4,4.6,2012
+100,Oregon St.,Pac-12,21-15,9.3,-4.8,4.5,2012
+101,Villanova,Big East,13-19,6.3,-1.9,4.5,2012
+102,Iowa,Big Ten,18-17,6.8,-2.4,4.4,2012
+103,Missouri St.,MVC,16-16,-0.2,4.5,4.3,2012
+104,Old Dominion,CAA,22-14,-0.8,5.0,4.3,2012
+105,Oklahoma,Big 12,15-16,3.0,1.3,4.3,2012
+106,Fairfield,MAAC,22-15,-2.1,6.2,4.1,2012
+107,Illinois St.,MVC,21-14,2.1,1.8,4.0,2012
+108,Richmond,A 10,16-16,1.7,2.3,4.0,2012
+109,George Mason,CAA,24-9,3.0,0.9,3.9,2012
+110,Oklahoma St.,Big 12,15-18,2.6,1.2,3.9,2012
+111,Washington St.,Pac-12,19-18,1.8,2.1,3.8,2012
+112,Mercer,A-Sun,27-11,-0.3,4.0,3.7,2012
+113,Georgia,SEC,15-17,-2.2,5.9,3.7,2012
+114,Stony Brook,Am. East,22-10,-2.4,6.0,3.7,2012
+115,Butler,Horizon,22-15,-2.2,5.8,3.6,2012
+116,Princeton,Ivy,20-12,-0.2,3.8,3.6,2012
+117,Duquesne,A 10,16-15,5.0,-1.5,3.4,2012
+118,Kent St.,MAC E,21-12,2.9,0.4,3.3,2012
+119,Arkansas,SEC,18-14,5.0,-1.7,3.2,2012
+120,Vermont,Am. East,24-12,-0.4,3.5,3.1,2012
+121,UCF,C-USA,22-11,-0.3,3.4,3.1,2012
+122,Robert Morris,NEC,26-11,-0.6,3.6,3.0,2012
+123,Bowling Green,MAC E,16-16,-0.4,3.4,3.0,2012
+124,Detroit,Horizon,22-14,4.7,-1.9,2.9,2012
+125,Manhattan,MAAC,21-13,2.5,0.3,2.8,2012
+126,Texas A&M,Big 12,14-18,-4.3,7.0,2.7,2012
+127,Rutgers,Big East,14-18,-0.2,2.8,2.6,2012
+128,Boise St.,MW,13-17,1.2,1.2,2.4,2012
+129,North Dakota St.,Summit,17-14,3.8,-1.5,2.3,2012
+130,Loyola MD,MAAC,24-9,-0.8,3.0,2.3,2012
+131,UAB,C-USA,15-16,-4.7,6.9,2.2,2012
+132,UTEP,C-USA,15-17,-2.0,4.1,2.1,2012
+133,Nevada,WAC,28-7,0.5,1.6,2.1,2012
+134,Providence,Big East,15-17,3.4,-1.3,2.0,2012
+135,Utah St.,WAC,21-16,-0.6,2.5,2.0,2012
+136,Cal Poly,Big West,18-15,-3.5,5.5,2.0,2012
+137,East Carolina,C-USA,15-16,0.3,1.6,2.0,2012
+138,Loyola Marymount,WCC,21-13,1.7,0.3,1.9,2012
+139,Maryland,ACC,17-15,3.2,-1.3,1.9,2012
+140,Evansville,MVC,16-16,5.5,-3.7,1.8,2012
+141,Georgia Tech,ACC,20-Nov,-4.0,5.8,1.8,2012
+142,San Francisco,WCC,20-14,5.1,-3.4,1.7,2012
+143,Yale,Ivy,19-10,1.0,0.7,1.7,2012
+144,Valparaiso,Horizon,22-12,0.8,0.9,1.7,2012
+145,Coastal Carolina,Sun Belt,19-12,0.9,0.7,1.7,2012
+146,Nebraska,Big Ten,18-Dec,-2.8,4.5,1.6,2012
+147,UTSA,C-USA,18-14,3.9,-2.3,1.6,2012
+148,Penn,Ivy,20-13,-1.8,3.3,1.4,2012
+149,East Tennessee St.,A-Sun,17-14,-1.8,3.3,1.4,2012
+150,College of Charleston,Southern,19-12,2.2,-0.9,1.3,2012
+151,Auburn,SEC,15-16,-2.8,4.0,1.2,2012
+152,Stephen F. Austin,Southland,20-12,-8.2,9.4,1.2,2012
+153,Drake,MVC,18-16,-0.2,1.3,1.1,2012
+154,TCU,MW,18-15,5.5,-4.3,1.1,2012
+155,LIU Brooklyn,NEC,25-9,10.0,-9.0,1.1,2012
+156,Cal St. Fullerton,Big West,21-10,6.3,-5.5,0.8,2012
+157,Charlotte,A 10,13-17,0.4,0.4,0.8,2012
+158,Rice,C-USA,19-16,1.2,-0.4,0.8,2012
+159,Indiana St.,MVC,18-15,-1.7,2.5,0.8,2012
+160,South Carolina,SEC,21-Oct,-2.8,3.6,0.8,2012
+161,South Carolina Upstate,A-Sun,21-13,1.2,-0.5,0.7,2012
+162,North Texas,Sun Belt,18-14,1.0,-0.4,0.6,2012
+163,Penn St.,Big Ten,20-Dec,-2.8,3.4,0.6,2012
+164,Tulane,C-USA,15-16,-2.8,3.4,0.6,2012
+165,North Carolina Central,MEAC,17-15,-0.9,1.5,0.6,2012
+166,Quinnipiac,NEC,18-14,1.3,-0.7,0.6,2012
+167,St. John's,Big East,13-19,0.5,0.0,0.6,2012
+168,DePaul,Big East,19-Dec,7.7,-7.3,0.5,2012
+169,Savannah St.,MEAC,21-12,-5.7,6.1,0.4,2012
+170,Charleston Southern,Big South,19-12,4.4,-4.0,0.4,2012
+171,Milwaukee,Horizon,20-14,-2.7,3.0,0.2,2012
+172,Idaho,WAC,19-14,0.4,-0.3,0.1,2012
+173,Oakland,Summit,20-16,10.0,-9.9,0.1,2012
+174,Western Michigan,MAC W,14-20,2.0,-2.0,0.1,2012
+175,Ball St.,MAC W,15-15,-4.2,4.2,-0.1,2012
+176,Portland St.,Big Sky,17-15,5.1,-5.6,-0.5,2012
+177,Boston University,Am. East,16-16,-3.1,2.6,-0.5,2012
+178,Tennessee St.,OVC,20-13,-0.1,-0.6,-0.7,2012
+179,George Washington,A 10,21-Oct,-3.6,2.8,-0.8,2012
+180,Youngstown St.,Horizon,16-15,0.1,-0.9,-0.8,2012
+181,Albany,Am. East,19-15,4.0,-4.8,-0.8,2012
+182,Delaware,CAA,18-14,1.9,-2.7,-0.8,2012
+183,American,Patriot,20-12,-4.1,3.1,-0.9,2012
+184,Wake Forest,ACC,13-18,1.0,-2.0,-1.0,2012
+185,Louisiana,Sun Belt,16-16,-0.7,-0.4,-1.1,2012
+186,Toledo,MAC W,19-17,1.2,-2.3,-1.1,2012
+187,Eastern Washington,Big Sky,15-17,1.6,-2.8,-1.1,2012
+188,Columbia,Ivy,15-15,-3.6,2.5,-1.2,2012
+189,Air Force,MW,13-16,-5.0,3.8,-1.3,2012
+190,Campbell,Big South,17-15,3.6,-4.9,-1.3,2012
+191,Houston,C-USA,15-15,3.1,-4.5,-1.4,2012
+192,Green Bay,Horizon,15-15,-1.3,-0.2,-1.4,2012
+193,Fresno St.,WAC,13-20,-2.3,0.8,-1.5,2012
+194,Hofstra,CAA,22-Oct,-1.8,0.3,-1.5,2012
+195,Northeastern,CAA,14-17,-2.4,0.8,-1.6,2012
+196,Florida Gulf Coast,A-Sun,15-17,2.4,-4.0,-1.6,2012
+197,Western Carolina,Southern,17-18,1.1,-2.8,-1.7,2012
+198,North Florida,A-Sun,16-16,0.2,-1.9,-1.7,2012
+199,SMU,C-USA,13-19,-7.2,5.4,-1.8,2012
+200,Austin Peay,OVC,20-Dec,2.0,-3.9,-1.9,2012
+201,Miami (OH),MAC E,21-Sep,-5.7,3.7,-2.0,2012
+202,Central Connecticut,NEC,13-16,0.5,-2.6,-2.0,2012
+203,Chattanooga,Southern,21-Nov,0.0,-2.3,-2.2,2012
+204,Cornell,Ivy,16-Dec,-0.7,-1.6,-2.2,2012
+205,High Point,Big South,13-18,0.9,-3.2,-2.3,2012
+206,Arkansas Little Rock,Sun Belt,15-16,-3.7,1.4,-2.3,2012
+207,Wofford,Southern,19-14,-5.1,2.8,-2.3,2012
+208,Arkansas St.,Sun Belt,14-20,-3.2,0.7,-2.4,2012
+209,Rhode Island,A 10,24-Jul,2.6,-5.1,-2.5,2012
+210,Norfolk St.,MEAC,26-10,-1.1,-1.3,-2.5,2012
+211,St. Francis BKN,NEC,15-15,-0.9,-1.6,-2.5,2012
+212,Morehead St.,OVC,18-15,-6.7,4.0,-2.6,2012
+213,Tennessee Tech,OVC,19-14,1.8,-4.5,-2.6,2012
+214,Holy Cross,Patriot,15-14,-2.1,-0.5,-2.6,2012
+215,Western Illinois,Summit,18-15,-9.2,6.5,-2.7,2012
+216,Louisiana Tech,WAC,18-16,-0.2,-2.5,-2.7,2012
+217,IUPUI,Summit,14-18,3.2,-5.9,-2.8,2012
+218,McNeese St.,Southland,17-16,-3.0,0.2,-2.8,2012
+219,Rider,MAAC,13-19,3.2,-6.1,-2.9,2012
+220,Florida Atlantic,Sun Belt,19-Nov,-0.4,-2.7,-3.0,2012
+221,Lipscomb,A-Sun,13-18,2.3,-5.4,-3.1,2012
+222,Delaware St.,MEAC,15-14,-2.9,-0.2,-3.1,2012
+223,UC Riverside,Big West,14-17,-6.4,3.3,-3.1,2012
+224,USC,Pac-12,26-Jun,-11.3,8.0,-3.3,2012
+225,Utah Valley,WAC,20-13,-1.4,-1.9,-3.3,2012
+226,Wright St.,Horizon,13-19,-7.4,4.1,-3.3,2012
+227,Furman,Southern,15-16,-4.2,0.9,-3.3,2012
+228,Sacred Heart,NEC,14-18,1.6,-5.1,-3.5,2012
+229,Georgia Southern,Southern,15-15,-2.0,-1.5,-3.5,2012
+230,Elon,Southern,15-16,0.4,-3.9,-3.5,2012
+231,Presbyterian,Big South,14-15,-4.1,0.6,-3.6,2012
+232,Northwestern St.,Southland,16-16,-0.1,-3.5,-3.6,2012
+233,Siena,MAAC,14-17,-4.3,0.6,-3.7,2012
+234,South Alabama,Sun Belt,17-12,-2.1,-1.6,-3.7,2012
+235,James Madison,CAA,20-Dec,-0.5,-3.3,-3.8,2012
+236,UNC Wilmington,CAA,21-Oct,-1.4,-2.4,-3.8,2012
+237,Seattle,Indep.,15-Dec,2.6,-6.5,-3.8,2012
+238,Western Kentucky,Sun Belt,16-19,-2.6,-1.3,-3.9,2012
+239,Eastern Kentucky,OVC,16-16,-3.2,-0.7,-3.9,2012
+240,Winthrop,Big South,20-Dec,-5.4,1.5,-4.0,2012
+241,Gardner-Webb,Big South,20-Dec,-4.8,0.8,-4.0,2012
+242,SE Missouri St.,OVC,15-16,0.4,-4.5,-4.0,2012
+243,Texas St.,Sun Belt,13-17,3.6,-7.6,-4.1,2012
+244,Maine,Am. East,17-Dec,-0.9,-3.2,-4.1,2012
+245,Arizona St.,Pac-12,21-Oct,-4.8,0.7,-4.1,2012
+246,Appalachian St.,Southern,13-18,-1.1,-3.1,-4.2,2012
+247,Northern Colorado,Big Sky,19-Sep,2.8,-7.0,-4.2,2012
+248,Mississippi Valley St.,SWAC,21-13,-0.1,-4.2,-4.3,2012
+249,Jacksonville,A-Sun,22-Aug,-1.7,-2.6,-4.4,2012
+250,VMI,Southern,17-16,7.5,-11.9,-4.4,2012
+251,Niagara,MAAC,14-19,1.7,-6.0,-4.4,2012
+252,Hawaii,WAC,16-16,0.3,-4.9,-4.6,2012
+253,Lafayette,Patriot,13-18,1.5,-6.2,-4.7,2012
+254,Southern Illinois,MVC,23-Aug,-3.5,-1.3,-4.8,2012
+255,Morgan St.,MEAC,20-Sep,-2.0,-2.9,-4.8,2012
+256,San Diego,WCC,13-18,-1.8,-3.1,-4.8,2012
+257,Texas Tech,Big 12,23-Aug,-5.7,0.6,-5.1,2012
+258,Cal St. Bakersfield,Indep.,16-15,-2.4,-2.8,-5.1,2012
+259,Santa Clara,WCC,22-Aug,0.7,-5.9,-5.2,2012
+260,Florida Int'l,Sun Belt,21-Aug,-3.4,-1.9,-5.2,2012
+261,Stetson,A-Sun,20-Sep,2.2,-7.4,-5.2,2012
+262,Central Michigan,MAC W,21-Nov,-4.6,-0.9,-5.5,2012
+263,Montana St.,Big Sky,17-Dec,-0.6,-5.1,-5.7,2012
+264,Hampton,MEAC,21-Dec,-4.6,-1.1,-5.7,2012
+265,Jacksonville St.,OVC,15-18,-5.6,-0.1,-5.7,2012
+266,Southern Utah,Summit,14-17,-4.8,-1.0,-5.8,2012
+267,Marist,MAAC,14-18,0.1,-5.9,-5.8,2012
+268,North Dakota,Big Sky,17-15,-3.5,-2.4,-5.9,2012
+269,Troy,Sun Belt,18-Oct,2.6,-8.5,-5.9,2012
+270,Texas Southern,SWAC,15-18,-6.6,0.7,-5.9,2012
+271,San JosÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© St.,WAC,22-Sep,-0.8,-5.2,-6.0,2012
+272,Samford,Southern,19-Nov,-3.1,-2.9,-6.0,2012
+273,Bethune-Cookman,MEAC,18-17,-5.3,-0.9,-6.1,2012
+274,Bradley,MVC,25-Jul,-3.3,-2.9,-6.2,2012
+275,NJIT,A-Sun,15-17,-4.0,-2.2,-6.2,2012
+276,Fordham,A 10,19-Oct,-4.5,-1.8,-6.2,2012
+277,Liberty,Big South,14-18,-1.4,-4.8,-6.3,2012
+278,New Hampshire,Am. East,13-16,-7.8,1.5,-6.3,2012
+279,Eastern Michigan,MAC W,14-18,-13.0,6.6,-6.4,2012
+280,Army,Patriot,18-Dec,-2.1,-4.4,-6.4,2012
+281,Coppin St.,MEAC,14-16,3.1,-9.6,-6.5,2012
+282,North Carolina A&T,MEAC,20-Dec,-1.1,-5.4,-6.5,2012
+283,Loyola Chicago,Horizon,23-Jul,-9.2,2.6,-6.6,2012
+284,Sam Houston St.,Southland,13-19,-10.6,4.1,-6.6,2012
+285,Portland,WCC,24-Jul,-0.7,-6.0,-6.6,2012
+286,UC Irvine,Big West,20-Dec,-1.8,-4.9,-6.7,2012
+287,UNC Greensboro,Southern,13-19,0.8,-7.6,-6.8,2012
+288,Pepperdine,WCC,19-Oct,-8.7,1.6,-7.1,2012
+289,Sacramento St.,Big Sky,18-Oct,-4.3,-2.9,-7.3,2012
+290,Pacific,Big West,19-Nov,-6.5,-0.9,-7.3,2012
+291,Eastern Illinois,OVC,17-Dec,-3.5,-4.0,-7.4,2012
+292,Boston College,ACC,22-Sep,-5.1,-2.3,-7.4,2012
+293,SE Louisiana,Southland,17-Dec,-10.1,2.6,-7.5,2012
+294,Fort Wayne,Summit,19-Nov,-1.1,-6.4,-7.5,2012
+295,William & Mary,CAA,26-Jun,-5.9,-1.7,-7.6,2012
+296,South Dakota,Summit,18-Oct,0.0,-7.7,-7.7,2012
+297,Monmouth,NEC,20-Dec,-1.1,-6.6,-7.7,2012
+298,Dartmouth,Ivy,25-May,-10.2,2.1,-8.2,2012
+299,Mount St. Mary's,NEC,21-Aug,-8.0,-0.4,-8.4,2012
+300,Idaho St.,Big Sky,21-Sep,-2.4,-6.1,-8.5,2012
+301,UIC,Horizon,22-Aug,-5.9,-2.7,-8.6,2012
+302,UMKC,Summit,21-Oct,-4.8,-3.8,-8.7,2012
+303,Cal St. Northridge,Big West,21-Jul,-1.7,-7.1,-8.8,2012
+304,Navy,Patriot,26-Mar,-10.0,0.8,-9.2,2012
+305,Prairie View,SWAC,14-18,-7.3,-2.0,-9.3,2012
+306,Houston Baptist,Southland,20-Oct,0.3,-9.8,-9.5,2012
+307,Radford,Big South,26-Jun,-8.9,-0.8,-9.6,2012
+308,UT Rio Grande Valley,WAC,21-Nov,-7.3,-2.4,-9.7,2012
+309,Texas A&M-CC,Southland,24-Jun,-8.0,-1.9,-9.8,2012
+310,St. Francis (PA),NEC,23-Jun,-7.7,-2.3,-10.0,2012
+311,Hartford,Am. East,22-Sep,-8.0,-2.1,-10.0,2012
+312,Saint Peter's,MAAC,26-May,-9.8,-0.2,-10.1,2012
+313,SIU-Edwardsville,OVC,17-Oct,-4.2,-6.0,-10.2,2012
+314,The Citadel,Southern,24-Jun,-5.3,-5.1,-10.4,2012
+315,Florida A&M,MEAC,23-Oct,-3.2,-7.5,-10.7,2012
+316,Northern Arizona,Big Sky,24-May,-6.4,-4.4,-10.8,2012
+317,Colgate,Patriot,22-Aug,-3.7,-7.1,-10.8,2012
+318,Brown,Ivy,23-Aug,-6.9,-4.0,-10.9,2012
+319,Howard,MEAC,21-Oct,-7.8,-3.3,-11.0,2012
+320,Alabama St.,SWAC,19-Dec,-9.7,-1.4,-11.0,2012
+321,Southern,SWAC,17-14,-9.2,-2.0,-11.1,2012
+322,Canisius,MAAC,25-May,-4.0,-7.2,-11.2,2012
+323,Arkansas Pine Bluff,SWAC,22-Nov,-6.4,-4.9,-11.3,2012
+324,UC Davis,Big West,26-May,-5.1,-6.3,-11.4,2012
+325,UL Monroe,Sun Belt,26-Mar,-6.5,-5.2,-11.7,2012
+326,Jackson St.,SWAC,24-Jul,-10.9,-1.0,-11.9,2012
+327,Kennesaw St.,A-Sun,28-Mar,-5.7,-6.3,-12.0,2012
+328,Utah,Pac-12,25-Jun,-10.6,-1.4,-12.0,2012
+329,Fairleigh Dickinson,NEC,26-Mar,-7.5,-4.8,-12.3,2012
+330,Nicholls St.,Southland,20-Oct,-3.1,-9.3,-12.4,2012
+331,Maryland-Eastern Shore,MEAC,23-Jul,-7.4,-5.3,-12.7,2012
+332,Alcorn St.,SWAC,22-Oct,-6.9,-6.0,-12.9,2012
+333,Alabama A&M,SWAC,21-Jul,-5.6,-7.6,-13.1,2012
+334,Northern Illinois,MAC W,26-May,-11.7,-1.7,-13.5,2012
+335,Central Arkansas,Southland,21-Aug,-0.9,-12.7,-13.6,2012
+336,Tenn-Martin,OVC,27-Apr,-6.1,-8.1,-14.1,2012
+337,Longwood,Indep.,21-Oct,1.3,-15.9,-14.6,2012
+338,Towson,CAA,31-Jan,-13.6,-1.3,-14.9,2012
+339,Bryant,NEC,28-Feb,-6.2,-8.7,-14.9,2012
+340,UMBC,Am. East,26-Apr,-4.8,-10.2,-15.0,2012
+341,South Carolina St.,MEAC,26-May,-5.1,-10.4,-15.5,2012
+342,Chicago St.,WAC,26-Apr,-6.7,-9.0,-15.7,2012
+343,Binghamton,Am. East,Feb-29,-10.7,-6.0,-16.7,2012
+344,Grambling St.,SWAC,24-Apr,-14.0,-5.9,-19.9,2012
+1,Florida,SEC,29-8,7.5,13.7,21.2,2013
+2,Louisville,Big East,35-5,10.7,10.3,21.0,2013
+3,Indiana,Big Ten,29-7,13.8,6.4,20.2,2013
+4,Duke,ACC,30-6,12.2,5.4,17.6,2013
+5,Kansas,Big 12,31-6,9.8,6.9,16.8,2013
+6,Pittsburgh,Big East,24-9,4.5,12.2,16.7,2013
+7,Gonzaga,WCC,32-3,10.7,5.6,16.4,2013
+8,Michigan,Big Ten,31-8,11.0,5.0,16.1,2013
+9,Ohio St.,Big Ten,29-8,7.5,8.5,15.9,2013
+10,Wisconsin,Big Ten,23-12,2.4,13.2,15.6,2013
+11,Syracuse,Big East,30-10,7.0,8.0,15.0,2013
+12,Arizona,Pac-12,27-8,9.2,5.3,14.5,2013
+13,VCU,A 10,27-9,9.6,4.8,14.4,2013
+14,Georgetown,Big East,25-7,2.4,11.7,14.1,2013
+15,Miami FL,ACC,29-7,4.7,9.3,14.0,2013
+16,Michigan St.,Big Ten,27-9,3.9,10.0,13.9,2013
+17,Minnesota,Big Ten,21-13,6.3,7.2,13.5,2013
+18,Creighton,MVC,28-8,8.9,4.5,13.4,2013
+19,Missouri,SEC,23-11,10.2,2.2,12.4,2013
+20,Middle Tennessee,Sun Belt,28-6,3.9,8.2,12.1,2013
+21,Saint Mary's,WCC,28-7,8.6,3.5,12.1,2013
+22,Kentucky,SEC,21-12,7.8,4.2,12.0,2013
+23,Wichita St.,MVC,30-9,4.4,7.5,11.8,2013
+24,Marquette,Big East,26-9,6.1,5.3,11.5,2013
+25,Mississippi,SEC,27-9,10.3,1.2,11.5,2013
+26,Cincinnati,Big East,22-12,2.9,8.5,11.4,2013
+27,Iowa St.,Big 12,23-12,12.6,-1.3,11.3,2013
+28,Baylor,Big 12,23-14,9.0,2.3,11.3,2013
+29,North Carolina St.,ACC,24-11,11.6,-0.4,11.3,2013
+30,Kansas St.,Big 12,27-8,3.8,7.4,11.1,2013
+31,North Carolina,ACC,25-11,10.0,1.1,11.1,2013
+32,Oklahoma St.,Big 12,24-9,5.4,5.6,11.0,2013
+33,UNLV,MW,25-10,5.6,5.2,10.8,2013
+34,San Diego St.,MW,23-11,4.8,6.0,10.8,2013
+35,Saint Louis,A 10,28-7,1.9,8.8,10.7,2013
+36,Notre Dame,Big East,25-10,6.1,4.6,10.7,2013
+37,Belmont,Ohio Valley E,26-7,7.1,3.5,10.5,2013
+38,Memphis,C-USA,31-5,6.9,3.5,10.4,2013
+39,California,Pac-12,21-12,5.5,4.9,10.4,2013
+40,Virginia,ACC,23-12,-1.7,11.8,10.1,2013
+41,New Mexico,MW,29-6,3.9,6.0,10.0,2013
+42,Iowa,Big Ten,25-13,5.4,4.5,9.9,2013
+43,Oklahoma,Big 12,20-12,6.4,3.3,9.7,2013
+44,Davidson,Southern,26-8,6.4,3.3,9.7,2013
+45,Butler,A 10,27-9,4.4,4.6,9.0,2013
+46,Oregon,Pac-12,28-9,6.4,2.4,8.8,2013
+47,Connecticut,Big East,20-10,5.7,3.1,8.8,2013
+48,Boise St.,MW,21-11,6.7,1.9,8.6,2013
+49,Colorado St.,MW,26-9,6.7,1.8,8.6,2013
+50,La Salle,A 10,24-10,6.2,2.3,8.4,2013
+51,Southern Miss,C-USA,27-10,4.9,3.4,8.2,2013
+52,Maryland,ACC,25-13,4.3,3.9,8.1,2013
+53,Illinois,Big Ten,23-13,4.3,3.9,8.1,2013
+54,Akron,MAC E,26-7,4.5,3.6,8.1,2013
+55,Bucknell,Patriot,28-6,0.5,7.4,7.9,2013
+56,Alabama,SEC,23-13,-1.8,9.8,7.9,2013
+57,Temple,A 10,24-10,6.2,1.8,7.9,2013
+58,Denver,WAC,22-10,-2.2,10.1,7.9,2013
+59,Villanova,Big East,20-14,4.1,3.7,7.8,2013
+60,UCLA,Pac-12,25-10,8.8,-1.0,7.8,2013
+61,North Dakota St.,Summit,24-10,-1.3,9.0,7.8,2013
+62,Northern Iowa,MVC,21-15,1.4,6.1,7.5,2013
+63,Illinois St.,MVC,18-15,8.0,-0.6,7.4,2013
+64,Arkansas,SEC,19-13,7.9,-0.6,7.3,2013
+65,Stanford,Pac-12,19-15,4.5,2.8,7.3,2013
+66,Stony Brook,Am. East,25-8,0.2,7.0,7.2,2013
+67,Ohio,MAC E,24-10,5.5,1.6,7.2,2013
+68,Colorado,Pac-12,21-12,2.5,4.6,7.1,2013
+69,BYU,WCC,24-12,8.0,-1.0,7.0,2013
+70,Valparaiso,Horizon,26-8,3.9,3.1,7.0,2013
+71,Dayton,A 10,17-14,5.6,1.3,6.9,2013
+72,Tennessee,SEC,20-13,2.5,4.3,6.8,2013
+73,Providence,Big East,19-15,4.0,2.8,6.8,2013
+74,Saint Joseph's,A 10,18-14,2.3,4.5,6.8,2013
+75,Weber St.,Big Sky,30-7,4.1,2.6,6.7,2013
+76,Detroit,Horizon,20-13,10.1,-3.4,6.6,2013
+77,Stephen F. Austin,Southland,27-5,-6.3,12.7,6.4,2013
+78,Purdue,Big Ten,16-18,3.3,2.8,6.2,2013
+79,Lehigh,Patriot,21-10,5.6,0.5,6.1,2013
+80,Richmond,A 10,19-15,4.1,1.9,6.0,2013
+81,Louisiana Tech,WAC,27-7,3.2,2.6,5.8,2013
+82,Seton Hall,Big East,15-18,1.9,3.5,5.4,2013
+83,Santa Clara,WCC,26-12,6.8,-1.4,5.4,2013
+84,Arizona St.,Pac-12,22-13,3.7,1.7,5.3,2013
+85,Texas A&M,SEC,18-15,-1.4,6.1,4.8,2013
+86,Iona,MAAC,20-14,12.6,-7.9,4.7,2013
+87,Xavier,A 10,17-14,-0.3,5.0,4.7,2013
+88,South Dakota St.,Summit,25-10,4.8,-0.2,4.7,2013
+89,Princeton,Ivy,17-11,-2.4,7.0,4.6,2013
+90,Clemson,ACC,13-18,-3.4,8.0,4.6,2013
+91,Rutgers,Big East,15-16,1.3,3.3,4.6,2013
+92,North Carolina Central,MEAC,22-9,-1.3,5.7,4.4,2013
+93,Mercer,A-Sun,24-12,-1.7,5.9,4.2,2013
+94,Massachusetts,A 10,21-12,6.4,-2.2,4.2,2013
+95,Vanderbilt,SEC,16-17,-4.4,8.4,4.0,2013
+96,Washington St.,Pac-12,13-19,-0.3,4.3,4.0,2013
+97,Eastern Kentucky,Ohio Valley E,25-10,4.3,-0.4,4.0,2013
+98,Evansville,MVC,21-15,2.6,1.3,4.0,2013
+99,Texas,Big 12,16-18,0.9,2.9,3.8,2013
+100,St. John's,Big East,17-16,0.1,3.7,3.8,2013
+101,New Mexico St.,WAC,24-11,0.7,3.1,3.8,2013
+102,LSU,SEC,19-12,4.1,-0.3,3.8,2013
+103,Georgia Tech,ACC,16-15,-1.6,5.1,3.4,2013
+104,Canisius,MAAC,20-14,5.9,-2.5,3.4,2013
+105,Florida Gulf Coast,A-Sun,26-11,4.1,-0.7,3.3,2013
+106,West Virginia,Big 12,13-19,0.6,2.6,3.3,2013
+107,Georgia,SEC,15-17,-3.4,6.6,3.2,2013
+108,Washington,Pac-12,18-16,2.2,0.9,3.2,2013
+109,George Washington,A 10,13-17,-0.1,3.2,3.2,2013
+110,USC,Pac-12,14-18,0.9,2.2,3.1,2013
+111,Murray St.,Ohio Valley W,21-10,2.9,0.1,3.0,2013
+112,Loyola MD,MAAC,23-12,-0.1,3.0,2.9,2013
+113,Robert Morris,NEC,24-11,1.1,1.8,2.9,2013
+114,Indiana St.,MVC,18-15,-0.5,3.4,2.9,2013
+115,St. Bonaventure,A 10,14-15,4.8,-1.9,2.9,2013
+116,Boston College,ACC,16-17,2.6,0.3,2.9,2013
+117,Oral Roberts,Summit,20-15,3.3,-0.4,2.9,2013
+118,Utah St.,WAC,21-10,1.4,1.5,2.9,2013
+119,UTEP,C-USA,18-14,-2.4,5.3,2.8,2013
+120,Florida St.,ACC,18-16,2.2,0.6,2.8,2013
+121,Pacific,Big West,22-13,-0.5,3.1,2.5,2013
+122,Northwestern St.,Southland,23-9,7.6,-5.2,2.4,2013
+123,Green Bay,Horizon,18-16,-0.3,2.7,2.4,2013
+124,East Carolina,C-USA,23-12,6.1,-3.7,2.4,2013
+125,Harvard,Ivy,20-10,1.6,0.8,2.3,2013
+126,George Mason,CAA,22-16,1.0,1.3,2.3,2013
+127,UC Irvine,Big West,21-16,1.3,1.0,2.3,2013
+128,Charlotte,A 10,21-12,0.5,1.8,2.3,2013
+129,Northwestern,Big Ten,13-19,-2.6,4.6,2.0,2013
+130,UCF,C-USA,20-11,2.4,-0.4,2.0,2013
+131,Texas Southern,SWAC,17-14,2.0,-0.2,1.9,2013
+132,South Florida,Big East,19-Dec,-4.3,6.1,1.8,2013
+133,Oregon St.,Pac-12,14-18,5.1,-3.4,1.7,2013
+134,Wright St.,Horizon,23-13,-5.4,7.1,1.7,2013
+135,Fairfield,MAAC,19-16,-5.6,7.3,1.7,2013
+136,Drake,MVC,15-17,5.3,-3.6,1.7,2013
+137,Fresno St.,MW,19-Nov,-4.7,6.4,1.7,2013
+138,Arkansas St.,Sun Belt,19-12,-1.1,2.8,1.7,2013
+139,Utah,Pac-12,15-18,-2.5,4.2,1.6,2013
+140,UT Arlington,WAC,19-14,-2.4,3.9,1.6,2013
+141,Wyoming,MW,20-14,-5.9,7.4,1.5,2013
+142,Kent St.,MAC E,21-14,3.8,-2.3,1.5,2013
+143,Army,Patriot,16-15,4.0,-2.6,1.4,2013
+144,Vermont,Am. East,21-12,-3.9,5.3,1.4,2013
+145,Charleston Southern,Big South S,19-13,3.7,-2.3,1.4,2013
+146,Western Michigan,MAC W,22-13,-0.2,1.6,1.3,2013
+147,Albany,Am. East,24-11,-1.7,3.1,1.3,2013
+148,DePaul,Big East,21-Nov,6.9,-5.5,1.3,2013
+149,Western Illinois,Summit,22-9,-8.8,10.2,1.3,2013
+150,Niagara,MAAC,19-14,5.8,-4.5,1.3,2013
+151,College of Charleston,Southern,24-11,-1.5,2.7,1.3,2013
+152,Boston University,Am. East,17-13,1.3,-0.1,1.1,2013
+153,Southern,SWAC,23-10,-2.9,4.0,1.1,2013
+154,Montana,Big Sky,25-7,0.2,0.7,0.9,2013
+155,Wake Forest,ACC,13-18,1.5,-0.7,0.9,2013
+156,Tulane,C-USA,20-15,1.5,-0.6,0.9,2013
+157,Tennessee St.,Ohio Valley E,18-15,2.8,-2.0,0.8,2013
+158,Air Force,MW,18-14,3.0,-2.3,0.7,2013
+159,Cal Poly,Big West,18-14,-3.2,3.8,0.6,2013
+160,Penn St.,Big Ten,21-Oct,-1.3,1.8,0.5,2013
+161,Nebraska,Big Ten,15-18,-5.1,5.4,0.4,2013
+162,Manhattan,MAAC,14-18,-6.9,7.2,0.3,2013
+163,Bradley,MVC,18-17,1.0,-0.9,0.1,2013
+164,Rider,MAAC,19-15,-2.6,2.7,0.1,2013
+165,UAB,C-USA,16-17,3.5,-3.4,0.1,2013
+166,Houston,C-USA,20-13,7.9,-7.9,0.0,2013
+167,Loyola Chicago,Horizon,15-16,-2.9,2.9,-0.1,2013
+168,Delaware,CAA,19-14,2.6,-2.7,-0.1,2013
+169,Bryant,NEC,19-12,3.8,-4.0,-0.2,2013
+170,San Francisco,WCC,15-16,1.3,-1.6,-0.3,2013
+171,Georgia St.,CAA,15-16,-0.1,-0.2,-0.4,2013
+172,Southern Illinois,MVC,14-17,-2.8,2.4,-0.4,2013
+173,Western Kentucky,Sun Belt,20-16,-1.5,1.1,-0.4,2013
+174,San Diego,WCC,16-18,-1.8,1.3,-0.4,2013
+175,SMU,C-USA,15-17,-3.0,2.5,-0.5,2013
+176,Elon,Southern,21-12,-0.9,0.4,-0.5,2013
+177,Virginia Tech,ACC,13-19,4.1,-4.7,-0.6,2013
+178,Drexel,CAA,13-18,-3.2,2.6,-0.6,2013
+179,Gardner-Webb,Big South S,21-13,-4.4,3.8,-0.6,2013
+180,Northeastern,CAA,20-13,1.5,-2.2,-0.7,2013
+181,South Carolina Upstate,A-Sun,16-17,0.2,-0.9,-0.7,2013
+182,Youngstown St.,Horizon,18-16,3.0,-3.8,-0.8,2013
+183,Toledo,MAC W,15-13,2.0,-2.8,-0.8,2013
+184,Cal St. Northridge,Big West,14-17,6.0,-6.8,-0.9,2013
+185,LIU Brooklyn,NEC,20-14,7.8,-8.7,-0.9,2013
+186,Towson,CAA,18-13,0.1,-1.1,-1.0,2013
+187,Hawaii,Big West,17-15,0.2,-1.2,-1.0,2013
+188,Yale,Ivy,14-17,0.0,-1.0,-1.0,2013
+189,South Carolina,SEC,14-18,1.2,-2.2,-1.0,2013
+190,High Point,Big South N,17-14,-0.3,-0.8,-1.0,2013
+191,Auburn,SEC,23-Sep,-0.1,-1.1,-1.1,2013
+192,Quinnipiac,NEC,15-16,1.7,-2.9,-1.2,2013
+193,Cal St. Fullerton,Big West,14-18,5.9,-7.1,-1.2,2013
+194,Morgan St.,MEAC,17-15,0.3,-1.5,-1.3,2013
+195,Savannah St.,MEAC,19-15,-9.7,8.4,-1.3,2013
+196,Tulsa,C-USA,17-16,0.8,-2.1,-1.4,2013
+197,South Alabama,Sun Belt,17-13,0.5,-1.9,-1.4,2013
+198,Idaho,WAC,18-Dec,1.7,-3.2,-1.4,2013
+199,UNC Asheville,Big South S,16-16,1.4,-2.8,-1.4,2013
+200,Florida Int'l,Sun Belt,18-14,1.8,-3.3,-1.5,2013
+201,UC Davis,Big West,14-17,3.0,-4.5,-1.5,2013
+202,Oakland,Summit,16-17,5.9,-7.4,-1.5,2013
+203,Long Beach St.,Big West,19-14,1.3,-2.9,-1.6,2013
+204,Jacksonville St.,Ohio Valley E,17-11,-2.4,0.8,-1.6,2013
+205,UIC,Horizon,18-16,-3.7,2.0,-1.7,2013
+206,Coastal Carolina,Big South S,14-15,-3.0,1.1,-1.9,2013
+207,Columbia,Ivy,16-Dec,-5.4,3.5,-2.0,2013
+208,Buffalo,MAC E,14-20,-0.6,-1.4,-2.0,2013
+209,Rhode Island,A 10,21-Aug,-3.9,1.9,-2.0,2013
+210,Sam Houston St.,Southland,17-17,-6.4,4.3,-2.2,2013
+211,Wagner,NEC,19-12,-0.8,-1.4,-2.2,2013
+212,Morehead St.,Ohio Valley E,15-18,2.4,-4.6,-2.2,2013
+213,William & Mary,CAA,13-17,1.0,-3.2,-2.2,2013
+214,James Madison,CAA,21-15,-2.6,0.3,-2.3,2013
+215,Lafayette,Patriot,19-15,0.7,-3.0,-2.3,2013
+216,SE Missouri St.,Ohio Valley W,17-16,3.0,-5.3,-2.3,2013
+217,Marshall,C-USA,13-19,1.1,-3.5,-2.4,2013
+218,Norfolk St.,MEAC,21-12,-1.9,-0.7,-2.5,2013
+219,Arkansas Little Rock,Sun Belt,17-15,-2.0,-0.5,-2.5,2013
+220,Nevada,MW,19-Dec,0.8,-3.4,-2.6,2013
+221,St. Francis BKN,NEC,18-Dec,0.5,-3.2,-2.7,2013
+222,Bowling Green,MAC E,13-19,-4.9,2.2,-2.8,2013
+223,UC Santa Barbara,Big West,20-Nov,-2.9,-0.2,-3.0,2013
+224,Mount St. Mary's,NEC,18-14,0.7,-3.8,-3.1,2013
+225,NJIT,A-Sun,16-13,-2.1,-1.2,-3.3,2013
+226,Missouri St.,MVC,22-Nov,-6.1,2.8,-3.3,2013
+227,Wofford,Southern,13-19,-9.0,5.7,-3.4,2013
+228,Loyola Marymount,WCC,23-Nov,-3.3,-0.2,-3.5,2013
+229,Western Carolina,Southern,14-19,0.3,-3.8,-3.5,2013
+230,Fort Wayne,Summit,16-17,-2.2,-1.4,-3.6,2013
+231,Hartford,Am. East,17-14,-7.4,3.8,-3.6,2013
+232,Stetson,A-Sun,15-16,1.1,-4.8,-3.7,2013
+233,North Carolina A&T,MEAC,20-17,-5.7,1.9,-3.7,2013
+234,Florida Atlantic,Sun Belt,14-18,-2.4,-1.6,-4.0,2013
+235,Louisiana,Sun Belt,13-20,1.4,-5.5,-4.1,2013
+236,Cal St. Bakersfield,Indep.,14-16,-1.0,-3.1,-4.1,2013
+237,Holy Cross,Patriot,18-Dec,-5.2,1.1,-4.1,2013
+238,North Florida,A-Sun,13-19,-1.0,-3.2,-4.2,2013
+239,Marist,MAAC,21-Oct,0.0,-4.2,-4.2,2013
+240,Mississippi St.,SEC,22-Oct,-3.7,-0.5,-4.2,2013
+241,Duquesne,A 10,22-Aug,1.9,-6.1,-4.3,2013
+242,Brown,Ivy,13-15,-4.9,0.6,-4.3,2013
+243,UTSA,WAC,22-Oct,-1.6,-2.9,-4.5,2013
+244,Northern Colorado,Big Sky,13-18,0.7,-5.3,-4.6,2013
+245,South Dakota,Summit,20-Oct,2.1,-6.8,-4.7,2013
+246,Central Connecticut,NEC,13-17,3.2,-7.9,-4.7,2013
+247,Pepperdine,WCC,18-Dec,-4.6,-0.2,-4.7,2013
+248,New Hampshire,Am. East,20-Sep,-6.8,2.0,-4.8,2013
+249,North Dakota,Big Sky,16-17,-2.3,-2.7,-5.0,2013
+250,Cornell,Ivy,13-18,-1.1,-3.9,-5.0,2013
+251,Ball St.,MAC W,15-15,-2.8,-2.2,-5.0,2013
+252,North Texas,Sun Belt,20-Dec,-2.3,-2.8,-5.0,2013
+253,Seattle,WAC,22-Aug,-2.5,-2.7,-5.2,2013
+254,Bethune-Cookman,MEAC,14-20,-1.6,-3.6,-5.2,2013
+255,Appalachian St.,Southern,15-16,0.2,-5.4,-5.2,2013
+256,Tennessee Tech,Ohio Valley E,17-Dec,-4.2,-1.0,-5.3,2013
+257,Northern Kentucky,A-Sun,16-Nov,-8.8,3.3,-5.5,2013
+258,Hampton,MEAC,14-17,-4.8,-0.7,-5.5,2013
+259,Penn,Ivy,22-Sep,-3.7,-1.9,-5.5,2013
+260,Old Dominion,CAA,25-May,-2.2,-3.4,-5.6,2013
+261,Maine,Am. East,19-Nov,-1.2,-4.5,-5.7,2013
+262,Sacred Heart,NEC,20-Sep,1.5,-7.3,-5.7,2013
+263,Texas Tech,Big 12,20-Nov,-0.8,-5.0,-5.7,2013
+264,Miami (OH),MAC E,22-Sep,-3.4,-2.4,-5.8,2013
+265,Nicholls St.,Southland,21-Sep,0.0,-5.8,-5.8,2013
+266,TCU,Big 12,21-Nov,-10.5,4.7,-5.8,2013
+267,American,Patriot,20-Oct,-7.6,1.8,-5.8,2013
+268,Texas St.,WAC,22-Dec,2.4,-8.3,-5.9,2013
+269,Sacramento St.,Big Sky,14-15,-5.5,-0.4,-5.9,2013
+270,Portland,WCC,21-Nov,-5.7,-0.2,-6.0,2013
+271,Fordham,A 10,24-Jul,-0.3,-5.7,-6.0,2013
+272,Eastern Michigan,MAC W,16-18,-11.4,5.4,-6.1,2013
+273,SE Louisiana,Southland,13-18,-4.2,-1.9,-6.1,2013
+274,VMI,Big South N,14-17,4.7,-10.9,-6.2,2013
+275,Winthrop,Big South S,14-17,-9.3,3.0,-6.2,2013
+276,Saint Peter's,MAAC,21-Sep,-7.7,1.5,-6.2,2013
+277,Central Michigan,MAC W,20-Nov,0.6,-6.9,-6.3,2013
+278,Jacksonville,A-Sun,14-18,-0.7,-5.6,-6.3,2013
+279,San JosÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© St.,WAC,20-Sep,-4.6,-1.7,-6.3,2013
+280,Colgate,Patriot,21-Nov,-2.5,-3.9,-6.4,2013
+281,Austin Peay,Ohio Valley W,23-Aug,1.8,-8.2,-6.4,2013
+282,Cleveland St.,Horizon,14-18,-3.8,-2.7,-6.5,2013
+283,Liberty,Big South N,15-21,-1.8,-4.7,-6.5,2013
+284,Georgia Southern,Southern,14-19,-6.6,0.0,-6.5,2013
+285,Delaware St.,MEAC,15-18,-6.3,-0.4,-6.7,2013
+286,Eastern Washington,Big Sky,21-Oct,0.4,-7.1,-6.7,2013
+287,UNC Greensboro,Southern,22-Sep,1.0,-7.7,-6.8,2013
+288,Troy,Sun Belt,21-Dec,-5.6,-1.4,-6.9,2013
+289,Central Arkansas,Southland,13-17,4.8,-11.8,-7.0,2013
+290,McNeese St.,Southland,14-17,-3.8,-3.3,-7.1,2013
+291,Arkansas Pine Bluff,SWAC,16-14,-5.3,-1.8,-7.1,2013
+292,Utah Valley,WAC,14-18,-2.3,-4.8,-7.1,2013
+293,Dartmouth,Ivy,19-Sep,-6.3,-0.8,-7.1,2013
+294,Samford,Southern,21-Nov,-6.3,-1.0,-7.3,2013
+295,Milwaukee,Horizon,24-Aug,-3.7,-4.0,-7.6,2013
+296,Chattanooga,Southern,13-19,-1.3,-6.4,-7.7,2013
+297,Lipscomb,A-Sun,18-Dec,0.4,-8.1,-7.7,2013
+298,Monmouth,NEC,21-Oct,-3.9,-3.9,-7.8,2013
+299,Radford,Big South N,13-19,-4.9,-2.9,-7.8,2013
+300,SIU-Edwardsville,Ohio Valley W,18-Sep,-5.8,-2.0,-7.9,2013
+301,UNC Wilmington,CAA,20-Oct,-4.5,-3.5,-8.0,2013
+302,Portland St.,Big Sky,20-Aug,-0.8,-7.3,-8.1,2013
+303,Prairie View,SWAC,15-19,-6.0,-2.1,-8.1,2013
+304,Eastern Illinois,Ohio Valley W,21-Nov,-8.5,0.2,-8.2,2013
+305,Campbell,Big South N,13-20,-1.6,-6.6,-8.2,2013
+306,Chicago St.,WAC,22-Nov,-4.9,-3.6,-8.5,2013
+307,Montana St.,Big Sky,13-17,-1.0,-7.8,-8.8,2013
+308,Hofstra,CAA,25-Jul,-8.4,-0.5,-8.8,2013
+309,Texas A&M-CC,Southland,23-Jun,-8.0,-0.8,-8.9,2013
+310,Jackson St.,SWAC,18-Nov,-2.6,-6.2,-8.9,2013
+311,Southern Utah,Big Sky,20-Nov,-3.0,-5.9,-8.9,2013
+312,Siena,MAAC,24-Aug,-6.6,-2.3,-8.9,2013
+313,Navy,Patriot,23-Aug,-11.9,2.9,-9.0,2013
+314,Coppin St.,MEAC,24-Aug,-3.2,-5.9,-9.1,2013
+315,East Tennessee St.,A-Sun,22-Oct,-6.1,-3.3,-9.3,2013
+316,UMBC,Am. East,23-Aug,-3.5,-6.1,-9.7,2013
+317,UC Riverside,Big West,25-Jun,-10.0,0.2,-9.9,2013
+318,Florida A&M,MEAC,23-Aug,-3.1,-7.0,-10.1,2013
+319,UT Rio Grande Valley,WAC,16-16,-5.3,-5.0,-10.3,2013
+320,Alcorn St.,SWAC,24-Oct,-8.8,-1.5,-10.3,2013
+321,Northern Illinois,MAC W,25-May,-12.8,2.5,-10.3,2013
+322,Northern Arizona,Big Sky,21-Nov,-2.0,-8.5,-10.5,2013
+323,Houston Baptist,Southland,14-17,-6.4,-4.2,-10.6,2013
+324,Howard,MEAC,24-Jul,-14.9,3.9,-11.1,2013
+325,UMKC,Summit,24-Aug,-7.0,-4.4,-11.4,2013
+326,St. Francis (PA),NEC,24-May,-7.0,-4.4,-11.4,2013
+327,Idaho St.,Big Sky,24-Jun,-12.0,0.6,-11.4,2013
+328,Alabama St.,SWAC,22-Oct,-6.2,-5.4,-11.6,2013
+329,New Orleans,Indep.,18-Aug,-3.2,-8.5,-11.7,2013
+330,Tenn-Martin,Ohio Valley W,21-Sep,-3.2,-8.6,-11.8,2013
+331,Kennesaw St.,A-Sun,27-Mar,-6.2,-5.6,-11.9,2013
+332,UL Monroe,Sun Belt,23-Apr,-6.6,-5.3,-11.9,2013
+333,Rice,C-USA,26-May,-7.7,-4.2,-11.9,2013
+334,The Citadel,Southern,22-Aug,-4.4,-7.9,-12.3,2013
+335,Omaha,Summit,20-Nov,1.5,-13.9,-12.4,2013
+336,Presbyterian,Big South S,24-Aug,-6.9,-5.6,-12.5,2013
+337,IUPUI,Summit,26-Jun,-2.7,-10.0,-12.7,2013
+338,Furman,Southern,24-Jul,-7.8,-5.3,-13.1,2013
+339,Mississippi Valley St.,SWAC,23-May,-4.4,-8.8,-13.1,2013
+340,Alabama A&M,SWAC,20-Nov,-6.5,-6.8,-13.2,2013
+341,Fairleigh Dickinson,NEC,24-Jul,-3.4,-10.0,-13.4,2013
+342,South Carolina St.,MEAC,24-Jun,-7.0,-6.8,-13.8,2013
+343,Binghamton,Am. East,27-Mar,-10.0,-4.5,-14.5,2013
+344,Maryland-Eastern Shore,MEAC,26-Feb,-9.9,-4.7,-14.6,2013
+345,Longwood,Big South N,25-Aug,-1.9,-13.2,-15.2,2013
+346,Lamar,Southland,28-Mar,-7.0,-8.5,-15.5,2013
+347,Grambling St.,SWAC,0-28,-17.2,-10.7,-28.0,2013
+1,Louisville,American,31-6,10.7,9.4,20.1,2014
+2,Florida,SEC,36-3,5.2,14.0,19.2,2014
+3,Duke,ACC,26-9,13.6,5.2,18.8,2014
+4,Arizona,Pac-12,33-5,5.9,11.8,17.7,2014
+5,Virginia,ACC,30-7,0.2,16.1,16.4,2014
+6,Villanova,Big East,29-5,8.7,7.5,16.2,2014
+7,Kansas,Big 12,25-10,11.0,4.8,15.8,2014
+8,Wisconsin,Big Ten,30-8,7.8,8.0,15.8,2014
+9,Michigan,Big Ten,28-9,8.7,7.0,15.7,2014
+10,Pittsburgh,ACC,26-10,7.1,8.3,15.4,2014
+11,Michigan St.,Big Ten,29-9,8.5,6.9,15.4,2014
+12,Kentucky,SEC,29-10,8.9,6.0,14.9,2014
+13,Creighton,Big East,27-8,11.4,3.3,14.8,2014
+14,Wichita St.,MVC,35-1,5.4,9.2,14.6,2014
+15,Tennessee,SEC,24-13,5.1,9.4,14.5,2014
+16,Syracuse,ACC,28-6,1.7,12.6,14.3,2014
+17,Oklahoma St.,Big 12,21-13,10.3,3.8,14.1,2014
+18,Iowa,Big Ten,20-13,12.4,1.7,14.1,2014
+19,Ohio St.,Big Ten,25-10,2.1,11.8,13.8,2014
+20,UCLA,Pac-12,28-9,12.0,1.8,13.8,2014
+21,San Diego St.,MW,31-5,1.8,11.5,13.3,2014
+22,VCU,A 10,26-9,6.8,6.2,13.0,2014
+23,Iowa St.,Big 12,28-8,12.8,0.0,12.9,2014
+24,Gonzaga,WCC,29-7,7.1,5.7,12.8,2014
+25,Connecticut,American,31-8,4.3,8.5,12.7,2014
+26,Cincinnati,American,27-7,-0.1,12.2,12.1,2014
+27,North Carolina,ACC,24-10,8.2,3.8,12.0,2014
+28,Harvard,Ivy,27-5,4.6,7.2,11.8,2014
+29,Oregon,Pac-12,24-10,11.7,-0.2,11.4,2014
+30,Arkansas,SEC,22-12,10.3,1.1,11.4,2014
+31,Baylor,Big 12,26-12,5.8,5.2,11.0,2014
+32,Louisiana Tech,C-USA,29-8,7.6,3.1,10.7,2014
+33,Florida St.,ACC,22-14,4.4,5.7,10.1,2014
+34,Arizona St.,Pac-12,21-12,7.6,2.4,10.1,2014
+35,Memphis,American,24-10,7.3,2.7,10.0,2014
+36,SMU,American,27-10,2.6,7.3,9.9,2014
+37,Saint Louis,A 10,27-7,1.0,8.9,9.9,2014
+38,Utah,Pac-12,21-12,3.4,6.5,9.9,2014
+39,Xavier,Big East,21-13,5.1,4.5,9.6,2014
+40,St. John's,Big East,20-13,4.4,5.2,9.5,2014
+41,Oklahoma,Big 12,22-11,11.4,-1.9,9.5,2014
+42,Clemson,ACC,23-13,-4.0,13.2,9.2,2014
+43,North Dakota St.,Summit,26-7,4.9,4.3,9.2,2014
+44,George Washington,A 10,24-9,3.9,5.2,9.1,2014
+45,New Mexico,MW,27-7,5.8,3.3,9.1,2014
+46,Georgetown,Big East,18-15,3.3,5.8,9.1,2014
+47,Massachusetts,A 10,24-9,7.6,1.5,9.1,2014
+48,Providence,Big East,23-12,6.2,2.7,8.8,2014
+49,Dayton,A 10,26-11,4.5,4.1,8.6,2014
+50,Maryland,ACC,17-15,4.6,3.9,8.5,2014
+51,Marquette,Big East,17-15,5.3,3.2,8.4,2014
+52,Kansas St.,Big 12,20-13,0.4,8.0,8.4,2014
+53,West Virginia,Big 12,17-16,7.9,0.4,8.3,2014
+54,Texas,Big 12,24-11,5.0,3.3,8.3,2014
+55,Missouri,SEC,23-12,6.1,1.9,8.0,2014
+56,California,Pac-12,21-14,3.8,4.1,7.9,2014
+57,LSU,SEC,20-14,6.2,1.6,7.8,2014
+58,BYU,WCC,23-12,10.8,-3.2,7.6,2014
+59,Saint Mary's,WCC,23-12,1.9,5.7,7.6,2014
+60,Saint Joseph's,A 10,24-10,3.8,3.6,7.4,2014
+61,Stanford,Pac-12,23-13,4.5,3.0,7.4,2014
+62,Indiana,Big Ten,17-15,4.1,3.2,7.4,2014
+63,Boise St.,MW,21-13,5.7,1.6,7.3,2014
+64,Iona,MAAC,22-11,11.7,-4.3,7.3,2014
+65,Southern Miss,C-USA,29-7,1.5,5.8,7.3,2014
+66,New Mexico St.,WAC,26-10,5.1,1.9,7.0,2014
+67,UNLV,MW,20-13,3.0,4.0,7.0,2014
+68,North Carolina Central,MEAC,28-6,0.5,6.4,6.9,2014
+69,Manhattan,MAAC,25-8,5.0,1.9,6.9,2014
+70,Mercer,A-Sun,27-9,4.6,2.2,6.9,2014
+71,Illinois,Big Ten,20-15,-2.2,9.1,6.8,2014
+72,Seton Hall,Big East,17-17,3.4,3.4,6.7,2014
+73,Minnesota,Big Ten,25-13,3.7,3.0,6.7,2014
+74,Colorado,Pac-12,23-12,2.5,4.2,6.7,2014
+75,Alabama,SEC,14-18,0.0,6.5,6.5,2014
+76,Mississippi,SEC,19-14,6.6,-0.4,6.2,2014
+77,North Carolina St.,ACC,22-14,4.7,1.5,6.2,2014
+78,Cleveland St.,Horizon,21-12,2.2,4.0,6.2,2014
+79,Green Bay,Horizon,24-7,1.8,4.2,6.0,2014
+80,Georgia,SEC,20-14,0.3,5.6,5.9,2014
+81,Georgia St.,Sun Belt,25-9,5.6,0.2,5.8,2014
+82,Notre Dame,ACC,15-17,4.5,1.3,5.8,2014
+83,Butler,Big East,14-17,0.1,5.6,5.7,2014
+84,Nebraska,Big Ten,19-13,0.5,5.2,5.7,2014
+85,Purdue,Big Ten,15-17,5.0,0.7,5.6,2014
+86,Middle Tennessee,C-USA,24-9,-0.1,5.6,5.5,2014
+87,Stephen F. Austin,Southland,32-3,0.6,4.8,5.5,2014
+88,Vermont,Am. East,22-11,-0.7,6.2,5.4,2014
+89,St. Bonaventure,A 10,18-15,3.2,2.0,5.2,2014
+90,Richmond,A 10,19-14,-1.5,6.5,5.1,2014
+91,Northern Iowa,MVC,16-15,3.8,1.2,5.0,2014
+92,Penn St.,Big Ten,16-18,3.3,1.7,5.0,2014
+93,Toledo,MAC W,27-7,8.4,-3.5,4.9,2014
+94,La Salle,A 10,15-16,0.2,4.4,4.6,2014
+95,Wake Forest,ACC,17-16,2.5,2.0,4.5,2014
+96,UC Santa Barbara,Big West,21-9,0.7,3.7,4.4,2014
+97,Belmont,Ohio Valley E,26-10,7.3,-3.1,4.3,2014
+98,Texas A&M,SEC,18-16,-3.4,7.6,4.2,2014
+99,Tulsa,C-USA,21-13,1.8,2.4,4.2,2014
+100,Oregon St.,Pac-12,16-16,5.2,-1.1,4.1,2014
+101,UC Irvine,Big West,23-12,-1.8,5.9,4.1,2014
+102,Georgia Tech,ACC,16-17,0.0,4.1,4.1,2014
+103,Delaware,CAA,25-10,8.6,-4.5,4.1,2014
+104,Buffalo,MAC E,19-10,3.2,0.8,4.0,2014
+105,Eastern Kentucky,Ohio Valley E,24-10,4.3,-0.3,4.0,2014
+106,Texas Tech,Big 12,14-18,-0.6,4.5,3.9,2014
+107,Vanderbilt,SEC,15-16,-3.0,6.9,3.9,2014
+108,Drexel,CAA,16-14,0.6,3.2,3.8,2014
+109,Ohio,MAC E,25-12,0.9,2.8,3.7,2014
+110,South Carolina,SEC,14-20,1.1,2.6,3.7,2014
+111,San Francisco,WCC,21-12,3.3,0.3,3.6,2014
+112,Miami FL,ACC,17-16,-5.3,8.8,3.5,2014
+113,Princeton,Ivy,21-9,0.2,3.1,3.3,2014
+114,Utah St.,MW,18-14,0.9,2.4,3.3,2014
+115,Davidson,Southern,20-13,7.0,-3.7,3.3,2014
+116,UTEP,C-USA,23-11,-1.5,4.7,3.2,2014
+117,Washington,Pac-12,17-15,5.7,-2.5,3.1,2014
+118,Louisiana,Sun Belt,23-12,6.4,-3.3,3.1,2014
+119,Auburn,SEC,14-16,2.6,0.3,2.9,2014
+120,Western Michigan,MAC W,23-10,1.2,1.6,2.8,2014
+121,Indiana St.,MVC,23-11,0.7,1.8,2.6,2014
+122,Boston University,Patriot,24-11,1.5,1.0,2.6,2014
+123,Colorado St.,MW,16-16,3.1,-0.6,2.5,2014
+124,Wright St.,Horizon,21-15,-4.8,7.3,2.5,2014
+125,Eastern Michigan,MAC W,22-15,-5.2,7.6,2.5,2014
+126,Weber St.,Big Sky,19-12,0.1,2.4,2.4,2014
+127,Akron,MAC E,21-13,-0.8,3.2,2.4,2014
+128,Charleston Southern,Big South S,13-18,5.0,-2.6,2.4,2014
+129,Portland,WCC,15-16,3.4,-1.1,2.3,2014
+130,Boston College,ACC,24-Aug,3.0,-0.9,2.2,2014
+131,Canisius,MAAC,21-13,5.9,-3.9,2.1,2014
+132,Wyoming,MW,18-15,-4.9,6.9,2.0,2014
+133,Northwestern,Big Ten,14-19,-7.2,9.1,1.9,2014
+134,Valparaiso,Horizon,18-16,-0.9,2.7,1.8,2014
+135,Denver,Summit,16-15,-3.1,4.9,1.8,2014
+136,Hawaii,Big West,20-11,4.9,-3.1,1.8,2014
+137,American,Patriot,20-13,-6.7,8.3,1.6,2014
+138,Columbia,Ivy,21-13,-2.2,3.8,1.6,2014
+139,George Mason,A 10,20-Nov,0.5,0.9,1.4,2014
+140,Fresno St.,MW,21-18,2.9,-1.5,1.4,2014
+141,Duquesne,A 10,13-17,4.1,-2.6,1.4,2014
+142,Southern,SWAC,19-13,-2.5,3.9,1.4,2014
+143,Towson,CAA,25-11,1.5,-0.2,1.3,2014
+144,Quinnipiac,MAAC,20-12,5.9,-4.6,1.3,2014
+145,Murray St.,Ohio Valley W,23-11,2.9,-1.7,1.3,2014
+146,Fort Wayne,Summit,25-11,4.2,-2.9,1.2,2014
+147,Arkansas St.,Sun Belt,19-13,2.5,-1.4,1.2,2014
+148,Rhode Island,A 10,14-18,-1.9,2.9,1.1,2014
+149,Temple,American,22-Sep,5.0,-4.1,0.9,2014
+150,Missouri St.,MVC,20-13,-0.3,1.2,0.9,2014
+151,Youngstown St.,Horizon,15-17,4.6,-3.7,0.9,2014
+152,Santa Clara,WCC,14-19,0.8,0.0,0.8,2014
+153,Nevada,MW,15-17,2.8,-2.0,0.8,2014
+154,Pacific,WCC,18-16,3.6,-2.9,0.7,2014
+155,South Carolina Upstate,A-Sun,19-15,0.0,0.7,0.7,2014
+156,South Dakota St.,Summit,19-13,1.0,-0.4,0.6,2014
+157,Holy Cross,Patriot,20-14,-2.5,3.0,0.5,2014
+158,Milwaukee,Horizon,21-14,0.8,-0.3,0.5,2014
+159,Virginia Tech,ACC,22-Sep,-3.8,4.3,0.5,2014
+160,Stony Brook,Am. East,23-11,-0.9,1.2,0.3,2014
+161,Illinois St.,MVC,18-16,-1.2,1.5,0.3,2014
+162,UCF,American,13-18,2.9,-2.8,0.2,2014
+163,Kent St.,MAC E,16-16,-0.5,0.7,0.2,2014
+164,William & Mary,CAA,20-12,2.5,-2.4,0.1,2014
+165,Yale,Ivy,19-14,-3.4,3.3,0.0,2014
+166,Bucknell,Patriot,16-14,-4.2,4.2,0.0,2014
+167,Brown,Ivy,15-14,-0.4,0.4,0.0,2014
+168,UAB,C-USA,18-13,1.0,-1.0,0.0,2014
+169,Charlotte,C-USA,17-14,1.1,-1.1,0.0,2014
+170,Houston,American,17-16,2.6,-2.6,-0.1,2014
+171,San Diego,WCC,18-17,-4.1,4.0,-0.1,2014
+172,Sam Houston St.,Southland,24-11,1.5,-1.6,-0.1,2014
+173,Western Kentucky,Sun Belt,20-12,-2.5,2.3,-0.2,2014
+174,Drake,MVC,15-16,-1.3,1.0,-0.2,2014
+175,Morehead St.,Ohio Valley E,20-14,2.1,-2.4,-0.3,2014
+176,Wofford,Southern,20-13,-6.6,6.2,-0.4,2014
+177,Omaha,Summit,17-15,5.4,-5.9,-0.5,2014
+178,USC,Pac-12,21-Nov,1.5,-2.1,-0.5,2014
+179,Detroit,Horizon,13-19,-0.1,-0.6,-0.7,2014
+180,Long Beach St.,Big West,15-17,-1.0,0.3,-0.7,2014
+181,Siena,MAAC,20-18,-2.1,1.2,-0.9,2014
+182,Albany,Am. East,19-15,-4.4,3.4,-1.0,2014
+183,DePaul,Big East,21-Dec,1.4,-2.4,-1.0,2014
+184,Southern Illinois,MVC,14-19,-2.9,1.9,-1.0,2014
+185,Robert Morris,NEC,22-14,-0.3,-0.8,-1.1,2014
+186,Bowling Green,MAC E,20-Dec,-6.3,5.1,-1.2,2014
+187,Florida Gulf Coast,A-Sun,22-13,-2.7,1.5,-1.2,2014
+188,Oakland,Horizon,13-20,4.3,-5.6,-1.3,2014
+189,Elon,Southern,18-14,0.3,-1.6,-1.3,2014
+190,Oral Roberts,Southland,17-16,-1.1,-0.2,-1.3,2014
+191,Pepperdine,WCC,15-16,0.0,-1.4,-1.4,2014
+192,Colgate,Patriot,13-18,-0.9,-0.4,-1.4,2014
+193,Cal St. Bakersfield,WAC,13-19,-2.1,0.5,-1.6,2014
+194,St. Francis BKN,NEC,18-14,-3.3,1.6,-1.7,2014
+195,Loyola Marymount,WCC,13-19,2.8,-4.6,-1.8,2014
+196,Mississippi St.,SEC,14-19,-1.7,-0.1,-1.8,2014
+197,Coastal Carolina,Big South S,21-13,-2.9,1.1,-1.8,2014
+198,Old Dominion,C-USA,18-18,-5.3,3.5,-1.9,2014
+199,Utah Valley,WAC,20-12,-4.5,2.6,-1.9,2014
+200,Northeastern,CAA,21-Nov,-2.5,0.6,-1.9,2014
+201,Rutgers,American,21-Dec,1.7,-3.8,-2.0,2014
+202,Rider,MAAC,14-17,2.2,-4.3,-2.0,2014
+203,Dartmouth,Ivy,16-Dec,-3.2,1.2,-2.1,2014
+204,Northwestern St.,Southland,17-14,8.9,-11.0,-2.1,2014
+205,Montana,Big Sky,17-13,-1.9,-0.2,-2.1,2014
+206,Eastern Washington,Big Sky,15-16,4.1,-6.2,-2.1,2014
+207,Hampton,MEAC,18-13,-0.2,-1.9,-2.1,2014
+208,Cal Poly,Big West,14-20,-8.2,6.1,-2.1,2014
+209,Northern Colorado,Big Sky,18-14,1.2,-3.4,-2.1,2014
+210,Wagner,NEC,19-12,-2.9,0.7,-2.2,2014
+211,Washington St.,Pac-12,21-Oct,-5.8,3.6,-2.2,2014
+212,SE Missouri St.,Ohio Valley W,18-14,6.0,-8.3,-2.2,2014
+213,VMI,Big South N,22-13,10.2,-12.5,-2.3,2014
+214,South Florida,American,20-Dec,-2.5,0.2,-2.4,2014
+215,Gardner-Webb,Big South S,18-15,-1.5,-1.0,-2.5,2014
+216,Bryant,NEC,18-14,0.9,-3.4,-2.5,2014
+217,Northern Illinois,MAC W,15-17,-8.1,5.6,-2.5,2014
+218,UT Arlington,Sun Belt,15-17,4.1,-6.6,-2.5,2014
+219,Cal St. Northridge,Big West,17-18,5.2,-8.0,-2.8,2014
+220,UNC Asheville,Big South S,17-15,2.6,-5.6,-2.9,2014
+221,Seattle,WAC,13-17,-1.6,-1.3,-2.9,2014
+222,East Carolina,C-USA,17-17,0.4,-3.4,-3.0,2014
+223,Fordham,A 10,21-Oct,3.1,-6.2,-3.1,2014
+224,Marist,MAAC,19-Dec,-2.7,-0.4,-3.1,2014
+225,Western Carolina,Southern,19-15,0.3,-3.5,-3.1,2014
+226,Winthrop,Big South S,20-13,-0.2,-3.0,-3.2,2014
+227,Miami (OH),MAC E,13-18,-4.2,0.9,-3.3,2014
+228,Idaho St.,Big Sky,18-Nov,-2.1,-1.2,-3.3,2014
+229,Bradley,MVC,20-Dec,-6.0,2.7,-3.3,2014
+230,Radford,Big South N,22-13,1.8,-5.1,-3.3,2014
+231,Morgan St.,MEAC,15-16,-0.2,-3.1,-3.3,2014
+232,Hartford,Am. East,17-16,-5.2,1.8,-3.3,2014
+233,Cal St. Fullerton,Big West,20-Nov,-1.4,-2.0,-3.4,2014
+234,Texas Southern,SWAC,19-15,3.9,-7.2,-3.4,2014
+235,Arkansas Little Rock,Sun Belt,15-17,-0.5,-3.0,-3.5,2014
+236,North Dakota,Big Sky,17-17,2.3,-5.8,-3.5,2014
+237,Marshall,C-USA,22-Nov,0.3,-3.8,-3.5,2014
+238,Evansville,MVC,14-19,-1.0,-2.6,-3.6,2014
+239,College of Charleston,CAA,14-18,-7.3,3.7,-3.7,2014
+240,East Tennessee St.,A-Sun,19-16,2.2,-5.9,-3.7,2014
+241,Saint Peter's,MAAC,14-17,-8.5,4.6,-3.8,2014
+242,UL Monroe,Sun Belt,17-Oct,-6.7,2.9,-3.8,2014
+243,Lehigh,Patriot,14-18,-4.1,0.2,-3.9,2014
+244,Army,Patriot,15-16,0.8,-4.7,-3.9,2014
+245,North Florida,A-Sun,16-16,0.7,-4.6,-4.0,2014
+246,Northern Arizona,Big Sky,15-17,-4.7,0.6,-4.0,2014
+247,Tennessee Tech,Ohio Valley E,17-16,-1.8,-2.3,-4.1,2014
+248,Florida Int'l,C-USA,15-16,-2.7,-1.4,-4.1,2014
+249,South Dakota,Summit,18-Dec,-1.7,-2.3,-4.1,2014
+250,Air Force,MW,18-Dec,-4.6,0.5,-4.1,2014
+251,Central Michigan,MAC W,21-Oct,1.3,-5.4,-4.1,2014
+252,TCU,Big 12,22-Sep,-5.4,1.2,-4.2,2014
+253,Idaho,WAC,16-18,1.3,-5.6,-4.2,2014
+254,Florida Atlantic,C-USA,22-Oct,-4.9,0.6,-4.3,2014
+255,Mount St. Mary's,NEC,16-17,4.0,-8.4,-4.3,2014
+256,Western Illinois,Summit,20-Oct,-10.5,6.1,-4.4,2014
+257,Loyola Chicago,MVC,22-Oct,-4.2,-0.3,-4.5,2014
+258,Hofstra,CAA,23-Oct,-1.3,-3.2,-4.5,2014
+259,Fairfield,MAAC,25-Jul,-6.5,1.9,-4.6,2014
+260,Portland St.,Big Sky,17-15,-0.4,-4.3,-4.6,2014
+261,South Alabama,Sun Belt,20-Nov,-3.1,-1.5,-4.7,2014
+262,James Madison,CAA,20-Nov,-5.2,0.5,-4.7,2014
+263,High Point,Big South N,16-15,-2.1,-2.6,-4.7,2014
+264,Penn,Ivy,20-Aug,-2.0,-2.8,-4.8,2014
+265,Grand Canyon,WAC,15-15,-1.0,-3.8,-4.8,2014
+266,Liberty,Big South N,21-Nov,-4.0,-0.9,-4.9,2014
+267,Sacramento St.,Big Sky,14-16,-3.8,-1.2,-5.1,2014
+268,Monmouth,MAAC,21-Nov,-3.6,-1.6,-5.2,2014
+269,Niagara,MAAC,26-Jul,2.6,-7.8,-5.2,2014
+270,Louisiana Lafayette,Sun Belt,20-Nov,1.1,-6.3,-5.2,2014
+271,Troy,Sun Belt,20-Nov,-3.2,-2.1,-5.3,2014
+272,Texas A&M-CC,Southland,18-16,-5.7,0.4,-5.3,2014
+273,Chattanooga,Southern,18-15,-0.1,-5.4,-5.4,2014
+274,Lipscomb,A-Sun,15-15,1.7,-7.2,-5.4,2014
+275,UIC,Horizon,25-Jun,-3.2,-2.3,-5.6,2014
+276,North Texas,C-USA,16-16,-2.1,-3.5,-5.6,2014
+277,NJIT,Indep.,13-16,-2.1,-3.8,-5.9,2014
+278,Montana St.,Big Sky,14-17,-4.6,-1.5,-6.1,2014
+279,Austin Peay,Ohio Valley W,18-Dec,1.0,-7.1,-6.1,2014
+280,Savannah St.,MEAC,13-19,-9.7,3.3,-6.4,2014
+281,Norfolk St.,MEAC,19-15,-2.2,-4.4,-6.6,2014
+282,UC Riverside,Big West,21-Oct,-3.9,-2.8,-6.6,2014
+283,UNC Wilmington,CAA,23-Sep,-7.7,1.0,-6.7,2014
+284,Ball St.,MAC W,25-May,-3.7,-3.2,-6.9,2014
+285,Jackson St.,SWAC,20-Nov,-6.3,-0.8,-7.0,2014
+286,Tennessee St.,Ohio Valley E,25-May,-3.4,-3.7,-7.1,2014
+287,Texas St.,Sun Belt,23-Aug,-9.6,2.5,-7.1,2014
+288,Navy,Patriot,21-Sep,-9.4,2.1,-7.3,2014
+289,Incarnate Word,Southland,21-6,-1.0,-6.4,-7.4,2014
+290,Georgia Southern,Southern,15-19,-3.7,-3.8,-7.6,2014
+291,Delaware St.,MEAC,21-Sep,-10.1,2.4,-7.7,2014
+292,Loyola MD,Patriot,19-Nov,-4.3,-3.5,-7.8,2014
+293,Alabama St.,SWAC,19-13,-4.3,-3.7,-8.0,2014
+294,UMKC,WAC,20-Oct,-3.0,-5.0,-8.0,2014
+295,Tulane,C-USA,17-17,-7.2,-0.8,-8.0,2014
+296,UT Rio Grande Valley,WAC,23-Sep,-5.6,-2.5,-8.1,2014
+297,Northern Kentucky,A-Sun,21-Sep,-4.6,-3.6,-8.2,2014
+298,Jacksonville,A-Sun,18-Dec,0.5,-8.8,-8.3,2014
+299,Florida A&M,MEAC,14-18,-2.0,-6.4,-8.4,2014
+300,Eastern Illinois,Ohio Valley W,19-Nov,-5.3,-3.1,-8.4,2014
+301,Coppin St.,MEAC,20-Dec,-2.1,-6.4,-8.5,2014
+302,SIU-Edwardsville,Ohio Valley W,20-Nov,-2.2,-6.2,-8.5,2014
+303,San JosÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© St.,MW,24-Jul,-6.1,-2.5,-8.5,2014
+304,UNC Greensboro,Southern,14-18,-3.2,-5.4,-8.6,2014
+305,Jacksonville St.,Ohio Valley E,21-Oct,-7.8,-0.8,-8.6,2014
+306,Nicholls St.,Southland,14-15,-5.1,-3.5,-8.6,2014
+307,SE Louisiana,Southland,18-Dec,-5.1,-3.7,-8.8,2014
+308,Alabama A&M,SWAC,14-16,-8.7,-0.1,-8.8,2014
+309,Chicago St.,WAC,13-19,-1.8,-7.0,-8.9,2014
+310,UMass Lowell,Am. East,18-Oct,-7.9,-1.1,-9.0,2014
+311,New Orleans,Southland,15-Nov,-3.2,-5.8,-9.0,2014
+312,UC Davis,Big West,22-Sep,-1.5,-7.9,-9.5,2014
+313,Sacred Heart,NEC,26-May,-3.1,-6.4,-9.5,2014
+314,McNeese St.,Southland,20-Nov,-4.2,-5.5,-9.7,2014
+315,Rice,C-USA,23-Jul,-8.6,-1.2,-9.8,2014
+316,IUPUI,Summit,26-Jun,-5.0,-4.9,-9.9,2014
+317,Fairleigh Dickinson,NEC,21-Oct,-3.3,-6.6,-9.9,2014
+318,Central Connecticut,NEC,19-Nov,-2.2,-7.7,-10.0,2014
+319,Alcorn St.,SWAC,19-Dec,-9.3,-0.8,-10.0,2014
+320,Campbell,Big South N,20-Dec,-6.4,-3.8,-10.2,2014
+321,Abilene Christian,Southland,20-Nov,-6.3,-3.9,-10.2,2014
+322,UTSA,C-USA,22-Aug,-2.6,-7.7,-10.3,2014
+323,LIU Brooklyn,NEC,20-Sep,-0.3,-10.1,-10.3,2014
+324,Appalachian St.,Southern,21-Sep,-6.6,-3.8,-10.4,2014
+325,St. Francis (PA),NEC,21-Oct,-9.8,-0.7,-10.5,2014
+326,Arkansas Pine Bluff,SWAC,13-18,-8.8,-1.7,-10.6,2014
+327,New Hampshire,Am. East,24-Jun,-12.8,2.2,-10.6,2014
+328,Tenn-Martin,Ohio Valley W,23-Aug,-0.9,-9.9,-10.8,2014
+329,Samford,Southern,13-20,-3.5,-7.3,-10.8,2014
+330,Central Arkansas,Southland,21-Aug,-0.4,-10.4,-10.9,2014
+331,UMBC,Am. East,21-Sep,-5.6,-5.3,-10.9,2014
+332,Prairie View,SWAC,23-Nov,-3.3,-7.7,-11.0,2014
+333,Bethune-Cookman,MEAC,25-Jul,-8.1,-3.0,-11.0,2014
+334,North Carolina A&T,MEAC,23-Sep,-6.0,-5.1,-11.1,2014
+335,Lamar,Southland,26-Apr,-5.0,-6.7,-11.7,2014
+336,Kennesaw St.,A-Sun,25-Jun,-7.7,-4.1,-11.7,2014
+337,Houston Baptist,Southland,25-Jun,-5.5,-6.2,-11.7,2014
+338,Maine,Am. East,23-Jun,0.5,-12.6,-12.2,2014
+339,Stetson,A-Sun,24-Jul,-9.0,-3.2,-12.2,2014
+340,Maryland-Eastern Shore,MEAC,24-Jun,-5.4,-7.0,-12.4,2014
+341,Binghamton,Am. East,23-Jul,-9.1,-3.6,-12.7,2014
+342,Cornell,Ivy,26-Feb,-4.6,-8.2,-12.7,2014
+343,Howard,MEAC,25-Aug,-10.2,-2.6,-12.7,2014
+344,South Carolina St.,MEAC,21-Sep,-8.4,-4.5,-12.9,2014
+345,The Citadel,Southern,26-Jul,-6.9,-6.6,-13.4,2014
+346,Furman,Southern,21-Sep,-7.9,-5.6,-13.5,2014
+347,Mississippi Valley St.,SWAC,23-Sep,-2.5,-11.6,-14.1,2014
+348,Longwood,Big South N,24-Aug,-5.0,-9.8,-14.8,2014
+349,Presbyterian,Big South S,26-Jun,-8.3,-7.0,-15.3,2014
+350,Southern Utah,Big Sky,27-Feb,-11.3,-4.9,-16.2,2014
+351,Grambling St.,SWAC,24-May,-7.5,-12.0,-19.5,2014
+1,Kentucky,SEC,38-1,10.3,13.6,23.9,2015
+2,Duke,ACC,34-4,16.4,6.0,22.4,2015
+3,Wisconsin,Big Ten,36-3,10.4,11.3,21.7,2015
+4,Virginia,ACC,30-4,1.9,17.7,19.6,2015
+5,Arizona,Pac-12,34-4,10.7,8.9,19.6,2015
+6,Villanova,Big East,33-3,10.8,8.5,19.3,2015
+7,North Carolina,ACC,26-12,14.9,2.9,17.8,2015
+8,Gonzaga,WCC,35-3,11.5,4.9,16.4,2015
+9,Ohio St.,Big Ten,24-11,9.7,6.6,16.3,2015
+10,Utah,Pac-12,26-9,5.0,11.3,16.2,2015
+11,Notre Dame,ACC,32-6,13.0,2.8,15.8,2015
+12,Louisville,ACC,27-9,5.1,9.8,14.8,2015
+13,Kansas,Big 12,27-9,8.9,5.5,14.4,2015
+14,Oklahoma,Big 12,24-11,7.4,6.6,13.9,2015
+15,Iowa St.,Big 12,25-9,12.7,1.1,13.8,2015
+16,Michigan St.,Big Ten,27-12,7.6,6.2,13.7,2015
+17,Wichita St.,MVC,30-5,5.1,8.6,13.7,2015
+18,Baylor,Big 12,24-10,4.8,8.8,13.6,2015
+19,Butler,Big East,23-11,3.5,9.3,12.8,2015
+20,Texas,Big 12,20-14,4.0,8.5,12.5,2015
+21,Iowa,Big Ten,22-12,5.6,6.5,12.1,2015
+22,VCU,A 10,26-10,8.3,3.7,12.0,2015
+23,Northern Iowa,MVC,31-4,0.9,10.9,11.8,2015
+24,West Virginia,Big 12,25-10,8.0,3.5,11.5,2015
+25,Syracuse,ACC,18-13,4.3,6.4,10.7,2015
+26,Maryland,Big Ten,28-7,4.1,6.4,10.5,2015
+27,North Carolina St.,ACC,22-14,6.4,4.0,10.4,2015
+28,Providence,Big East,22-12,5.8,4.6,10.4,2015
+29,Georgetown,Big East,22-11,6.0,4.3,10.4,2015
+30,Davidson,A 10,24-8,11.2,-0.9,10.3,2015
+31,BYU,WCC,25-10,14.6,-4.4,10.2,2015
+32,Florida,SEC,16-17,0.4,9.8,10.2,2015
+33,Arkansas,SEC,27-9,10.4,-0.4,10.0,2015
+34,Purdue,Big Ten,21-13,4.6,5.3,9.9,2015
+35,SMU,American,27-7,3.3,6.5,9.8,2015
+36,Illinois,Big Ten,19-14,4.8,4.9,9.7,2015
+37,Indiana,Big Ten,20-14,11.5,-1.9,9.7,2015
+38,Miami FL,ACC,25-13,4.4,5.3,9.7,2015
+39,Oklahoma St.,Big 12,18-14,3.6,6.0,9.5,2015
+40,Xavier,Big East,23-14,8.4,1.1,9.5,2015
+41,Dayton,A 10,27-9,2.7,6.7,9.4,2015
+42,St. John's,Big East,21-12,6.3,2.9,9.2,2015
+43,Richmond,A 10,21-14,2.0,6.9,8.9,2015
+44,Stephen F. Austin,Southland,29-5,6.9,1.9,8.8,2015
+45,Cincinnati,American,23-11,-2.3,11.0,8.7,2015
+46,Georgia,SEC,21-12,3.9,4.8,8.6,2015
+47,Minnesota,Big Ten,18-15,7.7,0.8,8.5,2015
+48,Mississippi,SEC,21-13,7.3,0.9,8.3,2015
+49,Old Dominion,C-USA,27-8,-1.5,9.6,8.2,2015
+50,Rhode Island,A 10,23-10,1.5,6.6,8.1,2015
+51,Boise St.,MW,25-9,4.2,3.9,8.1,2015
+52,Texas A&M,SEC,21-12,2.5,5.6,8.1,2015
+53,TCU,Big 12,18-15,2.2,5.8,8.0,2015
+54,Vanderbilt,SEC,21-14,5.0,2.9,7.8,2015
+55,LSU,SEC,22-11,7.0,0.8,7.8,2015
+56,San Diego St.,MW,27-9,-3.3,11.0,7.7,2015
+57,Georgia St.,Sun Belt,25-10,4.0,3.6,7.7,2015
+58,Connecticut,American,20-15,1.5,6.2,7.7,2015
+59,Murray St.,Ohio Valley W,29-6,9.9,-2.3,7.5,2015
+60,Buffalo,MAC E,23-10,7.1,0.4,7.5,2015
+61,Michigan,Big Ten,16-16,1.6,5.5,7.1,2015
+62,George Washington,A 10,22-13,1.0,6.1,7.1,2015
+63,Temple,American,26-11,1.6,5.4,7.0,2015
+64,Colorado St.,MW,27-7,5.7,1.3,6.9,2015
+65,North Carolina Central,MEAC,25-8,-0.5,7.4,6.8,2015
+66,Alabama,SEC,19-15,2.2,4.6,6.7,2015
+67,Illinois St.,MVC,22-13,2.7,4.0,6.6,2015
+68,Yale,Ivy,22-10,1.6,5.0,6.6,2015
+69,South Carolina,SEC,17-16,-0.1,6.5,6.5,2015
+70,Sam Houston St.,Southland,26-9,1.3,5.0,6.3,2015
+71,Memphis,American,18-14,2.5,3.8,6.2,2015
+72,Kansas St.,Big 12,15-17,0.0,6.2,6.2,2015
+73,Harvard,Ivy,22-8,-1.7,7.8,6.1,2015
+74,Pittsburgh,ACC,19-15,2.0,4.0,6.0,2015
+75,Stanford,Pac-12,24-13,6.0,0.0,6.0,2015
+76,Hofstra,CAA,20-14,9.0,-3.1,6.0,2015
+77,Saint Mary's,WCC,21-10,2.5,3.3,5.9,2015
+78,Penn St.,Big Ten,18-16,3.0,2.7,5.7,2015
+79,Seton Hall,Big East,16-15,4.0,1.8,5.7,2015
+80,Valparaiso,Horizon,28-6,0.6,5.1,5.7,2015
+81,Green Bay,Horizon,24-9,0.6,4.9,5.5,2015
+82,Arizona St.,Pac-12,18-16,4.1,1.4,5.5,2015
+83,Clemson,ACC,16-15,-2.5,7.8,5.3,2015
+84,UC Irvine,Big West,21-13,1.3,4.0,5.3,2015
+85,Georgia Tech,ACC,19-Dec,-0.1,5.3,5.2,2015
+86,Central Michigan,MAC W,23-9,7.7,-2.5,5.2,2015
+87,Louisiana Tech,C-USA,27-9,4.2,0.9,5.1,2015
+88,Toledo,MAC W,20-13,7.3,-2.2,5.0,2015
+89,La Salle,A 10,17-16,-0.6,5.6,5.0,2015
+90,Iona,MAAC,26-9,10.9,-6.1,4.9,2015
+91,UCLA,Pac-12,22-14,5.8,-1.0,4.8,2015
+92,Eastern Kentucky,Ohio Valley E,21-12,2.5,2.3,4.8,2015
+93,UNLV,MW,18-15,4.2,0.5,4.8,2015
+94,South Dakota St.,Summit,24-11,3.9,0.8,4.7,2015
+95,Boston College,ACC,13-19,2.2,2.4,4.6,2015
+96,Massachusetts,A 10,17-15,4.6,0.1,4.6,2015
+97,William & Mary,CAA,20-13,5.2,-0.7,4.5,2015
+98,New Mexico St.,WAC,23-11,0.8,3.7,4.5,2015
+99,Tennessee,SEC,16-16,-0.3,4.8,4.5,2015
+100,UTEP,C-USA,22-11,1.8,2.7,4.5,2015
+101,Wofford,Southern,28-7,-2.7,7.0,4.2,2015
+102,Tulsa,American,23-11,-1.6,5.8,4.2,2015
+103,Creighton,Big East,14-19,2.5,1.7,4.2,2015
+104,St. Bonaventure,A 10,18-13,1.1,3.1,4.1,2015
+105,San Diego,WCC,15-16,-0.2,4.2,4.1,2015
+106,UC Santa Barbara,Big West,19-14,1.7,2.2,4.0,2015
+107,Evansville,MVC,24-12,4.1,-0.1,4.0,2015
+108,Northwestern,Big Ten,15-17,-1.2,5.2,4.0,2015
+109,Cleveland St.,Horizon,19-15,-1.0,4.9,3.9,2015
+110,Vermont,Am. East,20-14,-0.8,4.7,3.8,2015
+111,Nebraska,Big Ten,13-18,-2.9,6.6,3.7,2015
+112,Akron,MAC E,21-14,0.6,3.1,3.7,2015
+113,Florida St.,ACC,17-16,2.2,1.5,3.7,2015
+114,UC Davis,Big West,25-7,2.9,0.7,3.7,2015
+115,Colorado,Pac-12,16-18,2.2,1.4,3.7,2015
+116,Oregon,Pac-12,26-10,7.1,-3.5,3.6,2015
+117,Marquette,Big East,13-19,0.0,3.4,3.4,2015
+118,Long Beach St.,Big West,16-17,1.8,1.3,3.1,2015
+119,Wyoming,MW,25-10,-4.8,7.7,2.9,2015
+120,Eastern Washington,Big Sky,26-9,9.9,-7.0,2.9,2015
+121,South Carolina Upstate,A-Sun,24-12,-0.2,3.1,2.8,2015
+122,North Florida,A-Sun,23-12,5.5,-2.8,2.7,2015
+123,Northeastern,CAA,23-12,1.4,1.2,2.6,2015
+124,Coastal Carolina,Big South,24-10,-0.4,3.0,2.6,2015
+125,Albany,Am. East,24-9,-1.5,3.9,2.4,2015
+126,Georgia Southern,Sun Belt,22-9,-1.2,3.6,2.4,2015
+127,Stony Brook,Am. East,23-12,-1.4,3.7,2.3,2015
+128,Louisiana,Sun Belt,22-14,5.8,-3.5,2.3,2015
+129,Bowling Green,MAC E,21-12,-1.1,3.4,2.3,2015
+130,Wake Forest,ACC,13-19,3.4,-1.2,2.2,2015
+131,Kent St.,MAC E,23-12,-1.2,3.4,2.2,2015
+132,New Mexico,MW,15-16,-3.2,5.3,2.1,2015
+133,Belmont,Ohio Valley E,22-11,5.9,-3.9,2.0,2015
+134,Washington,Pac-12,16-15,2.6,-0.7,1.9,2015
+135,Morehead St.,Ohio Valley E,17-17,1.4,0.4,1.8,2015
+136,Eastern Michigan,MAC W,21-14,-1.0,2.8,1.8,2015
+137,Utah St.,MW,18-13,0.3,1.4,1.7,2015
+138,Columbia,Ivy,13-15,-0.8,2.5,1.7,2015
+139,Canisius,MAAC,18-15,-1.4,3.0,1.7,2015
+140,Charlotte,C-USA,14-18,6.1,-4.6,1.6,2015
+141,Western Kentucky,C-USA,20-12,2.2,-0.7,1.5,2015
+142,High Point,Big South,23-10,3.0,-1.5,1.5,2015
+143,Cal Poly,Big West,13-16,-5.5,6.9,1.4,2015
+144,Chattanooga,Southern,22-10,1.9,-1.0,0.9,2015
+145,Mercer,Southern,19-16,-1.7,2.6,0.9,2015
+146,Tenn-Martin,Ohio Valley W,21-13,0.8,0.1,0.9,2015
+147,Manhattan,MAAC,19-14,1.8,-1.1,0.8,2015
+148,California,Pac-12,18-15,0.2,0.5,0.7,2015
+149,Florida Gulf Coast,A-Sun,22-11,-1.0,1.7,0.7,2015
+150,DePaul,Big East,20-Dec,4.2,-3.5,0.7,2015
+151,Texas Tech,Big 12,13-19,-3.4,4.0,0.6,2015
+152,Rider,MAAC,21-12,-1.2,1.8,0.6,2015
+153,Lehigh,Patriot,16-14,0.9,-0.3,0.6,2015
+154,UAB,C-USA,20-16,1.9,-1.3,0.5,2015
+155,Saint Joseph's,A 10,13-18,-2.7,3.2,0.5,2015
+156,Auburn,SEC,15-20,3.8,-3.4,0.4,2015
+157,Charleston Southern,Big South,19-12,2.6,-2.3,0.3,2015
+158,Quinnipiac,MAAC,15-15,2.0,-1.7,0.3,2015
+159,Loyola Chicago,MVC,24-13,-3.4,3.6,0.2,2015
+160,Mississippi St.,SEC,13-19,-3.9,4.1,0.2,2015
+161,Colgate,Patriot,16-17,-0.5,0.6,0.2,2015
+162,UNC Wilmington,CAA,18-14,1.4,-1.3,0.1,2015
+163,San Francisco,WCC,14-18,1.4,-1.3,0.1,2015
+164,American,Patriot,17-16,-7.6,7.6,0.0,2015
+165,Montana,Big Sky,20-13,0.4,-0.4,0.0,2015
+166,Radford,Big South,22-12,2.1,-2.1,-0.1,2015
+167,Dartmouth,Ivy,14-15,-2.7,2.5,-0.1,2015
+168,Oregon St.,Pac-12,17-14,-7.5,7.4,-0.1,2015
+169,Winthrop,Big South,19-13,2.4,-2.6,-0.2,2015
+170,Monmouth,MAAC,18-15,-2.4,2.2,-0.2,2015
+171,Lafayette,Patriot,20-13,6.2,-6.4,-0.3,2015
+172,Pepperdine,WCC,18-14,-4.1,3.8,-0.3,2015
+173,Middle Tennessee,C-USA,19-17,-4.3,3.9,-0.4,2015
+174,St. Francis BKN,NEC,23-12,-0.4,0.0,-0.4,2015
+175,Robert Morris,NEC,20-15,-0.1,-0.4,-0.5,2015
+176,New Hampshire,Am. East,19-13,-2.3,1.8,-0.5,2015
+177,Cornell,Ivy,13-17,-3.7,3.2,-0.5,2015
+178,Virginia Tech,ACC,22-Nov,0.2,-0.8,-0.6,2015
+179,Norfolk St.,MEAC,20-14,0.8,-1.5,-0.6,2015
+180,Western Michigan,MAC W,20-14,3.1,-3.8,-0.7,2015
+181,Princeton,Ivy,16-14,1.3,-2.1,-0.7,2015
+182,UT Arlington,Sun Belt,16-15,3.0,-3.8,-0.8,2015
+183,Saint Peter's,MAAC,16-18,-6.0,5.2,-0.8,2015
+184,Oakland,Horizon,16-17,6.5,-7.2,-0.8,2015
+185,Portland,WCC,17-16,1.9,-2.7,-0.8,2015
+186,NJIT,Indep.,21-12,1.4,-2.3,-0.9,2015
+187,UL Monroe,Sun Belt,24-14,-5.1,4.0,-1.1,2015
+188,North Dakota St.,Summit,23-10,-4.0,2.9,-1.1,2015
+189,George Mason,A 10,22-Sep,-0.6,-0.6,-1.3,2015
+190,Detroit,Horizon,15-18,1.6,-2.9,-1.4,2015
+191,Northern Arizona,Big Sky,23-15,-0.9,-0.5,-1.4,2015
+192,East Tennessee St.,Southern,16-14,2.8,-4.2,-1.4,2015
+193,Indiana St.,MVC,15-16,0.4,-1.8,-1.4,2015
+194,Oral Roberts,Summit,19-15,1.5,-3.0,-1.5,2015
+195,Bucknell,Patriot,19-15,1.0,-2.5,-1.5,2015
+196,Fort Wayne,Summit,16-15,0.5,-2.1,-1.6,2015
+197,Air Force,MW,14-17,-1.1,-0.5,-1.6,2015
+198,Northern Kentucky,A-Sun,13-17,0.2,-1.9,-1.7,2015
+199,Rutgers,Big Ten,22-Oct,-3.7,1.9,-1.8,2015
+200,Tulane,American,15-16,-2.8,1.0,-1.8,2015
+201,James Madison,CAA,19-14,-0.4,-1.4,-1.9,2015
+202,Sacramento St.,Big Sky,21-12,-0.3,-1.7,-1.9,2015
+203,Northern Illinois,MAC W,14-16,-3.4,1.5,-1.9,2015
+204,Duquesne,A 10,19-Dec,4.7,-6.7,-2.0,2015
+205,Denver,Summit,18-Dec,-4.8,2.8,-2.0,2015
+206,Boston University,Patriot,13-17,0.8,-2.9,-2.0,2015
+207,East Carolina,American,14-19,-1.3,-0.7,-2.0,2015
+208,Washington St.,Pac-12,13-18,4.3,-6.4,-2.1,2015
+209,St. Francis (PA),NEC,16-16,-3.4,1.1,-2.3,2015
+210,South Dakota,Summit,17-16,1.9,-4.2,-2.3,2015
+211,Mount St. Mary's,NEC,15-15,-2.4,0.0,-2.4,2015
+212,Holy Cross,Patriot,14-16,-1.3,-1.0,-2.4,2015
+213,Houston,American,13-19,-1.8,-0.6,-2.4,2015
+214,Texas St.,Sun Belt,14-17,-7.5,5.0,-2.4,2015
+215,Missouri,SEC,23-Sep,-4.0,1.6,-2.4,2015
+216,Fordham,A 10,21-Oct,-1.0,-1.5,-2.4,2015
+217,Elon,CAA,15-18,0.9,-3.4,-2.5,2015
+218,Incarnate Word,Southland,18-11,5.5,-8.0,-2.6,2015
+219,Army,Patriot,15-15,2.6,-5.2,-2.6,2015
+220,Fresno St.,MW,15-17,-0.3,-2.3,-2.7,2015
+221,Gardner-Webb,Big South,20-15,4.4,-7.2,-2.8,2015
+222,SIU-Edwardsville,Ohio Valley W,16-Dec,-1.1,-1.7,-2.8,2015
+223,Tennessee Tech,Ohio Valley E,18-Dec,0.0,-2.9,-2.9,2015
+224,Texas A&M-CC,Southland,20-14,-3.5,0.6,-2.9,2015
+225,USC,Pac-12,20-Dec,0.2,-3.1,-2.9,2015
+226,Maryland-Eastern Shore,MEAC,18-15,-0.6,-2.3,-2.9,2015
+227,Texas Southern,SWAC,22-13,-0.4,-2.6,-3.0,2015
+228,UNC Asheville,Big South,15-16,1.3,-4.3,-3.0,2015
+229,Southern Illinois,MVC,21-Dec,-5.7,2.7,-3.1,2015
+230,Idaho,Big Sky,13-17,5.0,-8.1,-3.1,2015
+231,Bryant,NEC,16-15,-1.4,-1.8,-3.2,2015
+232,Towson,CAA,20-Dec,-3.6,0.3,-3.3,2015
+233,Hawaii,Big West,22-13,3.1,-6.5,-3.4,2015
+234,Eastern Illinois,Ohio Valley W,18-15,-4.7,1.3,-3.4,2015
+235,Northern Colorado,Big Sky,15-15,3.5,-7.0,-3.5,2015
+236,Miami (OH),MAC E,13-19,-1.4,-2.2,-3.5,2015
+237,Siena,MAAC,20-Nov,2.5,-6.1,-3.6,2015
+238,Western Carolina,Southern,15-17,0.4,-4.1,-3.7,2015
+239,SE Missouri St.,Ohio Valley W,13-17,-0.3,-3.4,-3.7,2015
+240,Drexel,CAA,19-Nov,-6.0,2.2,-3.8,2015
+241,Arkansas Little Rock,Sun Belt,13-18,0.3,-4.1,-3.8,2015
+242,Cal St. Bakersfield,WAC,14-19,-5.2,1.4,-3.8,2015
+243,Hampton,MEAC,17-18,-1.3,-2.5,-3.8,2015
+244,VMI,Southern,19-Nov,7.7,-11.6,-3.8,2015
+245,UTSA,C-USA,14-16,1.3,-5.2,-3.9,2015
+246,Weber St.,Big Sky,13-17,-3.3,-0.7,-3.9,2015
+247,UC Riverside,Big West,14-17,-3.2,-0.9,-4.0,2015
+248,Wright St.,Horizon,20-Nov,-3.9,-0.2,-4.1,2015
+249,Northwestern St.,Southland,19-13,9.1,-13.3,-4.2,2015
+250,Ohio,MAC E,20-Oct,-0.2,-4.0,-4.2,2015
+251,Sacred Heart,NEC,15-17,3.6,-7.8,-4.2,2015
+252,Ball St.,MAC W,23-Jul,-1.7,-2.5,-4.2,2015
+253,Alabama St.,SWAC,19-10,-0.3,-4.0,-4.3,2015
+254,Rice,C-USA,20-Dec,-3.7,-0.7,-4.4,2015
+255,Howard,MEAC,16-16,-6.5,1.9,-4.6,2015
+256,Brown,Ivy,13-18,-0.9,-3.8,-4.7,2015
+257,Hartford,Am. East,14-16,-4.8,0.2,-4.7,2015
+258,Missouri St.,MVC,20-Nov,-5.4,0.7,-4.7,2015
+259,Navy,Patriot,13-19,-7.1,2.4,-4.7,2015
+260,Santa Clara,WCC,14-18,-3.4,-1.4,-4.8,2015
+261,Milwaukee,Horizon,14-16,-3.3,-1.6,-4.9,2015
+262,Omaha,Summit,17-Dec,5.5,-10.4,-4.9,2015
+263,Portland St.,Big Sky,15-14,-0.2,-4.7,-5.0,2015
+264,Grand Canyon,WAC,17-15,-0.6,-4.4,-5.0,2015
+265,Bradley,MVC,24-Sep,-8.2,3.2,-5.0,2015
+266,Seattle,WAC,18-16,-6.5,1.3,-5.2,2015
+267,UMKC,WAC,14-19,-3.7,-1.6,-5.2,2015
+268,Saint Louis,A 10,21-Nov,-6.7,1.3,-5.4,2015
+269,UCF,American,18-Dec,-0.2,-5.2,-5.4,2015
+270,Florida Int'l,C-USA,16-17,-5.6,0.1,-5.4,2015
+271,Delaware,CAA,20-Oct,-0.9,-4.5,-5.4,2015
+272,College of Charleston,CAA,24-Sep,-8.4,2.9,-5.6,2015
+273,North Texas,C-USA,14-17,-4.3,-1.3,-5.6,2015
+274,Pacific,WCC,19-Dec,-3.5,-2.1,-5.6,2015
+275,UNC Greensboro,Southern,22-Nov,-1.5,-4.2,-5.7,2015
+276,Southern,SWAC,18-17,-6.1,0.2,-5.9,2015
+277,Florida Atlantic,C-USA,20-Sep,-5.4,-0.5,-5.9,2015
+278,Lamar,Southland,15-15,-1.4,-4.6,-6.0,2015
+279,South Florida,American,23-Sep,-4.3,-1.7,-6.1,2015
+280,Youngstown St.,Horizon,21-Nov,1.4,-7.5,-6.1,2015
+281,LIU Brooklyn,NEC,18-Dec,-0.7,-5.5,-6.3,2015
+282,Fairfield,MAAC,24-Jul,-6.9,0.6,-6.3,2015
+283,Southern Utah,Big Sky,19-Oct,0.2,-6.5,-6.3,2015
+284,Cal St. Northridge,Big West,24-Sep,-2.1,-4.2,-6.3,2015
+285,Houston Baptist,Southland,16-Dec,-0.3,-6.2,-6.5,2015
+286,Drake,MVC,22-Sep,-5.4,-1.2,-6.6,2015
+287,Lipscomb,A-Sun,14-17,1.0,-7.7,-6.7,2015
+288,Loyola Marymount,WCC,23-Aug,-4.4,-2.4,-6.7,2015
+289,Appalachian St.,Sun Belt,17-Dec,-4.2,-2.5,-6.8,2015
+290,Penn,Ivy,19-Sep,-5.2,-1.6,-6.8,2015
+291,IUPUI,Summit,21-Oct,-6.4,-0.4,-6.8,2015
+292,Samford,Southern,13-19,-0.9,-6.0,-6.8,2015
+293,Delaware St.,MEAC,18-18,-0.1,-6.8,-6.9,2015
+294,Prairie View,SWAC,15-18,-2.4,-4.5,-6.9,2015
+295,UMass Lowell,Am. East,17-Dec,-5.6,-1.5,-7.0,2015
+296,Marshall,C-USA,21-Nov,-1.9,-5.2,-7.0,2015
+297,Arkansas St.,Sun Belt,18-Nov,-4.6,-2.4,-7.0,2015
+298,Wagner,NEC,20-Oct,-0.5,-6.7,-7.1,2015
+299,Campbell,Big South,22-Oct,-6.3,-0.8,-7.1,2015
+300,South Alabama,Sun Belt,21-Dec,0.2,-7.4,-7.2,2015
+301,Troy,Sun Belt,19-Oct,-3.4,-4.0,-7.4,2015
+302,UIC,Horizon,24-Oct,-3.1,-4.3,-7.4,2015
+303,Marist,MAAC,25-Jul,-5.6,-1.9,-7.5,2015
+304,SE Louisiana,Southland,23-Sep,-2.5,-5.1,-7.6,2015
+305,Jackson St.,SWAC,21-Nov,-8.4,0.8,-7.6,2015
+306,Loyola MD,Patriot,19-Nov,-7.0,-0.7,-7.8,2015
+307,Idaho St.,Big Sky,23-Jul,-4.8,-3.0,-7.8,2015
+308,North Dakota,Big Sky,22-Aug,-2.4,-5.4,-7.9,2015
+309,Niagara,MAAC,22-Aug,-3.4,-4.5,-8.0,2015
+310,New Orleans,Southland,18-Nov,-1.5,-6.6,-8.1,2015
+311,Cal St. Fullerton,Big West,22-Sep,-2.7,-5.4,-8.1,2015
+312,McNeese St.,Southland,15-16,-3.5,-4.8,-8.3,2015
+313,Furman,Southern,22-Nov,-5.8,-2.6,-8.4,2015
+314,Utah Valley,WAC,19-Nov,-9.3,0.7,-8.6,2015
+315,Nevada,MW,22-Sep,-6.4,-2.2,-8.6,2015
+316,Fairleigh Dickinson,NEC,21-Aug,-1.6,-7.2,-8.8,2015
+317,Jacksonville St.,Ohio Valley E,19-Dec,-6.2,-2.6,-8.8,2015
+318,Montana St.,Big Sky,23-Jul,-5.4,-3.5,-9.0,2015
+319,Austin Peay,Ohio Valley W,22-Aug,-4.4,-4.7,-9.1,2015
+320,Longwood,Big South,23-Nov,-2.5,-6.8,-9.3,2015
+321,The Citadel,Southern,19-Nov,-5.9,-3.8,-9.7,2015
+322,Southern Miss,C-USA,20-Sep,-7.3,-2.4,-9.7,2015
+323,Bethune-Cookman,MEAC,21-Nov,-10.1,0.0,-10.2,2015
+324,Western Illinois,Summit,20-Aug,-7.1,-3.6,-10.7,2015
+325,Chicago St.,WAC,24-Aug,-10.0,-0.7,-10.7,2015
+326,Coppin St.,MEAC,23-Aug,2.8,-13.7,-10.9,2015
+327,Liberty,Big South,24-Aug,-7.0,-4.0,-11.0,2015
+328,Abilene Christian,Southland,21-Oct,-6.1,-5.0,-11.1,2015
+329,UT Rio Grande Valley,WAC,21-Oct,-6.2,-5.0,-11.1,2015
+330,Binghamton,Am. East,26-Jun,-9.1,-2.2,-11.2,2015
+331,Nicholls St.,Southland,19-Oct,-6.4,-5.0,-11.4,2015
+332,Morgan St.,MEAC,24-Jul,-6.4,-5.3,-11.8,2015
+333,Arkansas Pine Bluff,SWAC,20-Dec,-9.4,-2.4,-11.8,2015
+334,UMBC,Am. East,26-Apr,-10.0,-2.0,-12.0,2015
+335,Stetson,A-Sun,22-Sep,-4.0,-8.0,-12.0,2015
+336,North Carolina A&T,MEAC,23-Sep,-9.4,-2.6,-12.1,2015
+337,Presbyterian,Big South,22-Oct,-8.1,-4.0,-12.1,2015
+338,South Carolina St.,MEAC,22-Nov,-8.5,-4.0,-12.5,2015
+339,Tennessee St.,Ohio Valley E,26-May,-9.5,-3.0,-12.5,2015
+340,Alabama A&M,SWAC,20-Sep,-7.8,-4.8,-12.6,2015
+341,Kennesaw St.,A-Sun,22-Oct,-5.3,-7.4,-12.7,2015
+342,Jacksonville,A-Sun,22-Oct,-6.1,-6.7,-12.7,2015
+343,Central Connecticut,NEC,26-May,-8.2,-4.8,-13.0,2015
+344,Maine,Am. East,27-Mar,-5.1,-8.0,-13.0,2015
+345,Savannah St.,MEAC,22-Sep,-12.5,-1.3,-13.8,2015
+346,San JosÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© St.,MW,28-Feb,-11.7,-3.5,-15.2,2015
+347,Alcorn St.,SWAC,26-Jun,-5.6,-10.3,-15.9,2015
+348,Central Arkansas,Southland,27-Feb,-4.8,-12.4,-17.2,2015
+349,Mississippi Valley St.,SWAC,26-Jun,-3.9,-13.4,-17.3,2015
+350,Florida A&M,MEAC,27-Feb,-11.5,-7.5,-19.0,2015
+351,Grambling St.,SWAC,27-Feb,-15.8,-7.8,-23.6,2015
+1,Villanova,Big East,34-5,8.9,11.0,19.9,2016
+2,North Carolina,ACC,33-6,13.8,4.8,18.7,2016
+3,Michigan St.,Big Ten,29-6,10.5,8.1,18.6,2016
+4,Virginia,ACC,29-8,3.4,15.2,18.6,2016
+5,Kansas,Big 12,33-5,11.8,6.6,18.5,2016
+6,Louisville,ACC,23-8,4.5,12.6,17.1,2016
+7,West Virginia,Big 12,26-9,8.9,7.7,16.5,2016
+8,Kentucky,SEC,27-9,9.8,6.4,16.2,2016
+9,Purdue,Big Ten,26-9,7.7,8.2,15.9,2016
+10,Indiana,Big Ten,27-8,11.5,4.3,15.8,2016
+11,Duke,ACC,25-11,12.1,3.5,15.6,2016
+12,SMU,American,25-5,6.8,8.2,15.0,2016
+13,Oklahoma,Big 12,29-8,10.1,4.8,14.9,2016
+14,Arizona,Pac-12,25-9,9.6,5.2,14.8,2016
+15,Wichita St.,MVC,26-9,3.3,11.1,14.4,2016
+16,Xavier,Big East,28-6,10.1,4.0,14.1,2016
+17,Vanderbilt,SEC,19-14,6.0,7.6,13.6,2016
+18,Connecticut,American,25-11,4.4,9.1,13.5,2016
+19,Miami FL,ACC,27-8,6.7,6.8,13.5,2016
+20,Maryland,Big Ten,27-9,6.3,7.0,13.3,2016
+21,Texas A&M,SEC,28-9,5.5,7.5,13.0,2016
+22,Oregon,Pac-12,31-7,8.3,4.7,13.0,2016
+23,Cincinnati,American,22-11,3.3,9.6,13.0,2016
+24,Iowa,Big Ten,22-11,7.4,5.5,12.9,2016
+25,Iowa St.,Big 12,23-12,12.3,0.5,12.8,2016
+26,Gonzaga,WCC,28-8,6.4,6.1,12.5,2016
+27,Pittsburgh,ACC,21-12,5.2,7.1,12.3,2016
+28,Butler,Big East,22-11,8.6,3.5,12.1,2016
+29,Baylor,Big 12,22-12,7.5,4.3,11.8,2016
+30,California,Pac-12,23-11,5.1,6.7,11.8,2016
+31,Notre Dame,ACC,24-12,6.6,4.4,11.0,2016
+32,Syracuse,ACC,23-14,1.5,9.5,11.0,2016
+33,Seton Hall,Big East,25-9,4.7,6.2,11.0,2016
+34,Valparaiso,Horizon,30-7,1.0,9.7,10.7,2016
+35,VCU,A 10,25-11,5.6,5.0,10.6,2016
+36,Yale,Ivy,23-7,2.4,8.1,10.5,2016
+37,Michigan,Big Ten,23-13,4.1,6.3,10.4,2016
+38,Florida,SEC,21-15,4.0,6.1,10.1,2016
+39,Saint Mary's,WCC,29-6,1.0,9.1,10.1,2016
+40,Utah,Pac-12,27-9,6.3,3.9,10.1,2016
+41,Creighton,Big East,20-15,8.4,1.4,9.8,2016
+42,Wisconsin,Big Ten,22-13,-0.6,10.3,9.8,2016
+43,George Washington,A 10,28-10,5.2,4.4,9.7,2016
+44,Clemson,ACC,17-14,0.5,9.2,9.7,2016
+45,Texas,Big 12,20-13,2.7,7.0,9.6,2016
+46,Stephen F. Austin,Southland,28-6,3.1,6.5,9.5,2016
+47,Florida St.,ACC,20-14,7.9,1.5,9.4,2016
+48,BYU,WCC,26-11,9.0,0.0,9.0,2016
+49,Dayton,A 10,25-8,1.6,7.4,9.0,2016
+50,Princeton,Ivy,22-7,5.6,3.1,8.7,2016
+51,Saint Joseph's,A 10,28-8,6.5,2.2,8.7,2016
+52,Colorado,Pac-12,22-12,3.9,4.7,8.7,2016
+53,South Carolina,SEC,25-9,4.5,4.1,8.6,2016
+54,Georgia Tech,ACC,21-15,4.0,4.5,8.5,2016
+55,Stony Brook,Am. East,26-7,1.5,6.6,8.1,2016
+56,Arkansas Little Rock,Sun Belt,30-5,-1.6,9.7,8.1,2016
+57,Texas Tech,Big 12,19-13,2.8,5.1,7.9,2016
+58,Houston,American,22-10,6.5,1.2,7.6,2016
+59,Memphis,American,19-15,5.3,2.3,7.6,2016
+60,San Diego St.,MW,28-10,-3.1,10.6,7.5,2016
+61,Arkansas,SEC,16-16,6.7,0.7,7.4,2016
+62,Providence,Big East,24-11,3.8,3.6,7.4,2016
+63,Kansas St.,Big 12,17-16,0.7,6.6,7.4,2016
+64,Northwestern,Big Ten,20-12,0.9,6.5,7.3,2016
+65,USC,Pac-12,21-13,7.7,-0.4,7.3,2016
+66,Boise St.,MW,20-12,5.0,2.3,7.2,2016
+67,Georgetown,Big East,15-18,3.5,3.7,7.2,2016
+68,Tulsa,American,20-12,4.1,3.0,7.1,2016
+69,North Carolina St.,ACC,16-17,5.7,1.4,7.1,2016
+70,Virginia Tech,ACC,20-15,4.8,2.1,6.9,2016
+71,Oregon St.,Pac-12,19-13,1.8,5.0,6.8,2016
+72,UC Santa Barbara,Big West,19-14,1.8,5.0,6.7,2016
+73,Oakland,Horizon,23-12,11.8,-5.3,6.5,2016
+74,Ohio St.,Big Ten,21-14,0.8,5.7,6.4,2016
+75,Rhode Island,A 10,17-15,-0.7,7.1,6.3,2016
+76,Akron,MAC E,26-9,2.5,3.8,6.3,2016
+77,South Dakota St.,Summit,26-8,3.7,2.6,6.3,2016
+78,Georgia,SEC,20-14,0.9,5.3,6.2,2016
+79,Northern Iowa,MVC,23-13,-1.5,7.5,6.0,2016
+80,Temple,American,21-12,0.5,5.4,5.9,2016
+81,LSU,SEC,19-14,7.1,-1.3,5.8,2016
+82,Mississippi,SEC,20-12,4.1,1.6,5.8,2016
+83,UT Arlington,Sun Belt,24-11,4.6,1.1,5.7,2016
+84,Monmouth,MAAC,28-8,5.3,0.4,5.7,2016
+85,Mississippi St.,SEC,14-17,4.3,1.2,5.5,2016
+86,St. Bonaventure,A 10,22-9,5.0,0.5,5.5,2016
+87,UC Irvine,Big West,28-10,0.1,5.3,5.4,2016
+88,UCLA,Pac-12,15-17,5.3,0.0,5.3,2016
+89,Nebraska,Big Ten,16-18,1.8,3.3,5.1,2016
+90,Evansville,MVC,25-9,2.5,2.5,5.0,2016
+91,Richmond,A 10,16-16,5.3,-0.3,5.0,2016
+92,Washington,Pac-12,19-15,10.1,-5.2,4.9,2016
+93,James Madison,CAA,21-11,1.5,3.4,4.8,2016
+94,Albany,Am. East,24-9,0.9,4.0,4.8,2016
+95,UNLV,MW,18-15,5.5,-0.7,4.8,2016
+96,William & Mary,CAA,20-11,4.4,0.4,4.8,2016
+97,Tennessee,SEC,15-19,4.3,0.3,4.6,2016
+98,UAB,C-USA,26-7,3.8,0.8,4.6,2016
+99,Alabama,SEC,18-15,-2.5,7.1,4.5,2016
+100,Oklahoma St.,Big 12,20-Dec,-2.2,6.7,4.5,2016
+101,Marquette,Big East,20-13,4.2,0.3,4.5,2016
+102,Louisiana,Sun Belt,19-15,5.7,-1.3,4.4,2016
+103,UNC Wilmington,CAA,25-8,4.6,-0.4,4.3,2016
+104,Hofstra,CAA,24-10,5.7,-1.5,4.2,2016
+105,Columbia,Ivy,25-10,2.7,1.4,4.2,2016
+106,Iona,MAAC,22-11,6.9,-2.7,4.2,2016
+107,Chattanooga,Southern,29-6,0.6,3.6,4.2,2016
+108,New Mexico,MW,17-15,4.0,0.1,4.1,2016
+109,Davidson,A 10,20-13,7.1,-3.2,3.9,2016
+110,Old Dominion,C-USA,25-13,-5.3,8.9,3.6,2016
+111,Milwaukee,Horizon,20-13,4.1,-0.5,3.6,2016
+112,Siena,MAAC,21-13,4.3,-0.7,3.6,2016
+113,New Mexico St.,WAC,23-11,-2.7,6.0,3.3,2016
+114,Arizona St.,Pac-12,15-17,2.1,1.1,3.3,2016
+115,Long Beach St.,Big West,20-15,4.2,-1.0,3.2,2016
+116,Wake Forest,ACC,20-Nov,3.7,-0.5,3.2,2016
+117,Hawaii,Big West,28-6,2.3,0.5,2.9,2016
+118,Toledo,MAC W,17-15,3.3,-0.5,2.8,2016
+119,Belmont,Ohio Valley E,20-12,8.3,-5.5,2.8,2016
+120,Weber St.,Big Sky,26-9,0.1,2.7,2.8,2016
+121,UNC Asheville,Big South,22-12,0.8,1.9,2.7,2016
+122,Illinois,Big Ten,15-19,2.7,-0.2,2.6,2016
+123,Fresno St.,MW,25-10,1.7,0.8,2.5,2016
+124,UL Monroe,Sun Belt,20-14,0.0,2.3,2.4,2016
+125,College of Charleston,CAA,17-14,-7.1,9.4,2.3,2016
+126,Cal St. Bakersfield,WAC,24-9,-1.5,3.8,2.2,2016
+127,Stanford,Pac-12,15-15,-0.9,3.2,2.2,2016
+128,Fordham,A 10,17-14,-1.6,3.7,2.1,2016
+129,Vermont,Am. East,23-14,1.1,1.0,2.1,2016
+130,Nevada,MW,24-14,1.9,0.0,2.0,2016
+131,Northeastern,CAA,18-15,0.7,1.3,2.0,2016
+132,Colorado St.,MW,18-16,6.1,-4.2,2.0,2016
+133,Southern Illinois,MVC,22-10,1.6,0.3,1.9,2016
+134,Buffalo,MAC E,20-15,3.9,-2.0,1.8,2016
+135,Illinois St.,MVC,18-14,-2.8,4.7,1.8,2016
+136,Ohio,MAC E,23-12,5.0,-3.2,1.8,2016
+137,Fort Wayne,Summit,24-10,5.5,-3.8,1.8,2016
+138,High Point,Big South,21-11,2.5,-0.9,1.6,2016
+139,Louisiana Tech,C-USA,23-10,3.3,-1.8,1.5,2016
+140,Central Michigan,MAC W,17-16,2.7,-1.3,1.4,2016
+141,TCU,Big 12,21-Dec,-2.0,3.4,1.3,2016
+142,Green Bay,Horizon,23-13,7.9,-6.6,1.3,2016
+143,Coastal Carolina,Big South,21-12,-2.2,3.5,1.3,2016
+144,Grand Canyon,WAC,27-7,1.5,-0.2,1.3,2016
+145,Morehead St.,Ohio Valley E,23-14,-1.5,2.8,1.3,2016
+146,Middle Tennessee,C-USA,25-10,-2.1,3.4,1.3,2016
+147,Utah St.,MW,16-15,0.5,0.8,1.2,2016
+148,North Dakota St.,Summit,20-13,-4.8,5.9,1.1,2016
+149,Bucknell,Patriot,17-14,4.4,-3.3,1.1,2016
+150,Duquesne,A 10,17-17,6.0,-5.1,0.9,2016
+151,Penn St.,Big Ten,16-16,-3.0,4.0,0.9,2016
+152,Towson,CAA,20-13,-1.9,2.8,0.9,2016
+153,Furman,Southern,19-16,-2.7,3.6,0.9,2016
+154,Montana,Big Sky,21-12,-2.6,3.4,0.8,2016
+155,Murray St.,Ohio Valley W,17-14,-1.2,2.0,0.8,2016
+156,Pepperdine,WCC,18-14,0.3,0.5,0.8,2016
+157,Wright St.,Horizon,22-13,-5.1,5.9,0.8,2016
+158,Marshall,C-USA,17-16,9.9,-9.4,0.5,2016
+159,Wyoming,MW,14-18,-0.5,1.1,0.5,2016
+160,Ball St.,MAC W,21-14,-2.4,3.0,0.5,2016
+161,Harvard,Ivy,14-16,-5.0,5.5,0.5,2016
+162,East Tennessee St.,Southern,24-12,2.8,-2.3,0.5,2016
+163,Omaha,Summit,18-14,8.7,-8.5,0.2,2016
+164,Northern Illinois,MAC W,21-13,-2.7,2.9,0.2,2016
+165,Missouri,SEC,21-Oct,-1.4,1.5,0.1,2016
+166,Eastern Michigan,MAC W,18-15,1.0,-1.0,0.0,2016
+167,Kent St.,MAC E,19-13,0.6,-0.6,0.0,2016
+168,Winthrop,Big South,23-9,5.5,-5.6,-0.1,2016
+169,Texas Southern,SWAC,18-15,0.9,-1.0,-0.1,2016
+170,Lehigh,Patriot,17-15,-1.0,0.8,-0.2,2016
+171,Massachusetts,A 10,14-18,1.6,-1.9,-0.3,2016
+172,North Florida,A-Sun,22-12,6.9,-7.3,-0.3,2016
+173,UCF,American,18-Dec,-1.7,1.2,-0.5,2016
+174,Elon,CAA,16-16,2.9,-3.4,-0.5,2016
+175,Detroit,Horizon,16-15,7.3,-8.0,-0.7,2016
+176,Eastern Washington,Big Sky,18-16,5.4,-6.1,-0.7,2016
+177,Tennessee St.,Ohio Valley E,20-11,-2.4,1.7,-0.8,2016
+178,Georgia St.,Sun Belt,16-14,-5.6,4.8,-0.8,2016
+179,Mercer,Southern,19-15,-3.2,2.4,-0.8,2016
+180,Auburn,SEC,20-Nov,0.9,-1.8,-0.9,2016
+181,Minnesota,Big Ten,23-Aug,-1.6,0.6,-1.0,2016
+182,Florida Gulf Coast,A-Sun,21-14,-1.0,0.0,-1.0,2016
+183,Western Kentucky,C-USA,18-16,1.8,-2.8,-1.0,2016
+184,Indiana St.,MVC,15-17,-2.5,1.5,-1.0,2016
+185,Denver,Summit,16-15,-7.1,6.1,-1.0,2016
+186,Wofford,Southern,15-17,-1.4,0.3,-1.1,2016
+187,Georgia Southern,Sun Belt,14-17,0.9,-2.1,-1.2,2016
+188,Tennessee Tech,Ohio Valley E,19-12,2.9,-4.1,-1.2,2016
+189,Texas St.,Sun Belt,15-16,-7.2,6.0,-1.2,2016
+190,Oral Roberts,Summit,14-17,2.1,-3.4,-1.3,2016
+191,Navy,Patriot,19-14,-6.0,4.6,-1.4,2016
+192,DePaul,Big East,22-Sep,-1.5,0.0,-1.5,2016
+193,Texas A&M-CC,Southland,25-8,-1.5,0.0,-1.6,2016
+194,Fairfield,MAAC,19-14,2.6,-4.2,-1.6,2016
+195,Cal Poly,Big West,20-Oct,0.3,-1.9,-1.7,2016
+196,Western Michigan,MAC W,13-19,0.5,-2.2,-1.7,2016
+197,Dartmouth,Ivy,18-Oct,-2.7,1.0,-1.7,2016
+198,East Carolina,American,20-Dec,-1.1,-0.7,-1.8,2016
+199,Loyola Chicago,MVC,15-17,-6.1,4.3,-1.8,2016
+200,Wagner,NEC,23-11,-5.6,3.8,-1.8,2016
+201,NJIT,A-Sun,20-15,-0.5,-1.3,-1.8,2016
+202,UTEP,C-USA,19-14,1.4,-3.6,-2.2,2016
+203,Charlotte,C-USA,14-19,3.3,-5.6,-2.3,2016
+204,Army,Patriot,19-14,2.4,-4.7,-2.3,2016
+205,Saint Peter's,MAAC,14-16,-7.6,5.3,-2.3,2016
+206,Washington St.,Pac-12,22-Sep,-0.5,-1.8,-2.3,2016
+207,Eastern Kentucky,Ohio Valley E,15-16,4.1,-6.4,-2.3,2016
+208,Tenn-Martin,Ohio Valley W,20-15,-1.0,-1.4,-2.4,2016
+209,George Mason,A 10,21-Nov,-2.6,0.2,-2.4,2016
+210,Rider,MAAC,13-20,-5.8,3.4,-2.4,2016
+211,Pacific,WCC,20-Aug,-3.0,0.6,-2.4,2016
+212,Sam Houston St.,Southland,18-16,-1.3,-1.1,-2.4,2016
+213,Radford,Big South,16-15,-0.7,-1.9,-2.6,2016
+214,Western Carolina,Southern,16-18,-1.2,-1.5,-2.6,2016
+215,Boston University,Patriot,19-15,-0.3,-2.4,-2.6,2016
+216,New Hampshire,Am. East,20-13,-2.9,0.2,-2.7,2016
+217,Canisius,MAAC,14-19,3.2,-5.9,-2.8,2016
+218,Tulane,American,22-Dec,-4.4,1.6,-2.8,2016
+219,Idaho,Big Sky,21-13,-5.5,2.7,-2.8,2016
+220,UC Riverside,Big West,14-19,-4.0,1.1,-2.9,2016
+221,Portland,WCC,20-Dec,3.8,-6.8,-3.0,2016
+222,San Francisco,WCC,15-15,3.4,-6.4,-3.0,2016
+223,Western Illinois,Summit,17-Oct,-4.0,1.0,-3.1,2016
+224,Gardner-Webb,Big South,17-16,0.1,-3.2,-3.1,2016
+225,South Dakota,Summit,14-18,3.0,-6.2,-3.2,2016
+226,Austin Peay,Ohio Valley W,18-18,0.9,-4.2,-3.3,2016
+227,North Dakota,Big Sky,17-16,-1.1,-2.3,-3.4,2016
+228,Southern,SWAC,22-13,-2.5,-0.9,-3.4,2016
+229,Saint Louis,A 10,21-Nov,-4.8,1.3,-3.5,2016
+230,Florida Int'l,C-USA,13-19,-4.2,0.6,-3.7,2016
+231,St. John's,Big East,24-Aug,-2.5,-1.4,-3.8,2016
+232,Santa Clara,WCC,20-Nov,-2.6,-1.3,-3.9,2016
+233,Loyola Marymount,WCC,14-17,-1.1,-2.9,-4.0,2016
+234,Samford,Southern,14-19,-0.6,-3.4,-4.0,2016
+235,Manhattan,MAAC,13-18,-3.4,-0.6,-4.0,2016
+236,Jackson St.,SWAC,20-16,-6.3,2.3,-4.0,2016
+237,Arkansas St.,Sun Belt,20-Nov,0.1,-4.2,-4.2,2016
+238,South Florida,American,25-Aug,-5.7,1.6,-4.2,2016
+239,Bowling Green,MAC E,16-18,-3.5,-0.9,-4.3,2016
+240,Penn,Ivy,17-Nov,-3.5,-0.9,-4.4,2016
+241,Cal St. Fullerton,Big West,20-Oct,-1.8,-2.6,-4.4,2016
+242,UNC Greensboro,Southern,15-19,-2.6,-1.8,-4.5,2016
+243,Colgate,Patriot,13-17,-2.6,-1.9,-4.5,2016
+244,Northern Kentucky,Horizon,21-Sep,-3.2,-1.4,-4.6,2016
+245,Incarnate Word,Southland,17-12,-1.8,-2.8,-4.6,2016
+246,Boston College,ACC,25-Jul,-7.3,2.6,-4.7,2016
+247,IUPUI,Summit,13-19,-4.2,-0.5,-4.7,2016
+248,Montana St.,Big Sky,14-17,0.7,-5.3,-4.7,2016
+249,Drake,MVC,24-Jul,-2.6,-2.2,-4.7,2016
+250,Norfolk St.,MEAC,17-17,-0.8,-4.1,-4.8,2016
+251,Houston Baptist,Southland,17-17,0.3,-5.1,-4.8,2016
+252,Air Force,MW,14-18,-4.1,-0.8,-4.8,2016
+253,Mount St. Mary's,NEC,14-19,-4.7,-0.1,-4.8,2016
+254,Brown,Ivy,20-Aug,0.5,-5.4,-4.9,2016
+255,South Alabama,Sun Belt,14-19,-3.4,-1.6,-5.0,2016
+256,Missouri St.,MVC,13-19,-3.4,-1.7,-5.2,2016
+257,Drexel,CAA,25-Jun,-7.5,2.3,-5.2,2016
+258,Miami (OH),MAC E,13-20,-8.5,3.2,-5.3,2016
+259,Portland St.,Big Sky,13-18,0.8,-6.1,-5.3,2016
+260,UC Davis,Big West,19-Nov,-8.6,3.3,-5.3,2016
+261,Eastern Illinois,Ohio Valley W,13-17,-3.2,-2.1,-5.3,2016
+262,Cal St. Northridge,Big West,20-Oct,-1.3,-4.3,-5.6,2016
+263,Appalachian St.,Sun Belt,22-Sep,-1.3,-4.3,-5.7,2016
+264,Hampton,MEAC,21-11,-1.2,-4.5,-5.7,2016
+265,Campbell,Big South,18-Dec,-2.4,-3.3,-5.7,2016
+266,Lipscomb,A-Sun,21-Dec,1.8,-7.6,-5.8,2016
+267,Loyola MD,Patriot,21-Sep,-2.2,-3.6,-5.8,2016
+268,Sacramento St.,Big Sky,14-17,-4.1,-2.0,-6.0,2016
+269,St. Francis BKN,NEC,15-17,-8.0,1.9,-6.1,2016
+270,Cornell,Ivy,18-Oct,-1.3,-4.8,-6.2,2016
+271,UMKC,WAC,19-Dec,-4.6,-1.7,-6.3,2016
+272,South Carolina St.,MEAC,19-15,-2.0,-4.4,-6.4,2016
+273,Jacksonville,A-Sun,16-16,-1.7,-4.8,-6.5,2016
+274,LIU Brooklyn,NEC,16-15,0.6,-7.1,-6.5,2016
+275,Charleston Southern,Big South,21-Sep,-2.6,-4.0,-6.6,2016
+276,Cleveland St.,Horizon,23-Sep,-11.9,5.3,-6.6,2016
+277,La Salle,A 10,22-Sep,-6.6,-0.1,-6.7,2016
+278,Fairleigh Dickinson,NEC,18-15,2.1,-8.8,-6.7,2016
+279,Utah Valley,WAC,18-Dec,1.0,-7.8,-6.8,2016
+280,Idaho St.,Big Sky,16-15,-2.1,-4.8,-6.8,2016
+281,Stetson,A-Sun,22-Dec,2.3,-9.2,-6.8,2016
+282,Youngstown St.,Horizon,21-Nov,2.4,-9.3,-6.9,2016
+283,Kennesaw St.,A-Sun,20-Nov,-2.5,-4.4,-7.0,2016
+284,San JosÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© St.,MW,22-Sep,-4.1,-2.9,-7.0,2016
+285,Quinnipiac,MAAC,21-Sep,-7.2,0.2,-7.0,2016
+286,Longwood,Big South,23-Oct,-2.7,-4.6,-7.2,2016
+287,St. Francis (PA),NEC,13-17,-3.8,-3.4,-7.3,2016
+288,Troy,Sun Belt,22-Sep,-3.4,-4.0,-7.3,2016
+289,Robert Morris,NEC,22-Oct,-7.8,0.4,-7.4,2016
+290,Sacred Heart,NEC,18-Dec,-0.7,-6.9,-7.6,2016
+291,Delaware,CAA,23-Jul,-4.4,-3.2,-7.6,2016
+292,Rutgers,Big Ten,25-Jul,-2.9,-4.8,-7.7,2016
+293,Liberty,Big South,13-19,-9.5,1.8,-7.7,2016
+294,Marist,MAAC,23-Jul,-1.6,-6.1,-7.7,2016
+295,Holy Cross,Patriot,15-20,-8.2,0.4,-7.7,2016
+296,North Carolina Central,MEAC,13-19,-6.8,-0.9,-7.8,2016
+297,Jacksonville St.,Ohio Valley E,23-Aug,-7.0,-0.7,-7.8,2016
+298,American,Patriot,19-Dec,-13.0,5.1,-7.9,2016
+299,Niagara,MAAC,25-Jul,-7.9,0.0,-7.9,2016
+300,Bethune-Cookman,MEAC,14-18,-5.1,-2.8,-7.9,2016
+301,Abilene Christian,Southland,13-18,-5.2,-2.8,-8.0,2016
+302,Alabama St.,SWAC,14-17,-2.7,-5.3,-8.0,2016
+303,New Orleans,Southland,20-Oct,-2.2,-5.9,-8.1,2016
+304,Rice,C-USA,20-Dec,0.0,-8.1,-8.1,2016
+305,Seattle,WAC,15-17,-9.4,1.3,-8.1,2016
+306,North Texas,C-USA,20-Dec,-1.7,-6.5,-8.1,2016
+307,San Diego,WCC,21-Sep,-10.5,2.4,-8.1,2016
+308,SIU-Edwardsville,Ohio Valley W,22-Jun,-7.3,-0.9,-8.2,2016
+309,Alabama A&M,SWAC,18-Nov,-5.2,-3.1,-8.4,2016
+310,Florida Atlantic,C-USA,25-Aug,-6.9,-1.6,-8.6,2016
+311,UMass Lowell,Am. East,18-Nov,1.0,-9.6,-8.6,2016
+312,The Citadel,Southern,22-Oct,7.7,-16.3,-8.6,2016
+313,VMI,Southern,21-Sep,-4.9,-3.9,-8.8,2016
+314,SE Louisiana,Southland,21-Dec,-4.3,-4.7,-9.0,2016
+315,Northern Colorado,Big Sky,21-Oct,-1.2,-7.8,-9.0,2016
+316,Morgan St.,MEAC,22-Sep,-6.1,-3.0,-9.2,2016
+317,Central Arkansas,Southland,21-Jul,0.2,-9.4,-9.3,2016
+318,Binghamton,Am. East,22-Aug,-12.2,2.9,-9.3,2016
+319,Lamar,Southland,19-Nov,-2.6,-6.7,-9.4,2016
+320,Hartford,Am. East,23-Oct,-2.2,-7.3,-9.4,2016
+321,Maryland-Eastern Shore,MEAC,22-Oct,-5.0,-4.7,-9.7,2016
+322,Presbyterian,Big South,20-Nov,-7.3,-2.4,-9.7,2016
+323,Southern Miss,C-USA,21-Aug,-9.8,0.0,-9.8,2016
+324,UMBC,Am. East,25-Jul,-1.8,-8.1,-9.9,2016
+325,Lafayette,Patriot,24-Jun,-1.1,-8.7,-9.9,2016
+326,South Carolina Upstate,A-Sun,22-Oct,-4.7,-5.3,-9.9,2016
+327,Alcorn St.,SWAC,15-15,-6.4,-3.6,-10.0,2016
+328,Howard,MEAC,20-Dec,-4.4,-5.8,-10.2,2016
+329,UIC,Horizon,25-May,-6.0,-4.9,-10.9,2016
+330,Bradley,MVC,27-May,-12.5,1.5,-10.9,2016
+331,Northwestern St.,Southland,20-Aug,2.0,-13.0,-11.0,2016
+332,Northern Arizona,Big Sky,25-May,-4.5,-6.9,-11.4,2016
+333,Maine,Am. East,22-Aug,0.9,-12.5,-11.5,2016
+334,Prairie View,SWAC,24-Jul,-10.4,-1.3,-11.7,2016
+335,McNeese St.,Southland,20-Sep,-4.9,-6.8,-11.7,2016
+336,SE Missouri St.,Ohio Valley W,24-May,-6.2,-5.5,-11.7,2016
+337,Savannah St.,MEAC,16-16,-12.7,1.0,-11.7,2016
+338,Southern Utah,Big Sky,24-May,-3.2,-8.8,-12.0,2016
+339,Coppin St.,MEAC,22-Sep,-2.8,-9.3,-12.1,2016
+340,Nicholls St.,Southland,23-Nov,-8.0,-4.3,-12.3,2016
+341,North Carolina A&T,MEAC,22-Oct,-6.2,-6.4,-12.6,2016
+342,Grambling St.,SWAC,24-Jul,-12.0,-0.7,-12.7,2016
+343,UTSA,C-USA,27-May,-2.1,-10.9,-13.0,2016
+344,Chicago St.,WAC,28-Apr,-6.7,-6.5,-13.2,2016
+345,Bryant,NEC,23-Aug,-7.8,-5.4,-13.3,2016
+346,Arkansas Pine Bluff,SWAC,25-Aug,-13.9,0.3,-13.6,2016
+347,Mississippi Valley St.,SWAC,27-Aug,-6.3,-7.5,-13.8,2016
+348,Delaware St.,MEAC,25-Jul,-11.2,-3.9,-15.1,2016
+349,UT Rio Grande Valley,WAC,22-Aug,-7.7,-7.8,-15.5,2016
+350,Florida A&M,MEAC,21-Aug,-11.3,-4.5,-15.8,2016
+351,Central Connecticut,NEC,25-Apr,-8.0,-8.0,-16.0,2016
+1,Gonzaga,WCC,37-2,10.8,9.5,20.4,2017
+2,Villanova,Big East,32-4,11.9,8.4,20.3,2017
+3,North Carolina,ACC,33-7,11.3,8.2,19.4,2017
+4,Kansas,Big 12,31-5,12.1,6.3,18.4,2017
+5,Florida,SEC,27-9,8.5,9.6,18.1,2017
+6,Louisville,ACC,25-9,7.9,9.9,17.8,2017
+7,Duke,ACC,28-9,11.8,5.9,17.7,2017
+8,West Virginia,Big 12,28-9,8.2,9.4,17.6,2017
+9,Kentucky,SEC,32-6,9.6,7.9,17.5,2017
+10,Oregon,Pac-12,33-6,10.7,6.8,17.4,2017
+11,Virginia,ACC,23-11,5.8,11.4,17.2,2017
+12,UCLA,Pac-12,31-5,14.4,2.4,16.8,2017
+13,Saint Mary's,WCC,29-5,10.9,5.7,16.6,2017
+14,Purdue,Big Ten,27-8,8.9,7.2,16.1,2017
+15,Wichita St.,MVC,31-5,7.2,8.5,15.7,2017
+16,Michigan,Big Ten,26-12,11.6,3.9,15.6,2017
+17,SMU,American,30-5,10.3,5.2,15.5,2017
+18,Baylor,Big 12,27-8,7.9,7.1,15.1,2017
+19,Wisconsin,Big Ten,27-10,6.7,8.3,15.0,2017
+20,Cincinnati,American,30-6,7.0,7.8,14.8,2017
+21,Iowa St.,Big 12,24-11,9.6,5.1,14.7,2017
+22,Arizona,Pac-12,32-5,8.8,5.9,14.7,2017
+23,Notre Dame,ACC,26-10,9.8,4.1,13.9,2017
+24,Florida St.,ACC,26-9,7.6,6.3,13.9,2017
+25,Butler,Big East,25-9,8.6,4.7,13.3,2017
+26,Oklahoma St.,Big 12,20-13,11.1,1.3,12.4,2017
+27,Creighton,Big East,25-10,8.1,3.9,12.0,2017
+28,South Carolina,SEC,26-11,2.0,9.4,11.4,2017
+29,Marquette,Big East,19-13,9.8,1.0,10.8,2017
+30,Wake Forest,ACC,19-14,10.1,0.7,10.7,2017
+31,Miami FL,ACC,21-12,4.5,6.2,10.7,2017
+32,Indiana,Big Ten,18-16,7.5,3.2,10.6,2017
+33,Xavier,Big East,24-14,6.8,3.6,10.4,2017
+34,Rhode Island,A 10,25-10,4.8,5.6,10.4,2017
+35,Syracuse,ACC,19-15,7.6,2.8,10.4,2017
+36,Dayton,A 10,24-8,4.6,5.6,10.2,2017
+37,Kansas St.,Big 12,21-14,5.1,5.1,10.2,2017
+38,Vanderbilt,SEC,19-16,5.5,4.7,10.2,2017
+39,Clemson,ACC,17-16,6.6,3.5,10.0,2017
+40,Texas Tech,Big 12,18-14,6.0,3.9,9.9,2017
+41,Minnesota,Big Ten,24-10,2.5,7.3,9.8,2017
+42,VCU,A 10,26-9,3.5,6.2,9.7,2017
+43,Michigan St.,Big Ten,20-15,4.6,5.1,9.7,2017
+44,TCU,Big 12,24-15,5.7,4.0,9.7,2017
+45,Arkansas,SEC,26-10,6.5,3.1,9.6,2017
+46,Middle Tennessee,C-USA,31-5,4.9,4.5,9.5,2017
+47,Northwestern,Big Ten,24-12,3.6,5.8,9.4,2017
+48,Houston,American,21-11,6.5,2.7,9.2,2017
+49,Nevada,MW,28-7,7.4,1.6,9.0,2017
+50,Vermont,Am. East,29-6,4.7,4.3,9.0,2017
+51,Maryland,Big Ten,24-9,4.7,4.2,8.9,2017
+52,Virginia Tech,ACC,22-11,7.8,1.0,8.8,2017
+53,Seton Hall,Big East,21-12,4.1,4.3,8.4,2017
+54,Princeton,Ivy,23-7,3.9,4.4,8.3,2017
+55,Providence,Big East,20-13,2.8,5.4,8.3,2017
+56,California,Pac-12,21-13,0.4,7.7,8.1,2017
+57,USC,Pac-12,26-10,6.2,1.6,7.8,2017
+58,Alabama,SEC,19-15,-0.3,8.1,7.8,2017
+59,Utah,Pac-12,20-12,4.2,3.4,7.7,2017
+60,UNC Wilmington,CAA,29-6,8.0,-0.4,7.6,2017
+61,Georgetown,Big East,14-18,2.8,4.4,7.2,2017
+62,Tennessee,SEC,16-16,3.2,4.0,7.2,2017
+63,Illinois,Big Ten,20-15,2.4,4.7,7.2,2017
+64,Illinois St.,MVC,28-7,0.6,6.6,7.2,2017
+65,UCF,American,24-12,0.0,6.9,7.0,2017
+66,Ohio St.,Big Ten,17-15,3.9,3.1,6.9,2017
+67,UT Arlington,Sun Belt,27-9,4.0,2.7,6.7,2017
+68,Georgia,SEC,19-15,1.7,4.9,6.5,2017
+69,Oklahoma,Big 12,20-Nov,1.1,5.3,6.4,2017
+70,Texas,Big 12,22-Nov,0.2,6.2,6.4,2017
+71,Pittsburgh,ACC,16-17,5.9,0.4,6.2,2017
+72,Belmont,Ohio Valley E,23-7,5.0,1.1,6.2,2017
+73,Texas A&M,SEC,16-15,2.6,3.5,6.1,2017
+74,Davidson,A 10,17-15,3.8,2.3,6.1,2017
+75,Mississippi,SEC,22-14,3.6,2.5,6.1,2017
+76,East Tennessee St.,Southern,27-8,2.4,3.7,6.1,2017
+77,Monmouth,MAAC,27-7,2.3,3.4,5.7,2017
+78,Florida Gulf Coast,A-Sun,26-8,3.9,1.5,5.4,2017
+79,Iowa,Big Ten,19-15,4.1,1.3,5.4,2017
+80,BYU,WCC,22-12,2.5,2.9,5.4,2017
+81,Bucknell,Patriot,26-9,2.8,2.4,5.2,2017
+82,Auburn,SEC,18-14,3.8,1.3,5.2,2017
+83,St. Bonaventure,A 10,20-12,2.8,2.2,5.1,2017
+84,Akron,MAC E,27-9,5.3,-0.2,5.0,2017
+85,San Diego St.,MW,19-14,-0.7,5.6,4.9,2017
+86,Georgia Tech,ACC,21-16,-2.5,7.4,4.9,2017
+87,North Carolina St.,ACC,15-17,5.6,-0.8,4.8,2017
+88,Penn St.,Big Ten,15-18,-0.4,4.8,4.5,2017
+89,Louisiana Tech,C-USA,23-10,1.5,3.0,4.5,2017
+90,Ohio,MAC E,20-11,1.2,3.2,4.5,2017
+91,Connecticut,American,16-17,1.0,3.4,4.5,2017
+92,Colorado,Pac-12,19-15,3.5,0.9,4.4,2017
+93,College of Charleston,CAA,25-10,0.0,4.4,4.4,2017
+94,UNC Asheville,Big South,23-10,2.0,2.3,4.3,2017
+95,Furman,Southern,23-12,2.0,2.2,4.2,2017
+96,Richmond,A 10,22-13,3.6,0.6,4.2,2017
+97,Saint Peter's,MAAC,23-13,-1.1,5.1,4.0,2017
+98,Loyola Chicago,MVC,18-14,2.6,1.3,3.9,2017
+99,Mississippi St.,SEC,16-16,1.3,2.5,3.9,2017
+100,New Mexico St.,WAC,28-6,3.0,0.8,3.9,2017
+101,Oakland,Horizon,25-9,0.5,3.2,3.8,2017
+102,St. John's,Big East,14-19,2.0,1.8,3.8,2017
+103,Boise St.,MW,20-12,2.6,1.2,3.7,2017
+104,Winthrop,Big South,26-7,1.5,2.3,3.7,2017
+105,Harvard,Ivy,18-10,0.7,2.8,3.5,2017
+106,Chattanooga,Southern,19-12,1.1,2.3,3.5,2017
+107,Cal St. Bakersfield,WAC,25-10,-1.7,5.1,3.4,2017
+108,Fresno St.,MW,20-13,0.0,3.4,3.3,2017
+109,Valparaiso,Horizon,24-9,0.7,2.5,3.2,2017
+110,Temple,American,16-16,2.0,1.0,2.9,2017
+111,Towson,CAA,20-13,0.7,2.2,2.9,2017
+112,Lehigh,Patriot,20-12,1.9,1.0,2.9,2017
+113,Toledo,MAC W,17-17,3.5,-0.7,2.9,2017
+114,Louisiana,Sun Belt,21-12,4.1,-1.3,2.8,2017
+115,Albany,Am. East,21-14,2.2,0.6,2.8,2017
+116,Memphis,American,19-13,0.9,1.8,2.7,2017
+117,William & Mary,CAA,17-14,5.1,-2.5,2.6,2017
+118,Santa Clara,WCC,17-16,1.5,1.1,2.6,2017
+119,San Francisco,WCC,20-13,-0.8,3.3,2.5,2017
+120,Nebraska,Big Ten,19-Dec,-0.2,2.6,2.5,2017
+121,Fort Wayne,Summit,20-13,3.6,-1.1,2.5,2017
+122,Old Dominion,C-USA,19-12,-2.9,5.1,2.2,2017
+123,UC Irvine,Big West,21-15,-1.2,3.4,2.2,2017
+124,Buffalo,MAC E,17-15,0.3,1.9,2.1,2017
+125,Stanford,Pac-12,14-17,-0.1,2.2,2.1,2017
+126,UNC Greensboro,Southern,25-10,2.1,-0.1,2.1,2017
+127,Missouri St.,MVC,17-16,2.4,-0.4,2.0,2017
+128,Troy,Sun Belt,22-15,3.4,-1.4,2.0,2017
+129,Arkansas St.,Sun Belt,20-12,0.2,1.7,1.9,2017
+130,New Mexico,MW,17-14,1.6,0.3,1.9,2017
+131,Colorado St.,MW,24-12,1.7,0.2,1.9,2017
+132,Eastern Michigan,MAC W,16-17,0.7,1.1,1.8,2017
+133,La Salle,A 10,15-15,3.8,-2.0,1.7,2017
+134,Georgia St.,Sun Belt,20-13,0.0,1.7,1.7,2017
+135,Weber St.,Big Sky,20-14,3.9,-2.3,1.6,2017
+136,Yale,Ivy,18-11,0.8,0.8,1.6,2017
+137,Lipscomb,A-Sun,20-13,2.7,-1.2,1.5,2017
+138,George Mason,A 10,20-14,1.5,0.1,1.5,2017
+139,Rutgers,Big Ten,15-18,-2.3,3.8,1.5,2017
+140,Kent St.,MAC E,22-14,0.7,0.7,1.4,2017
+141,Mercer,Southern,15-17,2.7,-1.3,1.4,2017
+142,North Dakota,Big Sky,22-10,1.2,0.2,1.4,2017
+143,North Carolina Central,MEAC,25-9,-0.7,2.0,1.3,2017
+144,Gardner-Webb,Big South,19-14,-0.5,1.8,1.3,2017
+145,Iona,MAAC,22-13,4.3,-3.2,1.2,2017
+146,Elon,CAA,18-14,0.3,0.8,1.2,2017
+147,George Washington,A 10,20-15,1.6,-0.4,1.1,2017
+148,Siena,MAAC,17-17,1.4,-0.3,1.1,2017
+149,Wofford,Southern,16-17,4.2,-3.1,1.1,2017
+150,Penn,Ivy,13-15,-1.0,2.1,1.0,2017
+151,Northeastern,CAA,15-16,1.2,-0.2,1.0,2017
+152,Massachusetts,A 10,15-18,-2.5,3.5,1.0,2017
+153,Georgia Southern,Sun Belt,18-15,1.4,-0.7,0.7,2017
+154,Wright St.,Horizon,20-12,0.7,0.0,0.7,2017
+155,Ball St.,MAC W,21-13,1.0,-0.3,0.7,2017
+156,Marshall,C-USA,20-15,3.3,-2.7,0.6,2017
+157,North Dakota St.,Summit,19-11,1.0,-0.4,0.6,2017
+158,Boston College,ACC,23-Sep,-0.1,0.6,0.5,2017
+159,South Dakota,Summit,22-12,-0.7,1.0,0.3,2017
+160,Tulsa,American,15-17,-0.7,1.0,0.2,2017
+161,Western Michigan,MAC W,16-16,1.4,-1.2,0.2,2017
+162,Utah St.,MW,14-17,0.7,-0.6,0.1,2017
+163,UAB,C-USA,17-16,0.4,-0.4,0.1,2017
+164,Rice,C-USA,23-12,1.5,-1.4,0.0,2017
+165,Arizona St.,Pac-12,15-18,3.9,-4.0,0.0,2017
+166,New Hampshire,Am. East,20-12,-1.7,1.7,-0.1,2017
+167,Evansville,MVC,16-17,-1.3,1.2,-0.2,2017
+168,Loyola Marymount,WCC,15-15,-1.5,1.3,-0.2,2017
+169,Northern Iowa,MVC,14-16,-4.1,4.0,-0.2,2017
+170,Northern Kentucky,Horizon,24-11,0.5,-0.7,-0.2,2017
+171,Jacksonville St.,Ohio Valley E,20-15,1.0,-1.2,-0.2,2017
+172,Missouri,SEC,24-Aug,-2.6,2.4,-0.2,2017
+173,Green Bay,Horizon,18-14,-1.9,1.7,-0.2,2017
+174,Omaha,Summit,18-14,2.2,-2.5,-0.3,2017
+175,Saint Joseph's,A 10,20-Nov,-1.6,1.3,-0.3,2017
+176,Hofstra,CAA,15-17,4.2,-4.6,-0.4,2017
+177,Samford,Southern,20-16,1.2,-1.6,-0.4,2017
+178,Southern Illinois,MVC,17-16,-0.7,0.2,-0.5,2017
+179,Boston University,Patriot,18-14,-1.2,0.6,-0.6,2017
+180,Canisius,MAAC,18-16,2.5,-3.2,-0.7,2017
+181,Eastern Washington,Big Sky,22-12,3.7,-4.4,-0.7,2017
+182,Tennessee St.,Ohio Valley E,17-13,-3.2,2.3,-0.8,2017
+183,Hawaii,Big West,14-16,-1.0,0.2,-0.8,2017
+184,Washington,Pac-12,22-Sep,1.9,-2.7,-0.9,2017
+185,Texas Southern,SWAC,23-12,1.3,-2.2,-0.9,2017
+186,Texas St.,Sun Belt,22-14,-3.2,2.3,-0.9,2017
+187,DePaul,Big East,23-Sep,-0.7,-0.2,-1.0,2017
+188,South Dakota St.,Summit,18-17,3.1,-4.1,-1.0,2017
+189,East Carolina,American,15-18,-4.4,3.3,-1.0,2017
+190,Wyoming,MW,23-15,-1.6,0.5,-1.1,2017
+191,LSU,SEC,21-Oct,2.1,-3.2,-1.1,2017
+192,Indiana St.,MVC,20-Nov,-2.5,1.4,-1.2,2017
+193,UMBC,Am. East,21-13,2.6,-3.9,-1.3,2017
+194,Montana,Big Sky,16-16,0.8,-2.1,-1.3,2017
+195,Utah Valley,WAC,17-17,-3.3,2.0,-1.4,2017
+196,Morehead St.,Ohio Valley E,14-16,0.5,-2.0,-1.5,2017
+197,Murray St.,Ohio Valley W,16-17,1.6,-3.1,-1.5,2017
+198,Central Michigan,MAC W,16-16,4.6,-6.2,-1.6,2017
+199,IUPUI,Summit,14-18,1.0,-2.6,-1.6,2017
+200,Northern Illinois,MAC W,15-17,-3.0,1.4,-1.6,2017
+201,Fairfield,MAAC,16-15,-2.6,0.9,-1.7,2017
+202,Portland St.,Big Sky,15-16,1.9,-3.7,-1.8,2017
+203,Grand Canyon,WAC,22-9,-1.5,-0.3,-1.9,2017
+204,Denver,Summit,16-14,1.2,-3.1,-1.9,2017
+205,Mount St. Mary's,NEC,20-16,-3.3,1.4,-1.9,2017
+206,Liberty,Big South,21-14,-2.9,1.0,-1.9,2017
+207,Stony Brook,Am. East,18-14,-1.6,-0.4,-1.9,2017
+208,Long Beach St.,Big West,15-19,0.5,-2.5,-2.0,2017
+209,Idaho,Big Sky,19-14,-1.2,-0.9,-2.1,2017
+210,Rider,MAAC,18-15,-2.5,0.4,-2.1,2017
+211,New Orleans,Southland,20-12,-2.7,0.3,-2.4,2017
+212,Columbia,Ivy,16-Nov,-1.8,-0.5,-2.4,2017
+213,Eastern Illinois,Ohio Valley W,14-15,-2.6,0.2,-2.4,2017
+214,Navy,Patriot,16-16,-3.9,1.5,-2.4,2017
+215,Fordham,A 10,13-19,-4.2,1.7,-2.5,2017
+216,Texas A&M-CC,Southland,24-12,-1.7,-0.9,-2.6,2017
+217,Wagner,NEC,16-14,-2.5,-0.2,-2.7,2017
+218,Coastal Carolina,Sun Belt,20-19,-1.7,-1.1,-2.8,2017
+219,Arkansas Little Rock,Sun Belt,15-17,-2.2,-0.6,-2.8,2017
+220,Holy Cross,Patriot,15-17,-3.7,0.9,-2.9,2017
+221,UC Davis,Big West,23-13,-3.4,0.5,-2.9,2017
+222,Western Kentucky,C-USA,15-17,-0.1,-2.8,-2.9,2017
+223,North Florida,A-Sun,15-19,-0.3,-2.8,-3.1,2017
+224,San JosÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© St.,MW,14-16,-2.5,-0.6,-3.1,2017
+225,Washington St.,Pac-12,13-18,-0.8,-2.3,-3.1,2017
+226,Tenn-Martin,Ohio Valley W,22-13,0.7,-3.9,-3.2,2017
+227,Sam Houston St.,Southland,21-13,-4.1,0.9,-3.3,2017
+228,Lamar,Southland,19-15,-0.9,-2.5,-3.4,2017
+229,Duquesne,A 10,22-Oct,-2.9,-0.6,-3.4,2017
+230,South Alabama,Sun Belt,14-18,-3.9,0.4,-3.5,2017
+231,Drexel,CAA,23-Sep,-1.1,-2.5,-3.6,2017
+232,SE Louisiana,Southland,16-16,-4.2,0.6,-3.6,2017
+233,Pacific,WCC,22-Nov,-2.8,-0.8,-3.6,2017
+234,James Madison,CAA,23-Oct,-3.2,-0.4,-3.6,2017
+235,South Carolina Upstate,A-Sun,17-16,0.0,-3.7,-3.7,2017
+236,UTEP,C-USA,15-17,-3.0,-0.8,-3.8,2017
+237,LIU Brooklyn,NEC,20-12,-2.9,-1.2,-4.1,2017
+238,St. Francis (PA),NEC,17-17,-1.5,-2.7,-4.1,2017
+239,UNLV,MW,21-Nov,-2.0,-2.1,-4.1,2017
+240,Charlotte,C-USA,13-17,-0.8,-3.4,-4.1,2017
+241,Bradley,MVC,13-20,-5.2,1.0,-4.2,2017
+242,Oral Roberts,Summit,22-Aug,0.1,-4.4,-4.3,2017
+243,Houston Baptist,Southland,17-14,0.1,-4.4,-4.3,2017
+244,Bowling Green,MAC E,13-19,-3.2,-1.2,-4.4,2017
+245,UIC,Horizon,17-19,-2.7,-1.7,-4.4,2017
+246,Tennessee Tech,Ohio Valley E,20-Dec,-3.8,-0.6,-4.4,2017
+247,Fairleigh Dickinson,NEC,19-Nov,-0.4,-4.0,-4.4,2017
+248,Cleveland St.,Horizon,22-Sep,-5.5,1.0,-4.5,2017
+249,Jacksonville,A-Sun,17-16,-0.2,-4.3,-4.5,2017
+250,Montana St.,Big Sky,16-16,-0.7,-3.8,-4.5,2017
+251,Appalachian St.,Sun Belt,21-Sep,-2.5,-2.1,-4.6,2017
+252,NJIT,A-Sun,20-Nov,-3.2,-1.4,-4.7,2017
+253,Army,Patriot,13-19,-4.3,-0.3,-4.7,2017
+254,Cal St. Fullerton,Big West,17-15,-4.6,-0.3,-4.8,2017
+255,Loyola MD,Patriot,16-17,-5.1,0.2,-4.9,2017
+256,Tulane,American,25-Jun,-2.1,-2.8,-4.9,2017
+257,UMKC,WAC,18-17,-1.4,-3.6,-5.0,2017
+258,SE Missouri St.,Ohio Valley W,15-18,-1.5,-3.6,-5.0,2017
+259,UL Monroe,Sun Belt,24-Sep,-3.9,-1.1,-5.0,2017
+260,High Point,Big South,15-16,-3.2,-1.9,-5.1,2017
+261,Kennesaw St.,A-Sun,14-18,-1.4,-3.8,-5.2,2017
+262,Stephen F. Austin,Southland,18-15,-5.6,0.4,-5.2,2017
+263,Campbell,Big South,19-18,-2.3,-3.0,-5.3,2017
+264,Robert Morris,NEC,14-19,-8.2,2.9,-5.3,2017
+265,Cornell,Ivy,21-Aug,-2.9,-2.4,-5.3,2017
+266,Air Force,MW,21-Dec,-0.2,-5.2,-5.4,2017
+267,Brown,Ivy,13-17,-0.8,-4.7,-5.5,2017
+268,Cal St. Northridge,Big West,19-Nov,-0.1,-5.5,-5.5,2017
+269,Portland,WCC,22-Nov,-3.5,-2.2,-5.7,2017
+270,Eastern Kentucky,Ohio Valley E,19-Dec,-3.4,-2.3,-5.7,2017
+271,Niagara,MAAC,23-Oct,-2.9,-2.9,-5.8,2017
+272,Colgate,Patriot,22-Oct,-3.2,-2.6,-5.8,2017
+273,Northern Colorado,Big Sky,18-Nov,-4.0,-2.0,-5.9,2017
+274,San Diego,WCC,13-18,-3.5,-2.5,-5.9,2017
+275,UMass Lowell,Am. East,20-Nov,0.0,-6.0,-6.0,2017
+276,Sacramento St.,Big Sky,13-18,-1.8,-4.3,-6.1,2017
+277,Oregon St.,Pac-12,27-May,-5.0,-1.2,-6.2,2017
+278,Bryant,NEC,20-Dec,-1.4,-4.8,-6.2,2017
+279,Miami (OH),MAC E,21-Nov,-5.8,-0.4,-6.2,2017
+280,Manhattan,MAAC,22-Oct,-4.8,-1.5,-6.2,2017
+281,Quinnipiac,MAAC,21-Oct,-2.3,-3.9,-6.2,2017
+282,Charleston Southern,Big South,19-Dec,-1.1,-5.2,-6.3,2017
+283,Florida Int'l,C-USA,24-Jul,-1.7,-4.7,-6.4,2017
+284,UTSA,C-USA,14-19,-5.8,-0.6,-6.4,2017
+285,Drake,MVC,24-Jul,-1.6,-5.0,-6.5,2017
+286,Milwaukee,Horizon,24-Nov,-2.9,-3.7,-6.6,2017
+287,Saint Louis,A 10,21-Dec,-6.0,-0.8,-6.8,2017
+288,Alcorn St.,SWAC,18-14,-5.5,-1.4,-6.9,2017
+289,Youngstown St.,Horizon,13-21,-1.8,-5.1,-6.9,2017
+290,Florida Atlantic,C-USA,20-Oct,-4.5,-2.5,-6.9,2017
+291,Western Illinois,Summit,20-Aug,-4.9,-2.2,-7.0,2017
+292,Detroit,Horizon,23-Aug,-0.8,-6.2,-7.1,2017
+293,The Citadel,Southern,21-Dec,0.1,-7.2,-7.1,2017
+294,Seattle,WAC,13-17,-5.8,-1.3,-7.1,2017
+295,Dartmouth,Ivy,20-Jul,-3.5,-3.6,-7.2,2017
+296,Radford,Big South,14-18,-5.5,-1.7,-7.2,2017
+297,Binghamton,Am. East,20-Dec,-4.1,-3.1,-7.2,2017
+298,South Florida,American,23-Jul,-5.4,-1.9,-7.3,2017
+299,UC Riverside,Big West,21-Jul,-7.1,-0.2,-7.4,2017
+300,Norfolk St.,MEAC,17-17,-6.3,-1.2,-7.5,2017
+301,Delaware,CAA,13-20,-4.8,-2.8,-7.6,2017
+302,Sacred Heart,NEC,13-19,-4.5,-3.2,-7.6,2017
+303,Austin Peay,Ohio Valley W,19-Nov,-0.1,-7.7,-7.8,2017
+304,American,Patriot,22-Aug,-6.0,-2.0,-8.0,2017
+305,Marist,MAAC,24-Aug,-2.3,-5.8,-8.0,2017
+306,Prairie View,SWAC,13-20,-5.1,-3.1,-8.2,2017
+307,Northwestern St.,Southland,13-16,-2.9,-5.4,-8.3,2017
+308,Stetson,A-Sun,21-Nov,-2.2,-6.2,-8.4,2017
+309,Pepperdine,WCC,22-Sep,-2.7,-5.7,-8.5,2017
+310,Hampton,MEAC,14-17,-7.6,-1.1,-8.7,2017
+311,Cal Poly,Big West,20-Nov,-3.1,-5.6,-8.7,2017
+312,Abilene Christian,Southland,13-16,-5.3,-3.5,-8.8,2017
+313,North Texas,C-USA,22-Aug,-5.9,-3.0,-8.9,2017
+314,Southern,SWAC,15-18,-4.5,-4.6,-9.1,2017
+315,UT Rio Grande Valley,WAC,22-Oct,-3.8,-5.5,-9.3,2017
+316,UC Santa Barbara,Big West,22-Jun,-7.0,-2.4,-9.4,2017
+317,Jackson St.,SWAC,14-18,-7.5,-2.0,-9.5,2017
+318,Incarnate Word,Southland,17-Dec,-2.9,-6.6,-9.5,2017
+319,Central Arkansas,Southland,24-Aug,-1.8,-7.7,-9.5,2017
+320,Maryland-Eastern Shore,MEAC,14-20,-4.4,-5.2,-9.6,2017
+321,Nicholls St.,Southland,14-17,-4.9,-4.8,-9.7,2017
+322,Grambling St.,SWAC,16-17,-6.3,-4.0,-10.3,2017
+323,Savannah St.,MEAC,13-16,-4.0,-6.4,-10.3,2017
+324,Morgan St.,MEAC,14-16,-8.8,-1.7,-10.4,2017
+325,VMI,Southern,24-Jun,-5.1,-5.3,-10.4,2017
+326,SIU-Edwardsville,Ohio Valley W,24-Jun,-7.5,-3.0,-10.4,2017
+327,Southern Utah,Big Sky,27-Jun,-2.0,-8.5,-10.5,2017
+328,Idaho St.,Big Sky,26-May,-4.3,-6.5,-10.8,2017
+329,Southern Miss,C-USA,22-Sep,-8.5,-2.4,-10.9,2017
+330,Lafayette,Patriot,21-Sep,-5.2,-5.7,-10.9,2017
+331,Hartford,Am. East,23-Sep,-7.6,-3.5,-11.1,2017
+332,Northern Arizona,Big Sky,23-Sep,-6.0,-5.1,-11.1,2017
+333,Maine,Am. East,25-Jul,-7.8,-3.5,-11.2,2017
+334,Western Carolina,Southern,23-Sep,-10.6,-0.7,-11.4,2017
+335,McNeese St.,Southland,22-Jul,-6.2,-5.5,-11.7,2017
+336,Alabama St.,SWAC,23-Aug,-7.7,-4.1,-11.9,2017
+337,Delaware St.,MEAC,22-Oct,-6.4,-5.7,-12.1,2017
+338,Howard,MEAC,24-Oct,-9.5,-3.3,-12.8,2017
+339,Central Connecticut,NEC,23-Jun,-7.8,-5.5,-13.3,2017
+340,Mississippi Valley St.,SWAC,25-Jul,-6.0,-7.7,-13.6,2017
+341,Bethune-Cookman,MEAC,22-Oct,-6.8,-7.0,-13.8,2017
+342,South Carolina St.,MEAC,20-Nov,-4.9,-9.2,-14.1,2017
+343,Chicago St.,WAC,26-Jun,-8.5,-5.8,-14.3,2017
+344,St. Francis BKN,NEC,27-Apr,-11.1,-3.4,-14.4,2017
+345,Florida A&M,MEAC,23-Jul,-8.7,-6.2,-14.9,2017
+346,Longwood,Big South,24-Jun,-7.2,-7.8,-15.0,2017
+347,Arkansas Pine Bluff,SWAC,25-Jul,-12.6,-2.9,-15.5,2017
+348,Coppin St.,MEAC,24-Aug,-9.1,-7.8,-16.9,2017
+349,Presbyterian,Big South,25-May,-9.9,-7.4,-17.3,2017
+350,North Carolina A&T,MEAC,29-Mar,-7.4,-10.2,-17.6,2017
+351,Alabama A&M,SWAC,27-Feb,-8.6,-10.6,-19.2,2017
+1,Villanova,Big East,36-4,15.5,7.3,22.8,2018
+2,Virginia,ACC,31-3,7.0,13.2,20.2,2018
+3,Duke,ACC,29-8,12.4,7.5,19.8,2018
+4,Purdue,Big Ten,30-7,12.0,7.0,19.0,2018
+5,Cincinnati,American,31-5,6.3,12.2,18.5,2018
+6,Michigan St.,Big Ten,30-5,10.1,7.7,17.8,2018
+7,Kansas,Big 12,31-8,11.2,5.2,16.5,2018
+8,North Carolina,ACC,26-11,10.3,5.8,16.1,2018
+9,West Virginia,Big 12,26-11,9.4,6.4,15.8,2018
+10,Gonzaga,WCC,32-5,9.4,5.9,15.4,2018
+11,Texas Tech,Big 12,27-10,5.8,9.3,15.1,2018
+12,Michigan,Big Ten,33-8,6.5,8.5,15.1,2018
+13,Xavier,Big East,29-6,10.5,4.2,14.7,2018
+14,Tennessee,SEC,26-9,6.0,8.3,14.4,2018
+15,Wichita St.,American,25-8,10.4,3.8,14.2,2018
+16,Clemson,ACC,25-10,6.0,7.9,14.0,2018
+17,Ohio St.,Big Ten,25-9,7.3,6.6,13.8,2018
+18,Houston,American,27-8,6.8,6.6,13.4,2018
+19,Kentucky,SEC,26-11,7.0,5.9,12.9,2018
+20,Penn St.,Big Ten,26-13,5.5,7.2,12.6,2018
+21,Butler,Big East,21-14,7.0,5.4,12.4,2018
+22,TCU,Big 12,21-12,9.6,2.7,12.3,2018
+23,Auburn,SEC,26-8,7.1,5.1,12.2,2018
+24,Creighton,Big East,21-12,8.1,4.1,12.2,2018
+25,Florida,SEC,21-13,6.5,5.6,12.1,2018
+26,Arizona,Pac-12,27-8,9.4,2.5,11.9,2018
+27,Seton Hall,Big East,22-12,7.7,4.0,11.7,2018
+28,Saint Mary's,WCC,30-6,10.0,1.6,11.6,2018
+29,Florida St.,ACC,23-12,6.2,5.3,11.5,2018
+30,Virginia Tech,ACC,21-12,8.0,3.2,11.2,2018
+31,Nevada,MW,29-8,9.4,1.7,11.2,2018
+32,Texas A&M,SEC,22-13,4.1,6.7,10.8,2018
+33,Davidson,A 10,21-12,8.9,1.7,10.7,2018
+34,Louisville,ACC,22-14,4.9,5.7,10.6,2018
+35,Miami FL,ACC,22-10,4.9,5.7,10.6,2018
+36,Rhode Island,A 10,26-8,4.7,5.9,10.5,2018
+37,Notre Dame,ACC,21-15,6.9,3.6,10.4,2018
+38,Baylor,Big 12,19-15,5.0,5.4,10.4,2018
+39,Maryland,Big Ten,19-13,5.7,4.5,10.2,2018
+40,Texas,Big 12,19-15,3.2,6.8,10.0,2018
+41,Arkansas,SEC,23-12,7.6,2.4,10.0,2018
+42,Middle Tennessee,C-USA,25-8,4.3,5.4,9.7,2018
+43,Loyola Chicago,MVC,32-6,4.6,5.0,9.6,2018
+44,Oklahoma,Big 12,18-14,6.8,2.7,9.4,2018
+45,Syracuse,ACC,23-14,1.2,8.3,9.4,2018
+46,Arizona St.,Pac-12,20-12,7.3,2.0,9.2,2018
+47,Kansas St.,Big 12,25-12,3.5,5.7,9.2,2018
+48,Nc St.,ACC,21-12,7.0,2.2,9.2,2018
+49,Missouri,SEC,20-13,4.4,4.8,9.1,2018
+50,Marquette,Big East,21-14,9.2,-0.2,9.0,2018
+51,USC,Pac-12,24-12,6.3,2.6,8.9,2018
+52,Western Kentucky,C-USA,27-11,5.8,3.0,8.8,2018
+53,San Diego St.,MW,22-11,3.6,5.1,8.8,2018
+54,Alabama,SEC,20-16,2.7,6.0,8.6,2018
+55,Louisiana,Sun Belt,27-7,5.7,2.9,8.6,2018
+56,UCLA,Pac-12,21-12,6.9,1.3,8.1,2018
+57,Boise St.,MW,23-9,3.1,5.0,8.1,2018
+58,Mississippi St.,SEC,25-12,3.0,5.0,8.0,2018
+59,Old Dominion,C-USA,25-7,2.0,6.0,8.0,2018
+60,St. Bonaventure,A 10,26-8,4.2,3.8,8.0,2018
+61,Oklahoma St.,Big 12,21-15,3.7,4.2,7.9,2018
+62,Providence,Big East,21-14,2.5,5.1,7.7,2018
+63,Murray St.,OVC,26-6,5.6,2.0,7.6,2018
+64,Nebraska,Big Ten,22-11,3.2,4.4,7.6,2018
+65,Wisconsin,Big Ten,15-18,3.4,4.1,7.5,2018
+66,Vermont,Am. East,27-8,5.8,1.5,7.4,2018
+67,LSU,SEC,18-15,6.7,0.5,7.2,2018
+68,Utah,Pac-12,23-12,4.1,3.1,7.2,2018
+69,Furman,Southern,23-10,4.0,3.0,7.0,2018
+70,New Mexico St.,WAC,28-6,1.7,5.3,6.9,2018
+71,SMU,American,17-16,4.0,2.9,6.9,2018
+72,Oregon,Pac-12,23-13,4.4,2.4,6.9,2018
+73,South Dakota,Summit,26-9,3.1,3.7,6.8,2018
+74,Northwestern,Big Ten,15-17,3.1,3.7,6.8,2018
+75,Northern Kentucky,Horizon,22-10,2.5,4.3,6.7,2018
+76,Buffalo,MAC E,27-9,5.3,1.4,6.7,2018
+77,Georgia,SEC,18-15,0.7,5.9,6.7,2018
+78,Indiana,Big Ten,16-15,2.9,3.7,6.6,2018
+79,Belmont,OVC,24-9,5.6,0.9,6.5,2018
+80,Boston College,ACC,19-16,4.9,1.5,6.4,2018
+81,Bucknell,Patriot,25-10,3.8,2.6,6.4,2018
+82,BYU,WCC,24-11,2.3,4.0,6.3,2018
+83,St. John'S,Big East,16-17,0.6,5.6,6.3,2018
+84,Fresno St.,MW,21-11,3.9,2.3,6.2,2018
+85,UNC Greensboro,Southern,27-8,0.1,6.0,6.1,2018
+86,Temple,American,17-16,3.0,3.0,6.0,2018
+87,South Dakota St.,Summit,28-7,6.0,-0.1,5.9,2018
+88,East Tennessee St.,Southern,25-9,0.7,5.2,5.9,2018
+89,Vanderbilt,SEC,20-Dec,6.0,-0.2,5.8,2018
+90,Iowa,Big Ten,14-19,7.4,-1.6,5.8,2018
+91,South Carolina,SEC,17-16,-0.4,6.1,5.7,2018
+92,Utah Valley,WAC,23-11,3.5,1.9,5.4,2018
+93,Wake Forest,ACC,20-Nov,4.3,1.0,5.3,2018
+94,Northeastern,CAA,23-10,2.3,2.7,5.0,2018
+95,Iowa St.,Big 12,13-18,3.1,1.5,4.6,2018
+96,Stanford,Pac-12,19-16,1.2,3.3,4.5,2018
+97,Illinois,Big Ten,14-18,2.7,1.8,4.5,2018
+98,UNLV,MW,20-13,4.9,-0.5,4.5,2018
+99,Georgia St.,Sun Belt,24-11,2.0,2.4,4.4,2018
+100,Penn,Ivy,24-9,-0.1,4.3,4.2,2018
+101,Georgetown,Big East,15-15,2.3,1.8,4.1,2018
+102,Ucf,American,19-13,-2.7,6.7,4.0,2018
+103,Minnesota,Big Ten,15-17,2.4,1.5,3.9,2018
+104,Mississippi,SEC,20-Dec,3.4,0.5,3.9,2018
+105,UAB,C-USA,20-13,2.4,1.4,3.8,2018
+106,New Mexico,MW,19-15,4.6,-0.9,3.7,2018
+107,Montana,Big Sky,26-8,1.2,2.5,3.7,2018
+108,Depaul,Big East,20-Nov,-0.4,4.0,3.7,2018
+109,Washington,Pac-12,21-13,0.7,2.8,3.6,2018
+110,Stephen F. Austin,Southland,28-7,0.1,3.4,3.5,2018
+111,Tulsa,American,19-12,1.7,1.8,3.5,2018
+112,Florida Gulf Coast,A-Sun,23-12,1.7,1.7,3.5,2018
+113,Oregon St.,Pac-12,16-16,1.6,1.7,3.3,2018
+114,College of Charleston,CAA,26-8,2.3,0.9,3.3,2018
+115,Grand Canyon,WAC,22-12,-0.7,3.9,3.2,2018
+116,Iona,MAAC,20-14,4.4,-1.3,3.1,2018
+117,Marshall,C-USA,25-11,2.5,0.6,3.1,2018
+118,Missouri St.,MVC,18-15,1.7,1.3,3.0,2018
+119,Mercer,Southern,19-15,5.3,-2.4,2.9,2018
+120,Toledo,MAC W,23-11,5.2,-2.3,2.8,2018
+121,UT Arlington,Sun Belt,21-13,0.3,2.4,2.7,2018
+122,Saint Joseph'S,A 10,16-16,0.5,2.2,2.7,2018
+123,Northern Colorado,Big Sky,26-12,1.2,1.5,2.7,2018
+124,Georgia Tech,ACC,13-19,-1.0,3.7,2.7,2018
+125,Vcu,A 10,18-15,1.6,1.0,2.6,2018
+126,Rutgers,Big Ten,15-19,-3.8,6.3,2.5,2018
+127,Georgia Southern,Sun Belt,21-12,1.6,0.8,2.5,2018
+128,Jacksonville St.,OVC,23-13,-1.2,3.6,2.4,2018
+129,Canisius,MAAC,21-12,1.4,0.9,2.3,2018
+130,Liberty,Big South,22-15,0.7,1.4,2.1,2018
+131,Northern Iowa,MVC,16-16,-2.3,4.4,2.1,2018
+132,Towson,CAA,18-14,0.8,1.2,2.1,2018
+133,Albany,Am. East,22-10,2.0,-0.1,1.9,2018
+134,Bradley,MVC,20-13,-1.7,3.5,1.8,2018
+135,Louisiana Tech,C-USA,17-16,1.6,0.2,1.8,2018
+136,Wright St.,Horizon,25-10,-2.9,4.6,1.7,2018
+137,Winthrop,Big South,19-12,1.4,0.2,1.7,2018
+138,Rider,MAAC,22-10,2.6,-1.0,1.6,2018
+139,San Diego,WCC,20-14,-1.2,2.7,1.5,2018
+140,La Salle,A 10,13-19,0.8,0.7,1.4,2018
+141,Harvard,Ivy,18-14,-2.4,3.9,1.4,2018
+142,Wofford,Southern,21-13,3.8,-2.4,1.4,2018
+143,Saint Louis,A 10,17-16,-2.2,3.5,1.3,2018
+144,UC Santa Barbara,Big West,23-9,2.6,-1.4,1.2,2018
+145,Portland St.,Big Sky,20-14,2.0,-0.7,1.2,2018
+146,Colorado,Pac-12,17-15,-1.2,2.4,1.2,2018
+147,Hofstra,CAA,19-12,4.5,-3.3,1.2,2018
+148,Idaho,Big Sky,22-9,1.6,-0.4,1.2,2018
+149,UC Irvine,Big West,18-17,-2.3,3.5,1.1,2018
+150,Wyoming,MW,20-13,-0.6,1.7,1.1,2018
+151,Valparaiso,MVC,15-17,-1.7,2.7,1.0,2018
+152,Weber St.,Big Sky,20-11,2.0,-1.0,1.0,2018
+153,Utah St.,MW,17-17,1.3,-0.3,1.0,2018
+154,William & Mary,CAA,19-12,7.2,-6.2,1.0,2018
+155,Oakland,Horizon,19-14,2.1,-1.1,1.0,2018
+156,UMBC,Am. East,25-11,-0.2,0.9,0.7,2018
+157,Southern Illinois,MVC,20-13,-0.2,0.8,0.6,2018
+158,Eastern Washington,Big Sky,20-15,1.9,-1.4,0.6,2018
+159,Illinois St.,MVC,18-15,-0.5,1.0,0.5,2018
+160,Memphis,American,21-13,1.2,-0.7,0.5,2018
+161,UC Davis,Big West,22-11,-1.4,1.9,0.5,2018
+162,Fort Wayne,Summit,18-15,1.8,-1.5,0.2,2018
+163,Dayton,A 10,14-17,2.2,-2.1,0.2,2018
+164,Evansville,MVC,17-15,-3.8,3.9,0.1,2018
+165,Yale,Ivy,16-15,0.7,-0.6,0.1,2018
+166,Troy,Sun Belt,16-17,1.6,-1.5,0.1,2018
+167,Radford,Big South,23-13,-1.0,1.1,0.1,2018
+168,North Texas,C-USA,20-18,0.0,0.0,0.1,2018
+169,North Dakota St.,Summit,15-17,0.7,-0.6,0.1,2018
+170,Tulane,American,14-17,0.7,-0.7,0.0,2018
+171,Eastern Michigan,MAC W,22-13,-2.3,2.2,0.0,2018
+172,Monmouth,MAAC,20-Nov,-0.5,0.3,-0.2,2018
+173,Connecticut,American,14-18,-0.5,0.3,-0.2,2018
+174,San Francisco,WCC,22-17,-2.5,2.2,-0.2,2018
+175,UNC Asheville,Big South,21-13,0.8,-1.1,-0.2,2018
+176,Lipscomb,A-Sun,23-10,-0.8,0.5,-0.2,2018
+177,Princeton,Ivy,13-16,0.6,-0.9,-0.3,2018
+178,Central Michigan,MAC W,21-15,3.0,-3.3,-0.3,2018
+179,Ball St.,MAC W,19-13,-0.8,0.5,-0.3,2018
+180,Drake,MVC,17-17,0.3,-0.7,-0.4,2018
+181,Richmond,A 10,20-Dec,1.7,-2.1,-0.4,2018
+182,UIC,Horizon,20-16,-3.0,2.5,-0.5,2018
+183,Indiana St.,MVC,13-18,-1.6,1.1,-0.5,2018
+184,Wagner,NEC,23-10,-2.5,1.9,-0.6,2018
+185,Nicholls St.,Southland,21-11,-1.1,0.5,-0.7,2018
+186,Cal St. Fullerton,Big West,20-12,-1.8,1.1,-0.7,2018
+187,Colgate,Patriot,19-14,1.0,-1.8,-0.9,2018
+188,Duquesne,A 10,16-16,-0.2,-1.0,-1.1,2018
+189,Pacific,WCC,14-18,0.5,-1.8,-1.2,2018
+190,Appalachian St.,Sun Belt,15-18,-0.9,-0.4,-1.2,2018
+191,UTSA,C-USA,20-15,-0.7,-0.7,-1.3,2018
+192,Lamar,Southland,19-14,-1.6,0.2,-1.4,2018
+193,Miami (OH),MAC E,16-18,-3.0,1.4,-1.5,2018
+194,Campbell,Big South,18-16,1.1,-2.7,-1.6,2018
+195,Massachusetts,A 10,13-20,0.9,-2.6,-1.7,2018
+196,Western Michigan,MAC W,17-15,0.7,-2.4,-1.7,2018
+197,Austin Peay,OVC,19-15,-1.0,-0.8,-1.8,2018
+198,Columbia,Ivy,19-Aug,1.4,-3.3,-1.9,2018
+199,George Washington,A 10,15-18,-1.1,-0.8,-1.9,2018
+200,Ohio,MAC E,14-17,-3.0,1.1,-2.0,2018
+201,High Point,Big South,14-16,-2.8,0.8,-2.1,2018
+202,Navy,Patriot,20-12,-3.1,1.1,-2.1,2018
+203,St. Francis (Pa),NEC,18-13,1.2,-3.3,-2.1,2018
+204,Coastal Carolina,Sun Belt,14-18,-2.0,-0.2,-2.1,2018
+205,South Alabama,Sun Belt,14-18,-5.3,3.1,-2.2,2018
+206,Kent St.,MAC E,17-17,-1.6,-0.7,-2.4,2018
+207,Stony Brook,Am. East,13-19,-4.6,2.2,-2.4,2018
+208,Seattle,WAC,20-14,-0.1,-2.4,-2.4,2018
+209,Saint Peter's,MAAC,14-18,-5.3,2.8,-2.5,2018
+210,Tennessee Tech,OVC,19-14,-3.8,1.2,-2.6,2018
+211,Fairfield,MAAC,17-16,-1.5,-1.1,-2.6,2018
+212,Niagara,MAAC,19-14,2.4,-5.0,-2.6,2018
+213,UL Monroe,Sun Belt,16-16,-2.1,-0.6,-2.7,2018
+214,Texas St.,Sun Belt,15-18,-3.4,0.7,-2.7,2018
+215,Manhattan,MAAC,14-17,-3.4,0.6,-2.7,2018
+216,Charleston Southern,Big South,15-16,-2.3,-0.6,-2.8,2018
+217,Central Arkansas,Southland,18-17,0.4,-3.3,-2.9,2018
+218,SE Louisiana,Southland,22-12,-2.2,-0.8,-3.0,2018
+219,George Mason,A 10,16-17,-2.0,-1.0,-3.0,2018
+220,Sam Houston St.,Southland,21-15,-3.0,0.0,-3.0,2018
+221,Washington St.,Pac-12,19-Dec,0.6,-3.7,-3.0,2018
+222,Lehigh,Patriot,16-14,0.2,-3.3,-3.1,2018
+223,Tennessee St.,OVC,15-15,-5.5,2.2,-3.3,2018
+224,Hartford,Am. East,19-14,-1.8,-1.6,-3.4,2018
+225,Army,Patriot,13-17,-2.5,-0.9,-3.4,2018
+226,James Madison,CAA,22-Oct,-2.4,-1.1,-3.5,2018
+227,Milwaukee,Horizon,16-17,-3.0,-0.5,-3.5,2018
+228,Hawai'I,Big West,17-13,-3.7,0.2,-3.5,2018
+229,Texas Southern,SWAC,16-20,0.7,-4.3,-3.6,2018
+230,Boston University,Patriot,15-16,-2.3,-1.3,-3.6,2018
+231,New Hampshire,Am. East,21-Oct,-3.1,-0.5,-3.6,2018
+232,Elon,CAA,14-18,-0.5,-3.1,-3.7,2018
+233,Denver,Summit,15-15,-1.6,-2.2,-3.7,2018
+234,Long Beach St.,Big West,15-18,-0.5,-3.3,-3.7,2018
+235,Florida Atlantic,C-USA,19-Dec,-5.0,1.0,-4.0,2018
+236,NJIT,A-Sun,14-16,-2.9,-1.3,-4.1,2018
+237,Gardner-Webb,Big South,14-18,-3.3,-0.9,-4.2,2018
+238,Southern Miss,C-USA,16-18,-0.6,-3.6,-4.2,2018
+239,Robert Morris,NEC,16-17,-6.4,2.2,-4.2,2018
+240,Eastern Illinois,OVC,19-Dec,-3.5,-0.8,-4.3,2018
+241,LIU Brooklyn,NEC,18-17,-1.3,-3.2,-4.4,2018
+242,Bowling Green,MAC E,16-16,-1.9,-2.7,-4.5,2018
+243,UNC Wilmington,CAA,21-Nov,0.3,-4.8,-4.5,2018
+244,Green Bay,Horizon,13-20,-3.7,-0.8,-4.6,2018
+245,Loyola Marymount,WCC,20-Nov,0.6,-5.2,-4.6,2018
+246,Mount St. Mary's,NEC,18-14,-0.5,-4.2,-4.6,2018
+247,Pittsburgh,ACC,24-Aug,-4.4,-0.4,-4.8,2018
+248,UTEP,C-USA,20-Nov,-4.1,-0.8,-4.9,2018
+249,Cal St. Bakersfield,WAC,18-Dec,-5.4,0.5,-5.0,2018
+250,Drexel,CAA,13-20,-1.6,-3.3,-5.0,2018
+251,Fairleigh Dickinson,NEC,13-18,-1.5,-3.5,-5.0,2018
+252,Abilene Christian,Southland,16-16,-4.4,-0.7,-5.1,2018
+253,Hampton,MEAC,18-16,-3.4,-1.8,-5.2,2018
+254,Akron,MAC E,14-18,-2.3,-2.9,-5.2,2018
+255,Brown,Ivy,16-Nov,-2.5,-2.7,-5.2,2018
+256,Colorado St.,MW,21-Nov,-1.9,-3.3,-5.3,2018
+257,Northern Illinois,MAC W,13-19,-2.0,-3.3,-5.3,2018
+258,Delaware,CAA,14-19,-1.7,-3.8,-5.5,2018
+259,Florida Int'L,C-USA,14-18,-5.1,-0.6,-5.6,2018
+260,New Orleans,Southland,16-17,-4.4,-1.4,-5.7,2018
+261,Cornell,Ivy,16-Dec,-0.9,-4.8,-5.8,2018
+262,Holy Cross,Patriot,19-Dec,-4.0,-1.7,-5.8,2018
+263,Prairie View,SWAC,16-18,-2.5,-3.2,-5.8,2018
+264,Idaho St.,Big Sky,14-16,-2.6,-3.4,-6.0,2018
+265,Binghamton,Am. East,20-Nov,-3.9,-2.0,-6.0,2018
+266,Arkansas St.,Sun Belt,21-Nov,-0.4,-5.6,-6.0,2018
+267,Omaha,Summit,22-Sep,-0.6,-5.4,-6.0,2018
+268,California,Pac-12,24-Aug,-5.6,-0.5,-6.1,2018
+269,Western Illinois,Summit,16-Dec,-4.9,-1.2,-6.1,2018
+270,Dartmouth,Ivy,20-Jul,-3.2,-2.9,-6.1,2018
+271,North Dakota,Big Sky,20-Dec,-2.2,-3.9,-6.2,2018
+272,North Carolina Central,MEAC,19-16,-4.3,-1.9,-6.2,2018
+273,Lafayette,Patriot,21-Oct,-2.2,-4.1,-6.2,2018
+274,UT Rio Grande Valley,WAC,15-18,-4.1,-2.1,-6.2,2018
+275,SE Missouri St.,OVC,14-17,1.5,-7.7,-6.3,2018
+276,Montana St.,Big Sky,13-19,-1.9,-4.4,-6.4,2018
+277,Samford,Southern,22-Oct,1.7,-8.1,-6.4,2018
+278,Air Force,MW,19-Dec,-2.7,-3.7,-6.4,2018
+279,UMass Lowell,Am. East,18-Dec,-0.8,-5.8,-6.5,2018
+280,Portland,WCC,22-Oct,-3.6,-2.9,-6.5,2018
+281,IUPUI,Horizon,19-Nov,-4.5,-2.0,-6.6,2018
+282,Oral Roberts,Summit,21-Nov,-0.9,-5.7,-6.6,2018
+283,UC Riverside,Big West,22-Sep,-7.8,0.9,-6.9,2018
+284,Quinnipiac,MAAC,21-Dec,-2.2,-4.7,-6.9,2018
+285,Chattanooga,Southern,23-Oct,-3.7,-3.2,-6.9,2018
+286,Pepperdine,WCC,26-Jun,-0.4,-6.5,-6.9,2018
+287,Morehead St.,OVC,21-Aug,-4.2,-2.8,-7.0,2018
+288,Fordham,A 10,22-Sep,-6.6,-0.5,-7.0,2018
+289,South Florida,American,22-Oct,-4.6,-2.5,-7.1,2018
+290,Eastern Kentucky,OVC,20-Nov,-2.0,-5.2,-7.2,2018
+291,Santa Clara,WCC,20-Nov,-2.9,-4.4,-7.3,2018
+292,Western Carolina,Southern,13-19,-5.5,-1.8,-7.3,2018
+293,Loyola MD,Patriot,22-Sep,-5.0,-2.5,-7.4,2018
+294,Cleveland St.,Horizon,23-Dec,-3.9,-3.5,-7.5,2018
+295,Bethune-Cookman,MEAC,18-14,-3.6,-3.9,-7.5,2018
+296,Arkansas Little Rock,Sun Belt,25-Jul,-6.7,-0.9,-7.6,2018
+297,Siena,MAAC,24-Aug,-5.2,-2.3,-7.6,2018
+298,Tenn-Martin,OVC,21-Oct,-5.5,-2.1,-7.6,2018
+299,Southern Utah,Big Sky,13-19,-2.7,-5.0,-7.7,2018
+300,McNeese St.,Southland,17-Nov,-3.4,-4.3,-7.7,2018
+301,The Citadel,Southern,21-Nov,-2.4,-5.4,-7.8,2018
+302,St. Francis Bkn,NEC,13-18,-4.1,-3.8,-7.8,2018
+303,Sacred Heart,NEC,21-Oct,-5.6,-2.3,-7.9,2018
+304,North Florida,A-Sun,14-19,0.2,-8.1,-7.9,2018
+305,North Carolina A&T,MEAC,20-15,-4.1,-3.9,-8.0,2018
+306,Sacramento St.,Big Sky,25-Jul,-3.8,-4.2,-8.0,2018
+307,Kennesaw St.,A-Sun,20-Oct,-4.1,-4.0,-8.1,2018
+308,UMKC,WAC,22-Oct,-5.3,-2.8,-8.1,2018
+309,Central Connecticut,NEC,14-18,-4.2,-3.9,-8.1,2018
+310,Detroit,Horizon,24-Aug,-1.1,-7.1,-8.2,2018
+311,San JosÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© St.,MW,26-Apr,-6.3,-2.0,-8.3,2018
+312,Grambling St.,SWAC,17-14,-6.9,-1.3,-8.3,2018
+313,East Carolina,American,20-Oct,-5.4,-3.0,-8.4,2018
+314,Savannah St.,MEAC,15-17,-3.1,-5.4,-8.4,2018
+315,Norfolk St.,MEAC,14-19,-6.2,-2.4,-8.6,2018
+316,Charlotte,C-USA,23-Jun,-3.6,-5.0,-8.6,2018
+317,Texas A&M-CC,Southland,18-Nov,-7.3,-1.4,-8.7,2018
+318,Rice,C-USA,24-Jul,-5.2,-3.7,-8.9,2018
+319,Youngstown St.,Horizon,24-Aug,-2.9,-6.0,-8.9,2018
+320,SIU-Edwardsville,OVC,21-Sep,-4.3,-4.8,-9.1,2018
+321,Stetson,A-Sun,20-Dec,-3.8,-5.4,-9.1,2018
+322,Southern,SWAC,15-18,-6.3,-2.8,-9.1,2018
+323,Jacksonville,A-Sun,15-18,-6.9,-2.3,-9.2,2018
+324,Morgan St.,MEAC,13-18,-5.5,-3.8,-9.3,2018
+325,Marist,MAAC,25-Jun,-3.5,-6.1,-9.6,2018
+326,Cal Poly,Big West,22-Sep,-4.8,-5.0,-9.8,2018
+327,American,Patriot,24-Jun,-6.2,-3.8,-10.1,2018
+328,Houston Baptist,Southland,25-Jun,-3.5,-6.7,-10.2,2018
+329,Presbyterian,Big South,21-Nov,-4.1,-6.2,-10.3,2018
+330,Maine,Am. East,26-Jun,-9.0,-1.3,-10.3,2018
+331,Arkansas Pine Bluff,SWAC,14-21,-7.4,-3.0,-10.4,2018
+332,VMI,Southern,21-Sep,-9.6,-1.5,-11.0,2018
+333,Cal St. Northridge,Big West,24-Jun,-5.2,-6.1,-11.2,2018
+334,Incarnate Word,Southland,21-Jul,-6.4,-5.3,-11.7,2018
+335,Howard,MEAC,23-Oct,-4.7,-7.2,-11.9,2018
+336,Jackson St.,SWAC,20-Dec,-10.0,-1.9,-11.9,2018
+337,Alcorn St.,SWAC,21-Nov,-6.8,-5.5,-12.3,2018
+338,South Carolina Upstate,A-Sun,25-Jul,-0.8,-12.2,-13.0,2018
+339,Alabama St.,SWAC,23-Aug,-7.1,-6.1,-13.2,2018
+340,Bryant,NEC,28-Mar,-4.3,-9.0,-13.3,2018
+341,Florida A&M,MEAC,25-Sep,-6.6,-6.9,-13.5,2018
+342,Longwood,Big South,26-Jul,-9.7,-4.0,-13.7,2018
+343,Northern Arizona,Big Sky,27-May,-8.9,-5.1,-14.0,2018
+344,South Carolina St.,MEAC,22-Oct,-6.1,-8.3,-14.5,2018
+345,Coppin St.,MEAC,27-May,-12.4,-3.2,-15.6,2018
+346,Northwestern St.,Southland,25-Apr,-11.1,-5.2,-16.2,2018
+347,Mississippi Valley St.,SWAC,28-Apr,-9.9,-6.5,-16.3,2018
+348,Chicago St.,WAC,29-Mar,-7.5,-9.0,-16.5,2018
+349,Delaware St.,MEAC,28-Apr,-9.4,-8.5,-18.0,2018
+350,Alabama A&M,SWAC,28-Mar,-11.7,-7.4,-19.1,2018
+351,Maryland-Eastern Shore,MEAC,25-Jul,-10.1,-9.5,-19.6,2018
